@@ -15,7 +15,7 @@ const config: Config = {
 	},
 
 	// Set the production url of your site here
-	url: "https://lou.github.io",
+	url: "https://help.archispec.fr",
 	// Set the /<baseUrl>/ pathname under which your site is served
 	// For GitHub pages deployment, it is often '/<projectName>/'
 	baseUrl: "/",
@@ -23,7 +23,7 @@ const config: Config = {
 	// GitHub pages deployment config.
 	// If you aren't using GitHub pages, you don't need these.
 	organizationName: "lou", // Usually your GitHub org/user name.
-	projectName: "help-center-archispec", // Usually your repo name.
+	projectName: "help-center-archispec", // Usually your repo name.	deploymentBranch: "gh-pages", // Branch to deploy to
 	trailingSlash: false,
 
 	onBrokenLinks: "throw",

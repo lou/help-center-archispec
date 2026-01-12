@@ -19,5 +19,5 @@ jobs:
             -e TYPESENSE_PORT="443" \
             -e TYPESENSE_PROTOCOL="https" \
             -e TYPESENSE_COLLECTION_NAME="help-center-archispec" \
-            -e CONFIG='{"index_name":"help-center-archispec","sitemap_urls":["https://lou.github.io/help-center-archispec/sitemap.xml"],"start_urls":["https://lou.github.io/help-center-archispec/"],"selectors":{"lvl0":{"selector":"header h1, nav[aria-label=\"Breadcrumbs\"] li:last-child, main header h1","default_value":"Documentation"},"lvl1":"main h1","lvl2":"main h2","lvl3":"main h3","lvl4":"main h4","lvl5":"main h5","content":"main p, main li"}}' \
+            -e CONFIG='{"index_name":"help-center-archispec","sitemap_urls":["https://help.archispec.fr/sitemap.xml"],"start_urls":["https://help.archispec.fr/"],"selectors":{"lvl0":{"selector":"header h1, nav[aria-label=\"Breadcrumbs\"] li:last-child, main header h1","default_value":"Documentation"},"lvl1":"main h1","lvl2":"main h2","lvl3":"main h3","lvl4":"main h4","lvl5":"main h5","content":"main p, main li"}}' \
             typesense/docsearch-scraper:latest
