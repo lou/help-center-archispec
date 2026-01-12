@@ -66,7 +66,7 @@ const config: Config = {
 				],
 				apiKey: "82n8y7slc32p64tnaij71h23ao52n9mp",
 			},
-			typesenseCollectionName: "docusaurus-2",
+			typesenseCollectionName: "help-center-archispec",
 		},
 		// Replace with your project's social card
 		colorMode: {
