@@ -4,8 +4,8 @@
   <ShortName>Centre d&#39;aide Archispec</ShortName>
   <Description>Search Centre d&#39;aide Archispec</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://lou.github.io/help-center-archispec/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://lou.github.io/help-center-archispec/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://lou.github.io/help-center-archispec/opensearch.xml" />
-  <moz:SearchForm>https://lou.github.io/help-center-archispec/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://lou.github.io/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://lou.github.io/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://lou.github.io/opensearch.xml" />
+  <moz:SearchForm>https://lou.github.io/</moz:SearchForm>
 </OpenSearchDescription>
