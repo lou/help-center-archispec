@@ -1,0 +1,23 @@
+name: Reindex Typesense
+
+on:
+  workflow_run:
+    workflows: ["pages-build-deployment"]
+    types:
+      - completed
+
+jobs:
+  index:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run Typesense DocSearch scraper
+        run: |
+          docker run --rm \
+            -e TYPESENSE_API_KEY="${{ secrets.TYPESENSE_ADMIN_KEY }}" \
+            -e TYPESENSE_HOST="typesense-railway-production-c959.up.railway.app" \
+            -e TYPESENSE_PORT="443" \
+            -e TYPESENSE_PROTOCOL="https" \
+            -e TYPESENSE_COLLECTION_NAME="help-center-archispec" \
+            -e CONFIG='{"index_name":"help-center-archispec","sitemap_urls":["https://lou.github.io/help-center-archispec/sitemap.xml"],"start_urls":["https://lou.github.io/help-center-archispec/"],"selectors":{"lvl0":{"selector":"header h1, nav[aria-label=\"Breadcrumbs\"] li:last-child, main header h1","default_value":"Documentation"},"lvl1":"main h1","lvl2":"main h2","lvl3":"main h3","lvl4":"main h4","lvl5":"main h5","content":"main p, main li"}}' \
+            typesense/docsearch-scraper:latest
