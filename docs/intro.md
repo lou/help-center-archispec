@@ -1,48 +1,41 @@
 ---
 sidebar_position: 1
 slug: /
+title: Accueil
 ---
 
-# Tutorial Intro
+# Bienvenue sur Archispec
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Archispec est une plateforme complète de gestion de projets architecturaux qui permet aux professionnels de l'architecture de collaborer efficacement avec leurs clients et de gérer leurs produits et projets.
 
-## Getting Started
+## Qu'est-ce qu'Archispec ?
 
-Get started by **creating a new site**.
+Archispec est un outil conçu pour les architectes et les professionnels du bâtiment qui souhaitent :
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- **Gérer leurs projets** de manière centralisée
+- **Collaborer avec leurs clients** en temps réel
+- **Organiser leur bibliothèque de produits** et matériaux
+- **Extraire des produits depuis des sites web** grâce à l'extension Chrome
+- **Générer des devis et factures** automatiquement
+- **Partager des projets** avec les clients de manière sécurisée
 
-### What you'll need
+## Les trois composants d'Archispec
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Archispec se compose de trois parties principales :
 
-## Generate a new site
+### 1. Application Web (Associés)
+L'application principale destinée aux architectes et professionnels. Elle permet de gérer les projets, les produits, les clients et toute la collaboration.
 
-Generate a new Docusaurus site using the **classic template**.
+### 2. Espace Client
+Un espace dédié aux clients pour visualiser les projets partagés, consulter les produits sélectionnés et communiquer avec l'équipe projet.
 
-The classic template will automatically be added to your project after you run the command:
+### 3. Extension Chrome
+Une extension de navigateur qui permet d'extraire rapidement des produits depuis n'importe quel site web et de les ajouter directement à vos projets.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+## Commencer
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+Explorez les sections ci-dessous pour découvrir comment utiliser chaque composant d'Archispec :
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- **[Application Web (Associés)](associate/getting-started)** - Guide complet pour les architectes
+- **[Espace Client](client/getting-started)** - Guide pour les clients
+- **[Extension Chrome](extension/installation)** - Guide d'installation et d'utilisation de l'extension

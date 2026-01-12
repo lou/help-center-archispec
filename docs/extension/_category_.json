@@ -1,0 +1,8 @@
+{
+	"label": "Extension Chrome",
+	"position": 4,
+	"link": {
+		"type": "generated-index",
+		"description": "Installez et utilisez l'extension Chrome pour extraire rapidement des produits depuis n'importe quel site web."
+	}
+}
