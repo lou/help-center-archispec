@@ -1,0 +1,8 @@
+{
+	"label": "Configurer une entreprise",
+	"position": 8,
+	"link": {
+		"type": "generated-index",
+		"description": "Configurez votre entreprise et gérez les membres de votre équipe."
+	}
+}

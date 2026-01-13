@@ -1,8 +1,8 @@
 {
-	"label": "Espace Client",
-	"position": 3,
+	"label": "Interface client",
+	"position": 9,
 	"link": {
 		"type": "generated-index",
-		"description": "Guide pour les clients. Consultez vos projets, produits sélectionnés et communiquez avec votre architecte."
+		"description": "Guide pour les clients : découvrez comment utiliser l'interface client d'Archispec."
 	}
 }

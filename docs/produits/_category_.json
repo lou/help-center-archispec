@@ -1,0 +1,8 @@
+{
+	"label": "Produits",
+	"position": 3,
+	"link": {
+		"type": "generated-index",
+		"description": "Gérez vos produits : ajoutez, filtrez, sélectionnez et organisez les produits de vos projets."
+	}
+}

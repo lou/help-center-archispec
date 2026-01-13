@@ -32,10 +32,23 @@ Un espace dédié aux clients pour visualiser les projets partagés, consulter l
 ### 3. Extension Chrome
 Une extension de navigateur qui permet d'extraire rapidement des produits depuis n'importe quel site web et de les ajouter directement à vos projets.
 
-## Commencer
+## Documentation
 
-Explorez les sections ci-dessous pour découvrir comment utiliser chaque composant d'Archispec :
+Explorez la documentation pour découvrir toutes les fonctionnalités d'Archispec :
 
-- **[Application Web (Associés)](associate/getting-started)** - Guide complet pour les architectes
-- **[Espace Client](client/getting-started)** - Guide pour les clients
-- **[Extension Chrome](extension/installation)** - Guide d'installation et d'utilisation de l'extension
+### Configuration et gestion de projet
+- **[Configuration d'un projet](projet/inviter-client)** - Invitez des clients, gérez les membres, organisez les zones et configurez votre projet
+- **[Produits](produits/ajouter-produit)** - Ajoutez, gérez et organisez les produits de vos projets
+- **[Fichiers](fichiers)** - Gérez tous les fichiers de vos projets
+- **[Chat](chat)** - Communiquez avec votre équipe et vos clients
+- **[Catalogue](catalogue)** - Gérez votre bibliothèque de produits
+
+### Administration
+- **[Configuration d'une Entreprise](entreprise/gestion-membres)** - Gérez les membres de votre entreprise
+- **[Notifications](notifications)** - Configurez vos notifications
+
+### Pour les clients
+- **[Interface client](client/interface-client)** - Guide complet pour utiliser l'interface client
+
+### Outils
+- **[Extension Navigateur](extension/installation)** - Installez et utilisez l'extension pour extraire des produits depuis le web
