@@ -3,9 +3,13 @@ sidebar_position: 3
 title: Mode prix
 ---
 
+import { VideoPlayer } from "@site/src/components/VideoPlayer";
+
 # Mode prix
 
 Le mode prix est une fonctionnalité optionnelle qui permet d'afficher une vue détaillée des prix dans la liste des produits.
+
+<VideoPlayer url="https://d3hm1231ux02pa.cloudfront.net/videos/price-mode.mp4" />
 
 ## Activer le mode prix
 

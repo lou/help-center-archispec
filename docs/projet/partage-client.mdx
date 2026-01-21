@@ -1,0 +1,53 @@
+---
+sidebar_position: 1
+title: Partage client
+---
+
+import { Eye } from "lucide-react";
+import { EyeOff } from "lucide-react";
+
+Inviter un client à votre projet vous permet de centraliser les échanges, de partager les informations utiles et de collaborer efficacement.
+
+Le client accède à une interface dédiée, dans laquelle vous contrôlez précisément les informations mises à sa disposition.
+Il peut y consulter les produits, échanger avec votre équipe via le chat et télécharger les fichiers partagés.
+
+:::info
+Avant d'inviter un client, nous vous conseillons d'utiliser la [prévisualisation client](/projet/previsualisation-client) pour vérifier que les informations sont correctes et que le client a bien accès aux informations que vous souhaitez lui partager.
+:::
+
+## Inviter un nouveau client
+
+1. Accédez aux **Paramètres** du projet
+2. Cliquez sur **Client** dans le menu latéral
+3. Cliquez sur **Invitez un client**
+4. Remplissez **l'email** du client
+5. Cliquez sur **Envoyer une invitation**
+
+### Gérer les invitations
+
+Si le client n'a pas reçu l'email d'invitation :
+- Cliquez sur le bouton **"Renvoyer"** sur la ligne de l'invitation
+
+## Informations visibles par le client
+
+### Produits
+Le client n’a accès qu’aux produits que vous lui avez explicitement proposés.
+Les produits dont le statut est « Non spécifié » ne sont pas visibles.
+
+Pour chaque produit accessible, le client peut consulter :
+
+- Nom du produit
+- Description
+- Images
+- Prix (selon les paramètres du projet)
+- Lien web (selon les paramètres du projet)
+
+### Fichiers
+Le client n’a accès qu’aux fichiers que vous avez choisis de partager avec lui.
+
+Pour rendre un fichier visible ou le masquer :
+
+- Accédez à la section Fichiers du projet
+- Cliquez sur l’icône en forme d’œil située à droite du nom du fichier
+  - <Eye size={16} strokeWidth={1.5} style={{ marginBottom: -3 }} /> l’icône œil indique que le fichier est visible par le client
+  - <EyeOff size={16} strokeWidth={1.5} style={{ marginBottom: -3 }} /> l’icône œil barré indique que le fichier est masqué pour le client

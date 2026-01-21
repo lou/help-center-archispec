@@ -1,9 +1,9 @@
 ---
-sidebar_position: 4
-title: Affichage des prix
+sidebar_position: 6
+title: Paramètres des prix
 ---
 
-# Affichage des prix
+# Paramètres des prix
 
 Configurez comment les prix sont affichés dans votre projet.
 

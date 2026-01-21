@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: Partage des informations
+title: Paramètres de partage
 ---
 
 # Partage des informations

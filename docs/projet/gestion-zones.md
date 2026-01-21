@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 title: Gestion des zones
 ---
 
@@ -38,8 +38,7 @@ Vous pouvez réorganiser l'ordre des zones par glisser-déposer :
 
 1. Accédez aux **Paramètres** du projet
 2. Cliquez sur **Zones**
-3. Cliquez sur le menu (⋮) à côté de la zone
-4. Sélectionnez **Supprimer**
+3. Cliquez sur l'**icône crobeille** à droite de la zone
 5. Confirmez l'action
 
 **Attention** : Si la zone contient des produits, ils seront tous désassignés de la zone et apparaitront "Sans zone".
