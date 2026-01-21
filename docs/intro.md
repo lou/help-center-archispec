@@ -8,6 +8,8 @@ title: Accueil
 
 Archispec est une plateforme complète de gestion de projets architecturaux qui permet aux professionnels de l'architecture de collaborer efficacement avec leurs clients.
 
+L'application est accessible via [https://archispec.fr](https://archispec.fr).
+
 ## Qu'est-ce qu'Archispec ?
 
 Archispec est un outil conçu pour les architectes et les professionnels du bâtiment qui souhaitent :
