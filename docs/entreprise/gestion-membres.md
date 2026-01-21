@@ -15,28 +15,16 @@ Gérez les membres de votre entreprise et leurs permissions.
 
 ## Ajouter un membre
 
-### Inviter par email
-
-1. Cliquez sur **Inviter un membre**
+1. Cliquez sur **Inviter un nouveau membre**
 2. Entrez l'adresse email du membre
 3. Choisissez le rôle à attribuer :
    - **Propriétaire** : accès complet
    - **Administrateur** : peut gérer les membres et les paramètres
    - **Associé** : accès standard
-4. Cliquez sur **Envoyer l'invitation**
+4. Choisissez les projets auxquels le membre doit accéder
+4. Cliquez sur **Envoyer une invitation**
 5. Le membre recevra un email avec un lien pour rejoindre l'entreprise
 
-### Ajouter un membre existant
-
-Si le membre a déjà un compte Archispec :
-
-1. Cliquez sur **Ajouter un membre**
-2. Recherchez le membre par son nom ou son email
-3. Sélectionnez le membre dans les résultats
-4. Choisissez le rôle
-5. Cliquez sur **Ajouter**
-
-Le membre est immédiatement ajouté à l'entreprise.
 
 ## Rôles et permissions
 
