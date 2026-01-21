@@ -3,15 +3,24 @@ sidebar_position: 1
 title: Filtrer les produits
 ---
 
+import { SlidersHorizontalIcon } from "lucide-react";
+import { VideoPlayer } from "@site/src/components/VideoPlayer";
+
 # Filtrer les produits
 
 Utilisez les filtres pour identifier rapidement les produits pertinents et constituer vos sélections.
+<VideoPlayer url="https://d3hm1231ux02pa.cloudfront.net/videos/filters.mp4" />
 
 ## Accéder aux filtres
 
 1. Accédez à la liste des produits de votre projet
-2. La barre de filtres se trouve à gauche de la liste
+2. <SlidersHorizontalIcon strokeWidth={1.5} size={20} style={{ marginBottom: -4 }} /> Cliquez sur l'icône de filtres située en haut à gauche de la liste
+2. La barre de filtres s'affiche à gauche de la liste
 3. Cliquez sur un filtre pour l'activer
+
+:::info
+<SlidersHorizontalIcon strokeWidth={1.5} size={20} style={{ marginBottom: -4 }} /> Cliquer sur l'icône de filtres pour fermer ou ouvrir la barre de filtres.
+:::
 
 ## Types de filtres disponibles
 
@@ -30,6 +39,20 @@ Filtrez par catégorie de produit :
 
 1. Cliquez sur le filtre **Type**
 2. Sélectionnez un ou plusieurs types de produits
+3. La liste se met à jour
+
+### Filtre par fabricant
+Filtrez par fabricant du produit :
+
+1. Cliquez sur le filtre **Fabricant**
+2. Sélectionnez un ou plusieurs fabricants
+3. La liste se met à jour
+
+### Filtre par fournisseur
+Filtrez par fournisseur du produit :
+
+1. Cliquez sur le filtre **Fournisseur**
+2. Sélectionnez un ou plusieurs fournisseurs
 3. La liste se met à jour
 
 ### Recherche textuelle

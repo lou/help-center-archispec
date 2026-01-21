@@ -20,9 +20,9 @@ Gérez les membres de votre entreprise et leurs permissions.
 1. Cliquez sur **Inviter un membre**
 2. Entrez l'adresse email du membre
 3. Choisissez le rôle à attribuer :
-   - **Owner** : Propriétaire de l'entreprise, accès complet
-   - **Admin** : Administrateur, peut gérer les membres et les paramètres
-   - **Associate** : Membre associé, accès standard
+   - **Propriétaire** : accès complet
+   - **Administrateur** : peut gérer les membres et les paramètres
+   - **Associé** : accès standard
 4. Cliquez sur **Envoyer l'invitation**
 5. Le membre recevra un email avec un lien pour rejoindre l'entreprise
 
@@ -40,7 +40,7 @@ Le membre est immédiatement ajouté à l'entreprise.
 
 ## Rôles et permissions
 
-### Owner (Propriétaire)
+### Propriétaire
 Les propriétaires ont accès complet à l'entreprise :
 - ✅ Gérer les membres (ajouter, modifier, retirer)
 - ✅ Modifier les paramètres de l'entreprise
@@ -48,7 +48,7 @@ Les propriétaires ont accès complet à l'entreprise :
 - ✅ Transférer la propriété de l'entreprise
 - ✅ Supprimer l'entreprise
 
-### Admin (Administrateur)
+### Administrateur
 Les administrateurs peuvent :
 - ✅ Gérer les membres (ajouter, modifier, retirer)
 - ✅ Modifier les paramètres de l'entreprise
@@ -56,7 +56,7 @@ Les administrateurs peuvent :
 - ❌ Ne peut pas transférer la propriété
 - ❌ Ne peut pas supprimer l'entreprise
 
-### Associate (Associé)
+### Associé
 Les associés ont un accès standard :
 - ✅ Accéder aux projets auxquels ils sont assignés
 - ✅ Créer de nouveaux projets
@@ -66,56 +66,20 @@ Les associés ont un accès standard :
 
 ## Modifier les permissions d'un membre
 
-1. Cliquez sur le menu (⋮) à côté du membre
-2. Sélectionnez **Modifier les permissions**
-3. Choisissez le nouveau rôle
-4. Cliquez sur **Enregistrer**
+1. Cliquez sur le menu déroulant à droite du membre
+2. Sélectionnez le nouveau rôle
+3. Les modifications prennent effet immédiatement.
 
-Les modifications prennent effet immédiatement.
-
-## Retirer un membre
-
-1. Cliquez sur le menu (⋮) à côté du membre
-2. Sélectionnez **Retirer de l'entreprise**
-3. Confirmez l'action
-
-Le membre perdra immédiatement l'accès à l'entreprise et à tous les projets de l'entreprise.
-
-**Note** : Vous ne pouvez pas retirer le dernier administrateur de l'entreprise. Vous devez d'abord promouvoir un autre membre au rôle d'administrateur.
 
 ## Gérer les invitations
 
 ### Voir les invitations en attente
 
-1. Dans la section **Membres**, cliquez sur **Invitations**
-2. Toutes les invitations en attente s'affichent
-
-### Annuler une invitation
-
-1. Accédez aux invitations en attente
-2. Cliquez sur le menu (⋮) à côté de l'invitation
-3. Sélectionnez **Annuler l'invitation**
-4. L'invitation est annulée et le membre ne pourra plus l'utiliser
+Dans la section **Membres**, toutes les invitations en attente s'affichent
 
 ### Renvoyer une invitation
 
 Si le membre n'a pas reçu l'email d'invitation :
 
-1. Accédez aux invitations en attente
-2. Cliquez sur le menu (⋮) à côté de l'invitation
-3. Sélectionnez **Renvoyer l'invitation**
-4. Un nouvel email est envoyé
-
-## Statistiques des membres
-
-Dans la section **Membres**, vous pouvez voir :
-- **Nombre total de membres** : Tous les membres actifs
-- **Invitations en attente** : Nombre d'invitations non acceptées
-- **Membres par rôle** : Répartition des administrateurs et membres
-
-## Conseils
-
-- Attribuez le rôle d'administrateur uniquement aux personnes de confiance
-- Vérifiez régulièrement les invitations en attente
-- Retirez les membres qui ne font plus partie de l'entreprise
-- Promouvez des membres au rôle d'administrateur pour éviter d'être le seul administrateur
+1. Cliquez sur "Renvoyer" à droite de l'invitation
+2. Un nouvel email est envoyé
