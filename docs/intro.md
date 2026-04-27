@@ -12,9 +12,10 @@ L'application est accessible via [https://archispec.fr](https://archispec.fr).
 
 ## Qu'est-ce qu'Archispec ?
 
-Archispec est un outil conçu pour les architectes et les professionnels du bâtiment qui souhaitent :
+Archispec est un outil spécialement conçu pour les architectes et architectes d'intérieur qui souhaitent :
 
 - **Gérer leurs projets** de manière centralisée
 - **Collaborer avec leurs clients** en temps réel
 - **Sourcer et organiser** leur bibliothèque de produits
 - **Générer des exports** pour faciliter la facturation et le suivi de chantier
+- **Planifier leurs projets** de manière visuelle et collaborative

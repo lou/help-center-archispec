@@ -25,22 +25,12 @@ Gérez les membres de votre équipe qui ont accès au projet.
 
 ## Rôles et permissions
 
-### Propriétaire
-- ✅ Accès complet à tous les paramètres du projet
-- ✅ Peut transférer la propriété du projet
-- ✅ Peut ajouter et retirer des membres
-- ✅ Peut modifier tous les produits et fichiers
-- ✅ Peut archiver le projet
-
-### Administrateur
-- ✅ Peut gérer les membres (ajouter, modifier, retirer)
-- ✅ Peut modifier les paramètres du projet
-- ✅ Peut modifier tous les produits et fichiers
-- ✅ Ne peut pas transférer la propriété du projet
-
-### Associé
-- ✅ Peut modifier les produits et fichiers
-- ✅ Peut ajouter de nouveaux produits
-- ✅ Peut utiliser le chat
-- ❌ Ne peut pas modifier les paramètres du projet
-- ❌ Ne peut pas gérer les membres
+| Permission | Propriétaire | Administrateur | Associé |
+|------------|:------------:|:--------------:|:-------:|
+| Modifier produits et fichiers | ✅ | ✅ | ✅ |
+| Ajouter de nouveaux produits | ✅ | ✅ | ✅ |
+| Utiliser le chat | ✅ | ✅ | ✅ |
+| Paramètres du projet | ✅ | ✅ | ❌ |
+| Gérer les membres | ✅ | ✅ | ❌ |
+| Transférer la propriété | ✅ | ❌ | ❌ |
+| Archiver le projet | ✅ | ❌ | ❌ |

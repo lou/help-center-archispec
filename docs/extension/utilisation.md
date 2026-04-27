@@ -20,20 +20,5 @@ Apprenez à utiliser l'extension Archispec pour extraire et ajouter des produits
    - Description
    - Images
    - Référence
-
-### Vérifier les informations extraites
-
-1. Après le clic sur l'extension, une fenêtre s'ouvre
-2. Vérifiez les informations extraites :
-   - **Nom** : Vérifiez que le nom est correct
-   - **Prix** : Vérifiez le prix extrait
-   - **Images** : Vérifiez que les bonnes images sont sélectionnées
-   - **Description** : Vérifiez ou complétez la description
-
-### Modifier les informations
-
-Vous pouvez modifier toutes les informations avant d'ajouter le produit :
-
-1. Cliquez sur un champ pour le modifier
-2. Entrez les nouvelles informations
-3. Les modifications sont sauvegardées automatiquement
+   - Fabricant
+   - Fournisseur

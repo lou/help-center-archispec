@@ -28,29 +28,13 @@ Gérez les membres de votre entreprise et leurs permissions.
 
 ## Rôles et permissions
 
-### Propriétaire
-Les propriétaires ont accès complet à l'entreprise :
-- ✅ Gérer les membres (ajouter, modifier, retirer)
-- ✅ Modifier les paramètres de l'entreprise
-- ✅ Accéder à tous les projets
-- ✅ Transférer la propriété de l'entreprise
-- ✅ Supprimer l'entreprise
+| Action | Propriétaire | Administrateur | Associé |
+|--------|:------------:|:--------------:|:-------:|
+| Créer de nouveaux projets | ✅ | ✅ | ✅ |
+| Gérer les membres (ajouter, modifier, retirer) | ✅ | ✅ | ❌ |
+| Modifier les paramètres de l'entreprise | ✅ | ✅ | ❌ |
+| Transférer la propriété de l'entreprise | ✅ | ❌ | ❌ |
 
-### Administrateur
-Les administrateurs peuvent :
-- ✅ Gérer les membres (ajouter, modifier, retirer)
-- ✅ Modifier les paramètres de l'entreprise
-- ✅ Accéder à tous les projets
-- ❌ Ne peut pas transférer la propriété
-- ❌ Ne peut pas supprimer l'entreprise
-
-### Associé
-Les associés ont un accès standard :
-- ✅ Accéder aux projets auxquels ils sont assignés
-- ✅ Créer de nouveaux projets
-- ✅ Utiliser toutes les fonctionnalités de l'application
-- ❌ Ne peut pas gérer les membres
-- ❌ Ne peut pas modifier les paramètres de l'entreprise
 
 ## Modifier les permissions d'un membre
 
