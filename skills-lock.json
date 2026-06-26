@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "documentation-writer": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "skillPath": "skills/documentation-writer/SKILL.md",
+      "computedHash": "ee53d65b163cd7eb953a930c95841cfe398cc2c0bd24c06508bbaa07c432be35"
+    },
+    "product-help-center": {
+      "source": "vasilyu1983/ai-agents-public",
+      "sourceType": "github",
+      "skillPath": "frameworks/shared-skills/skills/product-help-center/SKILL.md",
+      "computedHash": "7ee09df660087e3462e4c0628dcdf0f27ec111f8906b37c9b15572b92da8f29c"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+packages:
+  - "."
+
+overrides:
+  webpack: 5.97.1
+
+allowBuilds:
+  core-js: true
+  core-js-pure: true
+  typesense-instantsearch-adapter: true

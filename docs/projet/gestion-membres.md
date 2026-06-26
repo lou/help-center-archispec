@@ -12,9 +12,9 @@ Gérez les membres de votre équipe qui ont accès au projet.
 1. Accédez aux **Paramètres** du projet
 2. Cliquez sur **Membres** dans le menu latéral
 3. Cliquez sur **Inviter un nouveau membre**
-4. Sélectionnez le membre de l'entreprise qui doit accéder au projet
-6. Choisissez le rôle à attribuer
-7. Cliquez sur **Ajouter un membre**
+4. Sélectionnez le membre de l'agence qui doit accéder au projet
+5. Choisissez le rôle à attribuer
+6. Cliquez sur **Ajouter un membre**
 
 ## Modifier les permissions d'un membre
 

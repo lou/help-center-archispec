@@ -77,7 +77,7 @@ const config: Config = {
 		navbar: {
 			title: "Centre d'aide",
 			logo: {
-				alt: "My Site Logo",
+				alt: "Archispec",
 				src: "img/logo.png",
 			},
 			items: [],

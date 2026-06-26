@@ -5,13 +5,13 @@ title: Gestion des membres
 
 # Gestion des membres
 
-Gérez les membres de votre entreprise et leurs permissions.
+Gérez les membres de votre agence et leurs permissions.
 
 ## Accéder à la gestion des membres
 
-1. Dans le menu principal, cliquez sur **Entreprise**
+1. Dans le menu principal, cliquez sur le nom de votre agence
 2. Cliquez sur **Membres** dans le menu latéral
-3. Tous les membres de l'entreprise s'affichent
+3. Tous les membres de l'agence s'affichent
 
 ## Ajouter un membre
 
@@ -22,8 +22,8 @@ Gérez les membres de votre entreprise et leurs permissions.
    - **Administrateur** : peut gérer les membres et les paramètres
    - **Associé** : accès standard
 4. Choisissez les projets auxquels le membre doit accéder
-4. Cliquez sur **Envoyer une invitation**
-5. Le membre recevra un email avec un lien pour rejoindre l'entreprise
+5. Cliquez sur **Envoyer une invitation**
+6. Le membre recevra un email avec un lien pour rejoindre l'agence
 
 
 ## Rôles et permissions
@@ -32,8 +32,8 @@ Gérez les membres de votre entreprise et leurs permissions.
 |--------|:------------:|:--------------:|:-------:|
 | Créer de nouveaux projets | ✅ | ✅ | ✅ |
 | Gérer les membres (ajouter, modifier, retirer) | ✅ | ✅ | ❌ |
-| Modifier les paramètres de l'entreprise | ✅ | ✅ | ❌ |
-| Transférer la propriété de l'entreprise | ✅ | ❌ | ❌ |
+| Modifier les paramètres de l'agence | ✅ | ✅ | ❌ |
+| Transférer la propriété de l'agence | ✅ | ❌ | ❌ |
 
 
 ## Modifier les permissions d'un membre

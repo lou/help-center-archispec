@@ -1,0 +1,8 @@
+{
+	"label": "Catalogue",
+	"position": 5,
+	"link": {
+		"type": "generated-index",
+		"description": "Gérez votre catalogue de produits réutilisables dans tous vos projets."
+	}
+}

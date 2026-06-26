@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Sélectionner les produits
 ---
 
-# Sélection
+# Sélectionner les produits
 
 Sélectionnez un ou plusieurs produits pour effectuer des actions en lot.
 
@@ -68,7 +68,7 @@ Le Bouton "Exporter" permet d'exporter les produits dans différents formats.
 3. Choisissez les champs à exporter
 4. Cliquez sur **Exporter**
 5. Le fichier en format PDF est généré
-6. Vous pourrez télécharger le fichier dans la section "Fichiers" de votre projet
+6. Vous pourrez télécharger le fichier dans la section [Fichiers](/projet/fichiers) de votre projet
 
 #### Exporter en feuille de calcul
 1. Sélectionnez les produits à exporter
@@ -76,4 +76,4 @@ Le Bouton "Exporter" permet d'exporter les produits dans différents formats.
 3. Choisissez les champs à exporter
 4. Cliquez sur **Exporter**
 5. Le fichier en format Excel est généré
-6. Vous pourrez télécharger le fichier dans la section "Fichiers" de votre projet
+6. Vous pourrez télécharger le fichier dans la section [Fichiers](/projet/fichiers) de votre projet
