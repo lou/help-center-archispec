@@ -1,0 +1,77 @@
+---
+sidebar_position: 1
+title: Vue d'ensemble
+---
+
+# Vue d'ensemble du portail client
+
+Les clients invités sur un projet accèdent à un espace dédié, distinct de l'interface de l'agence.
+
+## Accès
+
+1. Le client reçoit un email d'invitation
+2. Il clique sur le lien et se connecte (ou crée un compte)
+3. Il accède directement à son projet
+
+L'URL du portail client suit le format `archispec.fr/client/projects/...`.
+
+## Navigation client
+
+Le portail client propose les onglets suivants :
+
+| Onglet | Contenu |
+|--------|---------|
+| **Produits** | Produits proposés par l'agence |
+| **Fichiers** | Documents partagés par l'agence (si au moins un fichier est visible) |
+| **Avancement** | Planning partagé (si activé par l'agence) |
+| **Chat** | Canal externe — échanges avec l'équipe |
+
+Le client accède aussi à son **Compte** (profil et notifications) via le menu en haut à droite.
+
+## Ce que voit le client
+
+### Produits
+
+Le client ne voit que les produits au statut **Proposé** ou au-delà dans le cycle de vie. Les produits « Non spécifié » sont masqués.
+
+Pour chaque produit visible, selon les [paramètres de partage](/projet/parametres-partage) :
+
+- Nom, description et images
+- Prix (si partagés)
+- Lien web (si partagé)
+
+### Fichiers
+
+Uniquement les fichiers que l'agence a rendus visibles (icône œil activée). Consultation et téléchargement uniquement — pas d'ajout ni de modification.
+
+### Avancement
+
+Visible uniquement si l'agence a activé le partage du planning au niveau du projet. Le client voit les tâches marquées comme visibles.
+
+### Chat
+
+Le client accède au **canal externe** uniquement. Le canal interne de l'équipe lui est inaccessible.
+
+## Ce que le client ne peut pas faire
+
+| Action | Disponible côté client |
+|--------|:----------------------:|
+| Créer ou modifier des produits | Non |
+| Exporter des documents | Non |
+| Générer des modèles 3D | Non |
+| Accéder au chat interne | Non |
+| Modifier les paramètres du projet | Non |
+| Uploader des fichiers | Non |
+| Inviter d'autres membres de l'agence | Non |
+
+## Prévisualiser l'espace client (côté agence)
+
+Avant d'inviter un client, utilisez la [prévisualisation client](/projet/previsualisation-client) pour vérifier ce qu'il verra.
+
+Vous pouvez aussi ouvrir le portail client depuis l'icône **Aperçu client** dans la barre du projet. Un bandeau indique que vous êtes en mode aperçu et les actions client sont désactivées.
+
+## Articles liés
+
+- [Inviter un client](/projet/partage-client)
+- [Valider des produits](/portail-client/validation-produits)
+- [Statuts des produits](/comprendre/statuts-produits)

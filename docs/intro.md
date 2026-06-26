@@ -46,17 +46,33 @@ Nouveau sur Archispec ? Suivez le parcours guidé :
 - [Filtrer les produits](/produits/filtres) — Retrouver rapidement vos sélections
 - [Sélectionner les produits](/produits/selection) — Actions en lot et exports
 - [Mode prix](/produits/mode-prix) — Visualiser les décompositions de prix
+- [Bon de commande](/produits/bon-de-commande) — Commander auprès des fournisseurs
+- [Générer un modèle 3D](/produits/generation-3d) — Modèles 3D à partir d'images
 
 ### Catalogue et extension
 
 - [Gérer le catalogue](/catalogue/gerer-catalogue) — Bibliothèque de produits réutilisables
 - [Extension navigateur](/extension/installation) — Sourcer depuis n'importe quel site
 
+### Facturation
+
+- [Abonnement et limites](/facturation/abonnement-et-limites) — Forfait gratuit, tarifs et crédits 3D
+- [Parrainage](/facturation/parrainage) — Crédits pour vous et vos filleuls
+
+### Portail client
+
+- [Vue d'ensemble](/portail-client/vue-ensemble) — L'espace dédié à vos clients
+- [Valider des produits](/portail-client/validation-produits) — Workflow de validation client
+
 ### Comprendre
 
 - [Statuts des produits](/comprendre/statuts-produits) — Cycle de vie d'un produit
 - [Rôles et permissions](/comprendre/roles-permissions) — Droits agence et projet
 - [Glossaire](/reference/glossaire) — Définitions des termes Archispec
+
+### Dépannage
+
+- [FAQ](/depannage/faq) — Problèmes fréquents et solutions
 
 ## Besoin d'aide ?
 

@@ -1,0 +1,8 @@
+{
+	"label": "Facturation",
+	"position": 7,
+	"link": {
+		"type": "generated-index",
+		"description": "Abonnements, limites du forfait gratuit, sièges utilisateurs et crédits 3D."
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"label": "Portail client",
+	"position": 8,
+	"link": {
+		"type": "generated-index",
+		"description": "L'espace dédié à vos clients : consultation, validation et échanges."
+	}
+}

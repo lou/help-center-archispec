@@ -77,3 +77,6 @@ Le Bouton "Exporter" permet d'exporter les produits dans différents formats.
 4. Cliquez sur **Exporter**
 5. Le fichier en format Excel est généré
 6. Vous pourrez télécharger le fichier dans la section [Fichiers](/projet/fichiers) de votre projet
+
+#### Exporter un bon de commande
+Pour générer un PDF de commande fournisseur avec numéro de bon de commande et adresses, consultez [Bon de commande](/produits/bon-de-commande).
