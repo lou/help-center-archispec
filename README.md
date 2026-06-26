@@ -7,6 +7,38 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 ```bash
 pnpm start
 ```
+
+French is the default locale. To preview English:
+
+```bash
+pnpm start:en
+```
+
+Or pass the locale directly (without an extra `--`):
+
+```bash
+pnpm start --locale en
+```
+
+### Test the language switcher locally
+
+The dev server only serves **one locale at a time** (Docusaurus limitation). To use the FR/EN dropdown, build and serve the production output:
+
+```bash
+pnpm preview
+```
+
+Then open [http://localhost:3000](http://localhost:3000) — both `/` and `/en/` are available.
+
+## Internationalization
+
+- French source docs: `docs/`
+- English translations: `i18n/en/docusaurus-plugin-content-docs/current/`
+- After adding or renaming French pages, run `pnpm write-translations -- --locale en` to refresh translation keys, then update the English files.
+
+URLs:
+- French: `https://help.archispec.fr/`
+- English: `https://help.archispec.fr/en/`
 ## Deployment
 
 ```bash

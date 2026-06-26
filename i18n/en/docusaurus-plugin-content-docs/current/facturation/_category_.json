@@ -1,0 +1,8 @@
+{
+	"label": "Billing",
+	"position": 7,
+	"link": {
+		"type": "generated-index",
+		"description": "Subscriptions, free plan limits, user seats, and 3D credits."
+	}
+}

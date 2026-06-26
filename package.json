@@ -5,6 +5,9 @@
 	"scripts": {
 		"docusaurus": "docusaurus",
 		"start": "docusaurus start",
+		"start:fr": "docusaurus start --locale fr",
+		"start:en": "docusaurus start --locale en",
+		"preview": "docusaurus build && docusaurus serve",
 		"build": "docusaurus build",
 		"swizzle": "docusaurus swizzle",
 		"deploy": "docusaurus deploy",

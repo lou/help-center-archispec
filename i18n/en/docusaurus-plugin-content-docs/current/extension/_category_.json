@@ -1,0 +1,8 @@
+{
+	"label": "Browser extension",
+	"position": 12,
+	"link": {
+		"type": "generated-index",
+		"description": "Install and use the browser extension to quickly extract products from any website."
+	}
+}

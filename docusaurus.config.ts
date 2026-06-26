@@ -33,7 +33,18 @@ const config: Config = {
 	// may want to replace "en" with "zh-Hans".
 	i18n: {
 		defaultLocale: "fr",
-		locales: ["fr"],
+		locales: ["fr", "en"],
+		localeConfigs: {
+			fr: {
+				label: "Français",
+				htmlLang: "fr",
+			},
+			en: {
+				label: "English",
+				htmlLang: "en-US",
+				direction: "ltr",
+			},
+		},
 	},
 
 	themes: ["docusaurus-theme-search-typesense"],
@@ -80,7 +91,12 @@ const config: Config = {
 				alt: "Archispec",
 				src: "img/logo.png",
 			},
-			items: [],
+			items: [
+				{
+					type: "localeDropdown",
+					position: "right",
+				},
+			],
 		},
 		prism: {
 			theme: prismThemes.github,

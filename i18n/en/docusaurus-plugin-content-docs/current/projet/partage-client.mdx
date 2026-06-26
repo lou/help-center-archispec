@@ -1,0 +1,55 @@
+---
+sidebar_position: 1
+title: Client sharing
+---
+
+import { Eye } from "lucide-react";
+import { EyeOff } from "lucide-react";
+
+# Client sharing
+
+Inviting a client to your project lets you centralize communication, share useful information, and collaborate effectively.
+
+The client accesses a dedicated interface where you control exactly what information is available to them.
+They can review products, communicate with your team via chat, and download shared files.
+
+:::info
+Before inviting a client, we recommend using [client preview](/projet/previsualisation-client) to verify that information is correct and that the client has access to what you want to share.
+:::
+
+## Invite a new client
+
+1. Go to project **Settings**
+2. Click **Client** in the sidebar
+3. Click **Invite a client**
+4. Enter the client's **email**
+5. Click **Send invitation**
+
+### Manage invitations
+
+If the client did not receive the invitation email:
+- Click the **"Resend"** button on the invitation row
+
+## Information visible to the client
+
+### Products
+The client only has access to products you have explicitly proposed to them.
+Products with **Unspecified** status are not visible.
+
+For each accessible product, the client can view:
+
+- Product name
+- Description
+- Images
+- Price (depending on project settings)
+- Web link (depending on project settings)
+
+### Files
+The client only has access to files you have chosen to share with them.
+
+To make a file visible or hide it:
+
+- Go to the project Files section
+- Click the eye icon to the right of the file name
+  - <Eye size={16} strokeWidth={1.5} style={{ marginBottom: -3 }} /> the eye icon means the file is visible to the client
+  - <EyeOff size={16} strokeWidth={1.5} style={{ marginBottom: -3 }} /> the crossed-out eye icon means the file is hidden from the client

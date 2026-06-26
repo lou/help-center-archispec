@@ -1,0 +1,78 @@
+---
+sidebar_position: 1
+title: Filter products
+---
+
+import { SlidersHorizontalIcon } from "lucide-react";
+import { VideoPlayer } from "@site/src/components/VideoPlayer";
+
+# Filter products
+
+Use filters to quickly identify relevant products and build your selections.
+<VideoPlayer url="https://d3hm1231ux02pa.cloudfront.net/videos/filters.mp4" />
+
+## Access filters
+
+1. Go to your project's product list
+2. <SlidersHorizontalIcon strokeWidth={1.5} size={20} style={{ marginBottom: -4 }} /> Click the filter icon at the top left of the list
+3. The filter bar appears to the left of the list
+4. Click a filter to activate it
+
+:::info
+<SlidersHorizontalIcon strokeWidth={1.5} size={20} style={{ marginBottom: -4 }} /> Click the filter icon to close or open the filter bar.
+:::
+
+## Available filter types
+
+### Status filter
+Filter by product status
+
+### Area filter
+Filter products by area (room, floor, etc.):
+
+1. Click the **Area** filter
+2. Select one or more areas
+3. The list updates automatically
+
+### Product type filter
+Filter by product category:
+
+1. Click the **Type** filter
+2. Select one or more product types
+3. The list updates
+
+### Manufacturer filter
+Filter by product manufacturer:
+
+1. Click the **Manufacturer** filter
+2. Select one or more manufacturers
+3. The list updates
+
+### Supplier filter
+Filter by product supplier:
+
+1. Click the **Supplier** filter
+2. Select one or more suppliers
+3. The list updates
+
+### Text search
+Use the search bar to find products by product name.
+Simply type your search in the "Search by title" field.
+
+### Filter archived products
+Enable the "Archived products" switch to show or hide archived products.
+When enabled, only archived products are displayed.
+When disabled, archived products are excluded from the list.
+
+## Combine multiple filters
+
+You can activate multiple filters at once to refine your search:
+
+1. Activate a first filter
+2. Activate a second filter
+3. Both filters are combined with AND logic
+4. Only products matching all active filters are displayed
+
+## Reset filters
+
+To clear all active filters, click **Reset** at the top right of the filter bar.

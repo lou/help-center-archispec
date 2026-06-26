@@ -1,0 +1,8 @@
+{
+	"label": "Products",
+	"position": 4,
+	"link": {
+		"type": "generated-index",
+		"description": "Manage your products: add, filter, select, export, and generate 3D models."
+	}
+}

@@ -1,0 +1,90 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Premiers pas": {
+    "message": "Getting started",
+    "description": "The label for category 'Premiers pas' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Premiers pas.link.generated-index.description": {
+    "message": "Get started with Archispec in a few steps: account, agency, first project, and client sharing.",
+    "description": "The generated-index page description for category 'Premiers pas' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Projets": {
+    "message": "Projects",
+    "description": "The label for category 'Projets' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Produits": {
+    "message": "Products",
+    "description": "The label for category 'Produits' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Produits.link.generated-index.description": {
+    "message": "Manage your products: add, filter, select, export, and generate 3D models.",
+    "description": "The generated-index page description for category 'Produits' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Catalogue": {
+    "message": "Catalog",
+    "description": "The label for category 'Catalogue' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Catalogue.link.generated-index.description": {
+    "message": "Manage your reusable product catalog across all projects.",
+    "description": "The generated-index page description for category 'Catalogue' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Configurer une agence": {
+    "message": "Set up your agency",
+    "description": "The label for category 'Configurer une agence' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Configurer une agence.link.generated-index.description": {
+    "message": "Configure your agency and manage your team members.",
+    "description": "The generated-index page description for category 'Configurer une agence' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Facturation": {
+    "message": "Billing",
+    "description": "The label for category 'Facturation' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Facturation.link.generated-index.description": {
+    "message": "Subscriptions, free plan limits, user seats, and 3D credits.",
+    "description": "The generated-index page description for category 'Facturation' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Portail client": {
+    "message": "Client portal",
+    "description": "The label for category 'Portail client' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Portail client.link.generated-index.description": {
+    "message": "Your clients' dedicated space: browsing, validation, and communication.",
+    "description": "The generated-index page description for category 'Portail client' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Comprendre": {
+    "message": "Understand",
+    "description": "The label for category 'Comprendre' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Comprendre.link.generated-index.description": {
+    "message": "Understand key Archispec concepts: product statuses, roles, and permissions.",
+    "description": "The generated-index page description for category 'Comprendre' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Référence": {
+    "message": "Reference",
+    "description": "The label for category 'Référence' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Référence.link.generated-index.description": {
+    "message": "Glossary of terms used in Archispec.",
+    "description": "The generated-index page description for category 'Référence' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Dépannage": {
+    "message": "Troubleshooting",
+    "description": "The label for category 'Dépannage' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Dépannage.link.generated-index.description": {
+    "message": "Answers to common issues and troubleshooting steps.",
+    "description": "The generated-index page description for category 'Dépannage' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Extension Navigateur": {
+    "message": "Browser extension",
+    "description": "The label for category 'Extension Navigateur' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Extension Navigateur.link.generated-index.description": {
+    "message": "Install and use the browser extension to quickly extract products from any website.",
+    "description": "The generated-index page description for category 'Extension Navigateur' in sidebar 'tutorialSidebar'"
+  }
+}
