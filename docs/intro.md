@@ -6,7 +6,7 @@ title: Accueil
 
 # Bienvenue sur Archispec
 
-Archispec est une plateforme complète de gestion de projets architecturaux qui permet aux professionnels de l'architecture de collaborer efficacement avec leurs clients.
+Archispec est une plateforme de gestion de projets architecturaux qui permet aux professionnels de l'architecture de collaborer efficacement avec leurs clients.
 
 L'application est accessible via [https://archispec.fr](https://archispec.fr).
 
