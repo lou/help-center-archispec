@@ -102,14 +102,6 @@ const config: Config = {
 			theme: prismThemes.github,
 			darkTheme: prismThemes.dracula,
 		},
-		plugins: [
-			[
-				"@docusaurus/plugin-sitemap",
-				{
-					// plugin options
-				},
-			],
-		],
 	} satisfies Preset.ThemeConfig,
 };
 
