@@ -10,14 +10,26 @@ jobs:
   index:
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
+    env:
+      TYPESENSE_HOST: typesense-railway-production-c959.up.railway.app
+      TYPESENSE_COLLECTION: help-center-archispec
     steps:
+      - name: Remove Typesense alias
+        run: |
+          # Skip synonym/curation transfer during commit (fails on Typesense v30+ with older scraper images).
+          curl -sf -X DELETE \
+            "https://${TYPESENSE_HOST}/aliases/${TYPESENSE_COLLECTION}" \
+            -H "X-TYPESENSE-API-KEY: ${{ secrets.TYPESENSE_ADMIN_KEY }}" \
+            || true
+
       - name: Run Typesense DocSearch scraper
         run: |
+          docker pull typesense/docsearch-scraper:0.12.2
           docker run --rm \
             -e TYPESENSE_API_KEY="${{ secrets.TYPESENSE_ADMIN_KEY }}" \
-            -e TYPESENSE_HOST="typesense-railway-production-c959.up.railway.app" \
+            -e TYPESENSE_HOST="${TYPESENSE_HOST}" \
             -e TYPESENSE_PORT="443" \
             -e TYPESENSE_PROTOCOL="https" \
-            -e TYPESENSE_COLLECTION_NAME="help-center-archispec" \
+            -e TYPESENSE_COLLECTION_NAME="${TYPESENSE_COLLECTION}" \
             -e CONFIG='{"index_name":"help-center-archispec","sitemap_urls":["https://help.archispec.fr/sitemap.xml","https://help.archispec.fr/en/sitemap.xml"],"start_urls":["https://help.archispec.fr/","https://help.archispec.fr/en/"],"selectors":{"lvl0":{"selector":"header h1, nav[aria-label=\"Breadcrumbs\"] li:last-child, main header h1","default_value":"Documentation"},"lvl1":"main h1","lvl2":"main h2","lvl3":"main h3","lvl4":"main h4","lvl5":"main h5","content":"main p, main li"}}' \
             typesense/docsearch-scraper:0.12.2
