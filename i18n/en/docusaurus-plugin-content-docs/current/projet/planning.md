@@ -13,14 +13,25 @@ Archispec's Planning feature helps you manage a project visually, clearly, and c
 2. Click the **Planning** tab
 
 :::info
-Planning must be enabled for your agency. If the tab doesn't appear, contact your agency administrator.
+Planning is enabled **per project**. When creating the project, or in **Settings** → **Edit**, turn on the **Planning** option. If the tab doesn't appear, check that planning is enabled for this project.
 :::
+
+## Enable planning on a project
+
+1. Open the project **Settings**
+2. Click **Edit**
+3. Turn on the **Planning** option
+4. Save
+
+Turning planning off hides the tab and also disables client planning sharing.
+
+To share the calendar with the client, then enable **global client sharing** in the **Planning** tab, and mark tasks as visible. See [Share planning with the client](#share-planning-with-the-client).
 
 ## Create a task
 
 1. In the **Planning** tab, click the **+** button at the top left of the timeline
 2. Fill in the information:
-   - **Trade** or custom title
+   - **Lot** or custom title
    - **Start date** and **end date**
    - **Progress** (percentage)
 3. Confirm creation

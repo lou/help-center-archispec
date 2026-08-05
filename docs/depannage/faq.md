@@ -112,7 +112,7 @@ Activez le partage des prix dans les [paramètres de partage](/projet/parametres
 
 ### Le client ne voit pas l'onglet Avancement
 
-Le planning doit être activé pour l'agence et le **partage global client** doit être activé dans l'onglet **Planning**.
+Le planning doit être **activé sur le projet** (Paramètres → Modifier → Planning) et le **partage global client** doit être activé dans l'onglet **Planning**.
 
 Consultez [Planning](/projet/planning) et [Vue d'ensemble du portail client](/portail-client/vue-ensemble).
 
@@ -127,6 +127,12 @@ Consultez [Annotations](/projet/annotations).
 ### Mon client ne voit pas les annotations
 
 Le fichier doit être rendu visible pour le client (icône œil). Une fois le fichier visible, le client voit les annotations et peut y répondre.
+
+### L'onglet Planning n'apparaît pas
+
+Ouvrez **Paramètres** du projet → **Modifier**, puis activez l'option **Planning**. Le planning se configure projet par projet.
+
+Consultez [Planning](/projet/planning).
 
 ## Besoin d'aide supplémentaire ?
 

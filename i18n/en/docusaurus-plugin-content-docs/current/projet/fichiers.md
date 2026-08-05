@@ -49,6 +49,12 @@ On an image or PDF, open the preview then click the document to place a pinpoint
 
 See [Annotations](/projet/annotations) for details.
 
+## Preview audio and video
+
+Audio and video files open in the same preview, with a built-in player (play, pause, volume). They are not annotatable.
+
+As with other files, the client only sees those made visible (eye icon).
+
 ## Product files
 
 Each product has its own file space:

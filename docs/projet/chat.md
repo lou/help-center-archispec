@@ -37,6 +37,16 @@ En plus du chat du projet, chaque produit dispose de son propre fil de discussio
 
 Cela permet de centraliser les échanges autour d'un produit précis (validation, alternatives, questions techniques).
 
+## Mentionner quelqu'un avec @
+
+Dans le chat (projet ou produit) et dans les [annotations](/projet/annotations), tapez `@` puis sélectionnez un membre dans la liste.
+
+- **Canal interne** : vous pouvez mentionner les membres de l'équipe uniquement
+- **Canal externe** et chat côté client : vous pouvez mentionner l'équipe et les clients
+- **Annotations** : l'équipe et les clients sont mentionnables
+
+La personne mentionnée reçoit une notification (application et/ou email selon ses préférences). Voir [Notifications](/projet/notifications).
+
 ## Messages non lus
 
 Un compteur indique le nombre de messages non lus sur chaque canal. Consultez régulièrement le chat pour ne pas manquer les retours clients.

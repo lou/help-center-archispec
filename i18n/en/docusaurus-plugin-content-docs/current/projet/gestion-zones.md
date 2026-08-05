@@ -42,3 +42,8 @@ You can reorder areas by drag and drop:
 4. Confirm the action
 
 **Warning**: If the area contains products, they will all be unassigned from the area and appear as "No area".
+
+## Related articles
+
+- [Managing lots](/projet/gestion-lots)
+- [Filter products](/produits/filtres)

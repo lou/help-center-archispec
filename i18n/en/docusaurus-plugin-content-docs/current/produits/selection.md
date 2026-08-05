@@ -44,6 +44,8 @@ The "Actions" button lets you perform group actions on selected products.
 3. Choose the fields to edit:
    - Status
    - Area
+   - Lot
+   - Types (add)
 4. Enter the new values
 5. Click **Save**
 

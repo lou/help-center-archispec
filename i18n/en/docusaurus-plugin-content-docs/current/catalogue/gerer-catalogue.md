@@ -57,4 +57,4 @@ Editing a catalog product does not automatically update copies already added to 
 
 - Build your catalog as you source products to save time on future projects
 - Use the extension to quickly populate the catalog from supplier websites
-- Organize your product types in agency settings to make filtering easier
+- Organize your [product types](/agence/types-produits) in agency settings to make filtering easier

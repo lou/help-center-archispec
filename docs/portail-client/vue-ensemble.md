@@ -23,7 +23,7 @@ Le portail client propose les onglets suivants :
 |--------|---------|
 | **Produits** | Produits proposés par l'agence |
 | **Fichiers** | Documents partagés par l'agence (si au moins un fichier est visible) |
-| **Avancement** | Planning partagé (si activé par l'agence) |
+| **Avancement** | Planning partagé (si le planning est activé sur le projet et partagé) |
 | **Chat** | Canal externe — échanges avec l'équipe |
 
 Le client accède aussi à son **Compte** (profil et notifications) via le menu en haut à droite.
@@ -39,6 +39,7 @@ Pour chaque produit visible, selon les [paramètres de partage](/projet/parametr
 - Nom, description et images
 - Prix (si partagés)
 - Lien web (si partagé)
+- Suivi de livraison (date estimée, numéro et lien de suivi, s'ils sont renseignés)
 
 ### Fichiers
 
@@ -46,7 +47,7 @@ Uniquement les fichiers que l'agence a rendus visibles (icône œil activée). C
 
 ### Avancement
 
-Visible uniquement si l'agence a activé le partage du planning au niveau du projet. Le client voit les tâches marquées comme visibles.
+Visible uniquement si le planning est activé sur le projet et que le partage client est activé. Le client voit les tâches marquées comme visibles.
 
 ### Chat
 

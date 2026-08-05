@@ -13,8 +13,19 @@ La fonctionnalité Planning d'Archispec vous aide à piloter un projet de maniè
 2. Cliquez sur l'onglet **Planning**
 
 :::info
-Le planning doit être activé pour votre agence. Si l'onglet n'apparaît pas, contactez l'administrateur de votre agence.
+Le planning s'active **par projet**. À la création du projet, ou dans **Paramètres** → **Modifier**, activez l'option **Planning**. Si l'onglet n'apparaît pas, vérifiez que le planning est activé pour ce projet.
 :::
+
+## Activer le planning sur un projet
+
+1. Ouvrez les **Paramètres** du projet
+2. Cliquez sur **Modifier**
+3. Activez l'option **Planning**
+4. Enregistrez
+
+Désactiver le planning masque l'onglet et désactive aussi le partage client du planning.
+
+Pour partager le calendrier avec le client, activez ensuite le **partage global client** dans l'onglet **Planning**, et marquez les tâches visibles. Voir [Partager le planning avec le client](#partager-le-planning-avec-le-client).
 
 ## Créer une tâche
 

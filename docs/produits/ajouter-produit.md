@@ -31,8 +31,9 @@ Créez un produit directement dans le projet :
 #### Informations de base
 - **Nom** : Nom du produit (obligatoire)
 - **Référence** : Référence interne ou du fabricant
-- **Type de produit** : Catégorie du produit
+- **Type de produit** : Catégorie(s) du produit — gérez la liste dans [Types de produits](/agence/types-produits)
 - **Description** : Description détaillée
+- **Note technique** : Notes internes (jamais visibles par les clients ; exportables dans le carnet et la feuille de calcul)
 
 #### Informations commerciales
 - **Fabricant** : Nom du fabricant
@@ -41,9 +42,22 @@ Créez un produit directement dans le projet :
 - **Quantité** : Quantité dans le projet
 
 #### Organisation
-- **Zone** : Zone du projet (pièce, étage, etc.)
-- **Lot** : Corps de métier associé
+- **Zone** : Zone du projet (pièce, étage, etc.) — voir [Gestion des zones](/projet/gestion-zones)
+- **Lot** : Corps de métier associé — voir [Gestion des lots](/projet/gestion-lots)
+- **Fourniture / pose** : Visible uniquement si un lot est sélectionné
+  - **Fourniture & pose**
+  - **Pose seule**
+  - **Ni fourniture, ni pose**
 - **Statut** : Étape du cycle de vie (voir [Statuts des produits](/comprendre/statuts-produits))
+
+#### Suivi de livraison
+Ces champs sont visibles par le client lorsqu'ils sont renseignés :
+
+- **Date de réception estimée**
+- **Lien de suivi** (URL du transporteur)
+- **Numéro de suivi**
+
+Si un lien de suivi est présent, le bouton **Suivre le colis** ouvre le suivi dans un nouvel onglet.
 
 3. Ajoutez des images si nécessaire :
    - Cliquez sur **Ajouter des images**

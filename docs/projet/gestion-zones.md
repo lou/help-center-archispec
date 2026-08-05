@@ -42,3 +42,8 @@ Vous pouvez réorganiser l'ordre des zones par glisser-déposer :
 4. Confirmez l'action
 
 **Attention** : Si la zone contient des produits, ils seront tous désassignés de la zone et apparaitront "Sans zone".
+
+## Articles liés
+
+- [Gestion des lots](/projet/gestion-lots)
+- [Filtrer les produits](/produits/filtres)

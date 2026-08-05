@@ -49,6 +49,12 @@ Sur une image ou un PDF, ouvrez la prévisualisation puis cliquez sur le documen
 
 Consultez [Annotations](/projet/annotations) pour le détail.
 
+## Prévisualiser audio et vidéo
+
+Les fichiers audio et vidéo s'ouvrent dans la même prévisualisation, avec un lecteur intégré (lecture, pause, volume). Ils ne sont pas annotables.
+
+Comme pour les autres fichiers, le client ne voit que ceux rendus visibles (icône œil).
+
 ## Fichiers liés aux produits
 
 Chaque produit dispose de son propre espace fichiers :

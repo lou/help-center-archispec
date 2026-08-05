@@ -23,7 +23,7 @@ The client portal offers the following tabs:
 |-----|---------|
 | **Products** | Products proposed by the agency |
 | **Files** | Documents shared by the agency (if at least one file is visible) |
-| **Progress** | Shared planning (if enabled by the agency) |
+| **Progress** | Shared planning (if planning is enabled on the project and shared) |
 | **Chat** | External channel — communication with the team |
 
 Clients also access their **Account** (profile and notifications) via the menu in the top right.
@@ -39,6 +39,7 @@ For each visible product, depending on [sharing settings](/projet/parametres-par
 - Name, description, and images
 - Price (if shared)
 - Web link (if shared)
+- Delivery tracking (estimated date, tracking number and link, when filled in)
 
 ### Files
 
@@ -46,7 +47,7 @@ Only files the agency has made visible (eye icon enabled). View and download onl
 
 ### Progress
 
-Visible only if the agency has enabled planning sharing at the project level. The client sees tasks marked as visible.
+Visible only if planning is enabled on the project and client sharing is turned on. The client sees tasks marked as visible.
 
 ### Chat
 

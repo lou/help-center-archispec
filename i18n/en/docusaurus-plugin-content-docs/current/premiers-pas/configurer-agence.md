@@ -34,6 +34,14 @@ If a colleague invited you:
 
 For role details, see [Member management](/agence/gestion-membres) and [Roles and permissions](/comprendre/roles-permissions).
 
+## Configure the agency
+
+From the agency menu, you can also:
+
+- Manage [product types](/agence/types-produits)
+- Build the [companies](/agence/entreprises) contractor directory
+- Manage manufacturers and suppliers
+
 ## Next step
 
 Continue to [Create a project and add a product](/premiers-pas/premier-projet-produit).

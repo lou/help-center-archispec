@@ -112,7 +112,7 @@ Enable price sharing in the project [sharing settings](/projet/parametres-partag
 
 ### The client can't see the Progress tab
 
-Planning must be enabled for the agency and **global client sharing** must be enabled in the **Planning** tab.
+Planning must be **enabled on the project** (Settings → Edit → Planning) and **global client sharing** must be enabled in the **Planning** tab.
 
 See [Planning](/projet/planning) and [Client portal overview](/portail-client/vue-ensemble).
 
@@ -127,6 +127,12 @@ See [Annotations](/projet/annotations).
 ### My client can't see the annotations
 
 The file must be made visible to the client (eye icon). Once the file is visible, the client sees the annotations and can reply.
+
+### The Planning tab doesn't appear
+
+Open project **Settings** → **Edit**, then turn on the **Planning** option. Planning is configured per project.
+
+See [Planning](/projet/planning).
 
 ## Need more help?
 

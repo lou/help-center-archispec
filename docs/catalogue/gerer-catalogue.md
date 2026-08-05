@@ -57,4 +57,4 @@ La modification d'un produit du catalogue n'affecte pas automatiquement les copi
 
 - Constituez votre catalogue au fil de vos sourcing pour gagner du temps sur les projets futurs
 - Utilisez l'extension pour alimenter rapidement le catalogue depuis les sites fournisseurs
-- Organisez vos types de produits dans les paramètres de l'agence pour faciliter le filtrage
+- Organisez vos [types de produits](/agence/types-produits) dans les paramètres de l'agence pour faciliter le filtrage

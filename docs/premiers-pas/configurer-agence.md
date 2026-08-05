@@ -34,6 +34,14 @@ Si un collègue vous a invité :
 
 Pour le détail des rôles, consultez [Gestion des membres](/agence/gestion-membres) et [Rôles et permissions](/comprendre/roles-permissions).
 
+## Paramétrer l'agence
+
+Depuis le menu de l'agence, vous pouvez aussi :
+
+- Gérer les [types de produits](/agence/types-produits)
+- Constituer le répertoire des [entreprises](/agence/entreprises) intervenantes
+- Gérer fabricants et fournisseurs
+
 ## Étape suivante
 
 Passez à [Créer un projet et ajouter un produit](/premiers-pas/premier-projet-produit).

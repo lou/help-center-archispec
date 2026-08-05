@@ -39,13 +39,27 @@ Définitions des termes utilisés dans Archispec et dans ce centre d'aide.
 
 **Crédit 3D** — Unité consommée pour générer un modèle 3D à partir de l'image d'un produit (1 crédit par génération).
 
+## E
+
+**Entreprise** — Fiche d'une société intervenante au niveau agence, assignable comme intervenant sur un lot. Voir [Entreprises](/agence/entreprises).
+
 ## F
 
 **Feuille de calcul** — Export Excel des produits sélectionnés.
 
+**Fourniture / pose** — Champ produit (si un lot est défini) indiquant si le lot assure la fourniture, la pose, les deux, ou aucun des deux.
+
 ## L
 
-**Lot** — Catégorie de corps de métier dans un projet (plomberie, menuiserie, etc.). Les produits et les tâches de planning peuvent être rattachés à un lot.
+**Lot** — Catégorie de corps de métier dans un projet (plomberie, menuiserie, etc.). Les produits et les tâches de planning peuvent être rattachés à un lot. Voir [Gestion des lots](/projet/gestion-lots).
+
+## M
+
+**Mention** — Notification adressée à un membre via `@` dans le chat ou une annotation. Voir [Chat](/projet/chat).
+
+## N
+
+**Note technique** — Champ texte interne sur un produit, jamais visible par les clients, exportable dans le carnet et la feuille de calcul.
 
 ## P
 
@@ -66,6 +80,10 @@ Définitions des termes utilisés dans Archispec et dans ce centre d'aide.
 **Siège** — Place utilisateur incluse dans l'abonnement payant. Chaque membre actif ou invitation en attente consomme un siège.
 
 **Statut** — Étape du cycle de vie d'un produit (proposé, aimé, validé, commandé, etc.). Voir [Statuts des produits](/comprendre/statuts-produits).
+
+## T
+
+**Type** — Catégorie de produit au niveau agence, utilisée pour filtrer et classer. Voir [Types de produits](/agence/types-produits).
 
 ## Z
 

@@ -35,8 +35,10 @@ Nouveau sur Archispec ? Suivez le parcours guidé :
 
 - [Partage client](/projet/partage-client) — Inviter et collaborer avec vos clients
 - [Gestion des zones](/projet/gestion-zones) — Organiser par pièces et espaces
+- [Gestion des lots](/projet/gestion-lots) — Corps de métier et intervenants
 - [Planning](/projet/planning) — Piloter le chantier sur une timeline
 - [Fichiers](/projet/fichiers) — Centraliser documents et exports
+- [Annotations](/projet/annotations) — Commenter un point sur un plan ou un PDF
 - [Chat](/projet/chat) — Échanger en interne ou avec le client
 - [Notifications](/projet/notifications) — Rester informé des activités
 
@@ -53,6 +55,12 @@ Nouveau sur Archispec ? Suivez le parcours guidé :
 
 - [Gérer le catalogue](/catalogue/gerer-catalogue) — Bibliothèque de produits réutilisables
 - [Extension navigateur](/extension/installation) — Sourcer depuis n'importe quel site
+
+### Agence
+
+- [Gestion des membres](/agence/gestion-membres) — Inviter l'équipe et gérer les rôles
+- [Entreprises](/agence/entreprises) — Répertoire des intervenants
+- [Types de produits](/agence/types-produits) — Catégories pour filtrer et classer
 
 ### Facturation
 

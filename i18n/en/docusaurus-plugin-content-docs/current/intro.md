@@ -35,8 +35,10 @@ New to Archispec? Follow the guided path:
 
 - [Client sharing](/projet/partage-client) — Invite and collaborate with your clients
 - [Area management](/projet/gestion-zones) — Organize by rooms and spaces
+- [Managing lots](/projet/gestion-lots) — Trades and assignees
 - [Planning](/projet/planning) — Track the build on a timeline
 - [Files](/projet/fichiers) — Centralize documents and exports
+- [Annotations](/projet/annotations) — Comment on a spot on a plan or PDF
 - [Chat](/projet/chat) — Communicate internally or with the client
 - [Notifications](/projet/notifications) — Stay informed of activity
 
@@ -53,6 +55,12 @@ New to Archispec? Follow the guided path:
 
 - [Manage the catalog](/catalogue/gerer-catalogue) — Reusable product library
 - [Browser extension](/extension/installation) — Source from any website
+
+### Agency
+
+- [Member management](/agence/gestion-membres) — Invite the team and manage roles
+- [Companies](/agence/entreprises) — Contractor directory
+- [Product types](/agence/types-produits) — Categories for filtering and organizing
 
 ### Billing
 

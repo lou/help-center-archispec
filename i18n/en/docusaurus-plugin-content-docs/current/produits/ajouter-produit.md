@@ -31,8 +31,9 @@ Create a product directly in the project:
 #### Basic information
 - **Name**: Product name (required)
 - **Reference**: Internal or manufacturer reference
-- **Product type**: Product category
+- **Product type**: Product categor(ies) — manage the list in [Product types](/agence/types-produits)
 - **Description**: Detailed description
+- **Technical note**: Internal notes (never shown to clients; exportable in the booklet and spreadsheet)
 
 #### Commercial information
 - **Manufacturer**: Manufacturer name
@@ -41,9 +42,22 @@ Create a product directly in the project:
 - **Quantity**: Quantity in the project
 
 #### Organization
-- **Area**: Project area (room, floor, etc.)
-- **Trade**: Associated trade category
+- **Area**: Project area (room, floor, etc.) — see [Area management](/projet/gestion-zones)
+- **Lot**: Associated trade category — see [Managing lots](/projet/gestion-lots)
+- **Supply / installation**: Visible only when a lot is selected
+  - **Supply & install**
+  - **Install only**
+  - **Neither supply nor install**
 - **Status**: Lifecycle stage (see [Product statuses](/comprendre/statuts-produits))
+
+#### Delivery tracking
+These fields are visible to the client when filled in:
+
+- **Estimated reception date**
+- **Tracking link** (carrier URL)
+- **Tracking number**
+
+When a tracking link is set, **Track shipment** opens tracking in a new tab.
 
 3. Add images if needed:
    - Click **Add images**

@@ -39,13 +39,19 @@ Definitions of terms used in Archispec and this help center.
 
 **3D credit** — Unit consumed to generate a 3D model from a product image (1 credit per generation).
 
+**Company** — Agency-level contractor firm card, assignable as a lot assignee. See [Companies](/agence/entreprises).
+
 ## F
 
 **Spreadsheet** — Excel export of selected products.
 
 ## L
 
-**Trade** — Trade category in a project (plumbing, carpentry, etc.). Products and planning tasks can be linked to a trade.
+**Lot** — Trade category in a project (plumbing, carpentry, etc.). Products and planning tasks can be linked to a lot. See [Managing lots](/projet/gestion-lots).
+
+## M
+
+**Mention** — Notification to a member via `@` in chat or an annotation. See [Chat](/projet/chat).
 
 ## P
 
@@ -55,7 +61,7 @@ Definitions of terms used in Archispec and this help center.
 
 **Client portal** — Dedicated interface (`/client/...`) accessible to clients invited to a project. See [Overview](/portail-client/vue-ensemble).
 
-**Product** — Central element of the specification: furniture, equipment, finish, or fixture. Each product has a status, price, images, and can be linked to an area and trade.
+**Product** — Central element of the specification: furniture, equipment, finish, or fixture. Each product has a status, price, images, and can be linked to an area and lot.
 
 **Owner** — Highest role. At agency or project level, has all permissions including archiving and ownership transfer.
 
@@ -66,6 +72,14 @@ Definitions of terms used in Archispec and this help center.
 **Seat** — User slot included in the paid subscription. Each active member or pending invitation uses one seat.
 
 **Status** — Stage in a product's lifecycle (proposed, liked, approved, ordered, etc.). See [Product statuses](/comprendre/statuts-produits).
+
+**Supply / installation** — Product field (when a lot is set) indicating whether the lot covers supply, install, both, or neither.
+
+## T
+
+**Technical note** — Internal text field on a product, never shown to clients, exportable in the booklet and spreadsheet.
+
+**Type** — Agency-level product category used for filtering and organizing. See [Product types](/agence/types-produits).
 
 ## Z
 

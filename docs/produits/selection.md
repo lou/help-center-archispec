@@ -44,6 +44,8 @@ Le bouton "Actions" permet d'effectuer des actions de groupe sur les produits se
 3. Choisissez les champs à modifier :
    - Statut
    - Zone
+   - Lot
+   - Types (ajout)
 4. Entrez les nouvelles valeurs
 5. Cliquez sur **Sauvegarder**
 

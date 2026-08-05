@@ -37,6 +37,16 @@ In addition to project chat, each product has its own discussion thread:
 
 This centralizes communication around a specific product (approval, alternatives, technical questions).
 
+## Mention someone with @
+
+In chat (project or product) and in [annotations](/projet/annotations), type `@` then select a member from the list.
+
+- **Internal channel**: you can mention team members only
+- **External channel** and client-side chat: you can mention the team and clients
+- **Annotations**: team and clients can be mentioned
+
+The mentioned person receives a notification (app and/or email based on their preferences). See [Notifications](/projet/notifications).
+
 ## Unread messages
 
 A counter shows the number of unread messages on each channel. Check chat regularly so you don't miss client feedback.
