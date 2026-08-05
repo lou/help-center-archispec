@@ -34,6 +34,7 @@ Then open [http://localhost:3000](http://localhost:3000) — both `/` and `/en/`
 
 - French source docs: `docs/`
 - English translations: `i18n/en/docusaurus-plugin-content-docs/current/`
+- French UI strings for Typesense search: `i18n/fr/code.json` (needed because `docusaurus-theme-search-typesense` does not load the built-in Algolia FR translations)
 - After adding or renaming French pages, run `pnpm write-translations -- --locale en` to refresh translation keys, then update the English files.
 
 URLs:
@@ -41,11 +42,14 @@ URLs:
 - English: `https://help.archispec.fr/en/`
 ## Deployment
 
+
+## Deploy to Production
+
+We are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
 ```bash
 GIT_USER=<Your GitHub username> npm run deploy
 ```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
 
 
 ## Add videos to the website
