@@ -43,6 +43,12 @@ By default, files are not visible to the client.
 For more details on client sharing, see [Client sharing](/projet/partage-client).
 :::
 
+## Annotate an image or PDF
+
+On an image or PDF, open the preview then click the document to place a pinpoint comment. The team and clients can reply in the same thread, resolve the item, or mention someone with `@`.
+
+See [Annotations](/projet/annotations) for details.
+
 ## Product files
 
 Each product has its own file space:
@@ -61,4 +67,4 @@ When you export products (PDF spec book or Excel spreadsheet), Archispec generat
 
 ## Client side
 
-Clients invited to the project can view and download only files you have made visible. They cannot add, edit, or delete files.
+Clients invited to the project can view and download only files you have made visible. They cannot add, edit, or delete files. They can, however, [annotate](/projet/annotations) visible images and PDFs.

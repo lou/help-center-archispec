@@ -35,6 +35,12 @@ Ces préférences s'appliquent par défaut à tous vos projets. Vous pouvez les 
 | Statut modifié par un associé | Un collègue met à jour le statut d'un produit |
 | Message d'un associé | Un membre de l'équipe envoie un message dans le chat |
 | Message d'un client | Un client vous contacte via le chat |
+| Annotations | Un commentaire est ajouté sur une annotation, ou une annotation est résolue / rouverte |
+| Mentions | Quelqu'un vous mentionne avec `@` (chat ou annotation) |
+
+:::info
+Les notifications d'annotations sont destinées à l'équipe. Les clients sont alertés lorsqu'ils sont mentionnés avec `@`. Voir [Annotations](/projet/annotations).
+:::
 
 ## Bonnes pratiques
 

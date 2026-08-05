@@ -11,6 +11,8 @@ Définitions des termes utilisés dans Archispec et dans ce centre d'aide.
 
 **Agence** — Espace de travail partagé regroupant les membres, le catalogue et les projets.
 
+**Annotation** — Commentaire ancré sur un point précis d'une image ou d'un PDF, avec un fil de discussion. Voir [Annotations](/projet/annotations).
+
 **Administrateur** — Rôle intermédiaire au niveau agence ou projet. Peut gérer les membres et les paramètres, mais ne peut pas transférer la propriété ni archiver un projet.
 
 **Associé** — Rôle de base pour les membres de l'équipe. Peut travailler sur les produits, fichiers et chat.

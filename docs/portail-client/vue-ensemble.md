@@ -42,7 +42,7 @@ Pour chaque produit visible, selon les [paramètres de partage](/projet/parametr
 
 ### Fichiers
 
-Uniquement les fichiers que l'agence a rendus visibles (icône œil activée). Consultation et téléchargement uniquement — pas d'ajout ni de modification.
+Uniquement les fichiers que l'agence a rendus visibles (icône œil activée). Consultation et téléchargement uniquement — pas d'ajout ni de modification des fichiers. Sur les images et PDF visibles, le client peut toutefois placer des [annotations](/projet/annotations).
 
 ### Avancement
 
@@ -62,6 +62,7 @@ Le client accède au **canal externe** uniquement. Le canal interne de l'équipe
 | Accéder au chat interne | Non |
 | Modifier les paramètres du projet | Non |
 | Uploader des fichiers | Non |
+| Annoter une image ou un PDF visible | Oui |
 | Inviter d'autres membres de l'agence | Non |
 
 ## Prévisualiser l'espace client (côté agence)
@@ -74,4 +75,5 @@ Vous pouvez aussi ouvrir le portail client depuis l'icône **Aperçu client** da
 
 - [Inviter un client](/projet/partage-client)
 - [Valider des produits](/portail-client/validation-produits)
+- [Annotations](/projet/annotations)
 - [Statuts des produits](/comprendre/statuts-produits)

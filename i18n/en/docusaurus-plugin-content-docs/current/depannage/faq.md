@@ -116,6 +116,18 @@ Planning must be enabled for the agency and **global client sharing** must be en
 
 See [Planning](/projet/planning) and [Client portal overview](/portail-client/vue-ensemble).
 
+## Files and annotations
+
+### I can't annotate a file
+
+Annotations are only available on **images** and **PDFs**, when you open the file preview. Other formats (video, audio, etc.) are not annotatable.
+
+See [Annotations](/projet/annotations).
+
+### My client can't see the annotations
+
+The file must be made visible to the client (eye icon). Once the file is visible, the client sees the annotations and can reply.
+
 ## Need more help?
 
 Contact Archispec support via [archispec.fr](https://archispec.fr).

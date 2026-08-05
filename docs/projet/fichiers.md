@@ -43,6 +43,12 @@ Par défaut, les fichiers ne sont pas visibles par le client.
 Pour plus de détails sur le partage client, consultez [Partage client](/projet/partage-client).
 :::
 
+## Annoter une image ou un PDF
+
+Sur une image ou un PDF, ouvrez la prévisualisation puis cliquez sur le document pour placer un commentaire ponctuel. L'équipe et les clients peuvent répondre dans le même fil, résoudre le point ou mentionner un membre avec `@`.
+
+Consultez [Annotations](/projet/annotations) pour le détail.
+
 ## Fichiers liés aux produits
 
 Chaque produit dispose de son propre espace fichiers :
@@ -61,4 +67,4 @@ Lorsque vous exportez des produits (carnet de détails PDF ou feuille de calcul 
 
 ## Côté client
 
-Les clients invités au projet peuvent consulter et télécharger uniquement les fichiers que vous avez rendus visibles. Ils ne peuvent pas ajouter, modifier ni supprimer de fichiers.
+Les clients invités au projet peuvent consulter et télécharger uniquement les fichiers que vous avez rendus visibles. Ils ne peuvent pas ajouter, modifier ni supprimer de fichiers. En revanche, ils peuvent [annoter](/projet/annotations) les images et PDF visibles.

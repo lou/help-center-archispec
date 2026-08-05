@@ -11,6 +11,8 @@ Definitions of terms used in Archispec and this help center.
 
 **Agency** — Shared workspace grouping members, catalog, and projects.
 
+**Annotation** — Comment pinned to a specific spot on an image or PDF, with a discussion thread. See [Annotations](/projet/annotations).
+
 **Administrator** — Intermediate role at agency or project level. Can manage members and settings, but cannot transfer ownership or archive a project.
 
 **Member** — Base role for team members. Can work on products, files, and chat.

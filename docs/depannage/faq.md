@@ -116,6 +116,18 @@ Le planning doit être activé pour l'agence et le **partage global client** doi
 
 Consultez [Planning](/projet/planning) et [Vue d'ensemble du portail client](/portail-client/vue-ensemble).
 
+## Fichiers et annotations
+
+### Je ne peux pas annoter un fichier
+
+Les annotations sont disponibles uniquement sur les **images** et les **PDF**, en ouvrant la prévisualisation du fichier. Les autres formats (vidéo, audio, etc.) ne sont pas annotables.
+
+Consultez [Annotations](/projet/annotations).
+
+### Mon client ne voit pas les annotations
+
+Le fichier doit être rendu visible pour le client (icône œil). Une fois le fichier visible, le client voit les annotations et peut y répondre.
+
 ## Besoin d'aide supplémentaire ?
 
 Contactez le support Archispec via le site [archispec.fr](https://archispec.fr).

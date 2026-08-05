@@ -35,6 +35,12 @@ These preferences apply by default to all your projects. You can change them ind
 | Status changed by a member | A colleague updates a product's status |
 | Message from a member | A team member sends a message in chat |
 | Message from a client | A client contacts you via chat |
+| Annotations | A comment is added on an annotation, or an annotation is resolved / reopened |
+| Mentions | Someone mentions you with `@` (chat or annotation) |
+
+:::info
+Annotation notifications go to the team. Clients are alerted when they are mentioned with `@`. See [Annotations](/projet/annotations).
+:::
 
 ## Best practices
 

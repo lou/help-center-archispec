@@ -42,7 +42,7 @@ For each visible product, depending on [sharing settings](/projet/parametres-par
 
 ### Files
 
-Only files the agency has made visible (eye icon enabled). View and download only — no adding or editing.
+Only files the agency has made visible (eye icon enabled). View and download only — no adding or editing files. On visible images and PDFs, the client can still place [annotations](/projet/annotations).
 
 ### Progress
 
@@ -62,6 +62,7 @@ The client accesses the **external channel** only. The team's internal channel i
 | Access internal chat | No |
 | Edit project settings | No |
 | Upload files | No |
+| Annotate a visible image or PDF | Yes |
 | Invite other agency members | No |
 
 ## Preview the client space (agency side)
@@ -74,4 +75,5 @@ You can also open the client portal from the **Client preview** icon in the proj
 
 - [Invite a client](/projet/partage-client)
 - [Validate products](/portail-client/validation-produits)
+- [Annotations](/projet/annotations)
 - [Product statuses](/comprendre/statuts-produits)
