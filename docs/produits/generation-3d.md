@@ -80,4 +80,4 @@ Les clients voient une indication 3D sur les produits concernés, mais **ne peuv
 | Échec de la génération | Réessayez avec une autre image ou plus tard |
 | La génération n'est pas disponible | Service temporairement indisponible — réessayez plus tard |
 
-Pour plus de pistes, consultez la [FAQ](/depannage/faq).
+Pour plus de pistes, consultez la [FAQ](/faq).

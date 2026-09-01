@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 13
 title: Glossary
 ---
 
@@ -33,7 +33,7 @@ Definitions of terms used in Archispec and this help center.
 
 **Spec book** — PDF export grouping selected product sheets.
 
-**Catalog** — Agency's central product library, reusable across all projects. Accessible via the **Catalog** menu.
+**Catalog** — Agency's central product library, reusable across all projects. See [Catalog](/catalogue).
 
 **Client** — External person invited to a project to review proposed products, approve choices, and communicate via chat.
 
@@ -71,7 +71,7 @@ Definitions of terms used in Archispec and this help center.
 
 **Seat** — User slot included in the paid subscription. Each active member or pending invitation uses one seat.
 
-**Status** — Stage in a product's lifecycle (proposed, liked, approved, ordered, etc.). See [Product statuses](/comprendre/statuts-produits).
+**Status** — Stage in a product's lifecycle (proposed, liked, approved, ordered, etc.). See [Product statuses](/produits/statuts-produits).
 
 **Supply / installation** — Product field (when a lot is set) indicating whether the lot covers supply, install, both, or neither.
 

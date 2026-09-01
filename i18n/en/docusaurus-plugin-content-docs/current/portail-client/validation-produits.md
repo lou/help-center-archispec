@@ -11,7 +11,7 @@ The client portal lets your clients share feedback on the products you propose, 
 
 A client only sees products with **Proposed** status or later. **Unspecified** products remain invisible until the agency proposes them.
 
-See [Product statuses](/comprendre/statuts-produits) for the full lifecycle.
+See [Product statuses](/produits/statuts-produits) for the full lifecycle.
 
 ## Client actions
 

@@ -32,7 +32,7 @@ Si un collègue vous a invité :
 4. Saisissez l'email et choisissez le rôle
 5. Cliquez sur **Envoyer une invitation**
 
-Pour le détail des rôles, consultez [Gestion des membres](/agence/gestion-membres) et [Rôles et permissions](/comprendre/roles-permissions).
+Pour le détail des rôles, consultez [Gestion des membres](/agence/gestion-membres).
 
 ## Paramétrer l'agence
 

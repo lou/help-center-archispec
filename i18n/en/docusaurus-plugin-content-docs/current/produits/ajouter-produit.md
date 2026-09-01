@@ -48,7 +48,7 @@ Create a product directly in the project:
   - **Supply & install**
   - **Install only**
   - **Neither supply nor install**
-- **Status**: Lifecycle stage (see [Product statuses](/comprendre/statuts-produits))
+- **Status**: Lifecycle stage (see [Product statuses](/produits/statuts-produits))
 
 #### Delivery tracking
 These fields are visible to the client when filled in:
@@ -99,7 +99,7 @@ To create a copy of an existing product:
 
 ## Tips
 
-- Use the [catalog](/catalogue/gerer-catalogue) for recurring products
+- Use the [catalog](/catalogue) for recurring products
 - Create products in the project for site-specific items
 - Use the Chrome extension to quickly extract products from websites
 - Always add images to make products easy to identify

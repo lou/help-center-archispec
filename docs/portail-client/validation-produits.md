@@ -11,7 +11,7 @@ Le portail client permet à vos clients de donner leur avis sur les produits que
 
 Un client ne voit que les produits dont le statut est **Proposé** ou ultérieur. Les produits en **Non spécifié** restent invisibles tant que l'agence ne les a pas proposés.
 
-Consultez [Statuts des produits](/comprendre/statuts-produits) pour le cycle complet.
+Consultez [Statuts des produits](/produits/statuts-produits) pour le cycle complet.
 
 ## Actions du client
 

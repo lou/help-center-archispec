@@ -48,7 +48,7 @@ Créez un produit directement dans le projet :
   - **Fourniture & pose**
   - **Pose seule**
   - **Ni fourniture, ni pose**
-- **Statut** : Étape du cycle de vie (voir [Statuts des produits](/comprendre/statuts-produits))
+- **Statut** : Étape du cycle de vie (voir [Statuts des produits](/produits/statuts-produits))
 
 #### Suivi de livraison
 Ces champs sont visibles par le client lorsqu'ils sont renseignés :
@@ -99,7 +99,7 @@ Pour créer une copie d'un produit existant :
 
 ## Conseils
 
-- Utilisez le [catalogue](/catalogue/gerer-catalogue) pour les produits récurrents
+- Utilisez le [catalogue](/catalogue) pour les produits récurrents
 - Créez des produits dans le projet pour les produits spécifiques à un chantier
 - Utilisez l'extension Chrome pour extraire rapidement des produits depuis des sites web
 - Ajoutez toujours des images pour faciliter l'identification des produits

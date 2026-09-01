@@ -18,9 +18,9 @@ Gérez les membres de votre agence et leurs permissions.
 1. Cliquez sur **Inviter un nouveau membre**
 2. Entrez l'adresse email du membre
 3. Choisissez le rôle à attribuer :
-   - **Propriétaire** : accès complet
-   - **Administrateur** : peut gérer les membres et les paramètres
-   - **Associé** : accès standard
+   - **Propriétaire** : accès complet, peut transférer la propriété de l'agence
+   - **Administrateur** : gère les membres et les paramètres de l'agence
+   - **Associé** : accès standard — crée des projets, travaille sur les spécifications
 4. Choisissez les projets auxquels le membre doit accéder
 5. Cliquez sur **Envoyer une invitation**
 6. Le membre recevra un email avec un lien pour rejoindre l'agence
@@ -34,6 +34,12 @@ Gérez les membres de votre agence et leurs permissions.
 | Gérer les membres (ajouter, modifier, retirer) | ✅ | ✅ | ❌ |
 | Modifier les paramètres de l'agence | ✅ | ✅ | ❌ |
 | Transférer la propriété de l'agence | ✅ | ❌ | ❌ |
+
+Les rôles sont hiérarchiques : un administrateur hérite des permissions d'un associé, un propriétaire hérite de celles d'un administrateur.
+
+:::info
+Les **clients** ne sont pas des membres de l'agence. Ils sont invités projet par projet. Voir [Partage client](/projet/partage-client) et [Gestion des membres (projet)](/projet/gestion-membres).
+:::
 
 
 ## Modifier les permissions d'un membre

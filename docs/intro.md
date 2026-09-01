@@ -45,6 +45,7 @@ Nouveau sur Archispec ? Suivez le parcours guidé :
 ### Produits
 
 - [Ajouter un produit](/produits/ajouter-produit) — Manuel, catalogue ou extension
+- [Statuts des produits](/produits/statuts-produits) — Cycle de vie d'un produit
 - [Filtrer les produits](/produits/filtres) — Retrouver rapidement vos sélections
 - [Sélectionner les produits](/produits/selection) — Actions en lot et exports
 - [Mode prix](/produits/mode-prix) — Visualiser les décompositions de prix
@@ -53,7 +54,7 @@ Nouveau sur Archispec ? Suivez le parcours guidé :
 
 ### Catalogue et extension
 
-- [Gérer le catalogue](/catalogue/gerer-catalogue) — Bibliothèque de produits réutilisables
+- [Catalogue](/catalogue) — Bibliothèque de produits réutilisables
 - [Extension navigateur](/extension/installation) — Sourcer depuis n'importe quel site
 
 ### Agence
@@ -72,15 +73,10 @@ Nouveau sur Archispec ? Suivez le parcours guidé :
 - [Vue d'ensemble](/portail-client/vue-ensemble) — L'espace dédié à vos clients
 - [Valider des produits](/portail-client/validation-produits) — Workflow de validation client
 
-### Comprendre
+### Référence
 
-- [Statuts des produits](/comprendre/statuts-produits) — Cycle de vie d'un produit
-- [Rôles et permissions](/comprendre/roles-permissions) — Droits agence et projet
-- [Glossaire](/reference/glossaire) — Définitions des termes Archispec
-
-### Dépannage
-
-- [FAQ](/depannage/faq) — Problèmes fréquents et solutions
+- [Glossaire](/glossaire) — Définitions des termes Archispec
+- [FAQ](/faq) — Problèmes fréquents et solutions
 
 ## Besoin d'aide ?
 

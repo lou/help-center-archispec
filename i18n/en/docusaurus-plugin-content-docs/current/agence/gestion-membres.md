@@ -18,9 +18,9 @@ Manage your agency members and their permissions.
 1. Click **Invite a new member**
 2. Enter the member's email address
 3. Choose the role to assign:
-   - **Owner**: full access
-   - **Administrator**: can manage members and settings
-   - **Member**: standard access
+   - **Owner**: full access, can transfer agency ownership
+   - **Administrator**: manages members and agency settings
+   - **Member**: standard access — creates projects, works on specifications
 4. Choose the projects the member should access
 5. Click **Send invitation**
 6. The member will receive an email with a link to join the agency
@@ -34,6 +34,12 @@ Manage your agency members and their permissions.
 | Manage members (add, edit, remove) | ✅ | ✅ | ❌ |
 | Edit agency settings | ✅ | ✅ | ❌ |
 | Transfer agency ownership | ✅ | ❌ | ❌ |
+
+Roles are hierarchical: an administrator inherits a member's permissions, and an owner inherits an administrator's permissions.
+
+:::info
+**Clients** are not agency members. They are invited per project. See [Client sharing](/projet/partage-client) and [Member management (project)](/projet/gestion-membres).
+:::
 
 
 ## Edit a member's permissions

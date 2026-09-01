@@ -77,4 +77,4 @@ You can also open the client portal from the **Client preview** icon in the proj
 - [Invite a client](/projet/partage-client)
 - [Validate products](/portail-client/validation-produits)
 - [Annotations](/projet/annotations)
-- [Product statuses](/comprendre/statuts-produits)
+- [Product statuses](/produits/statuts-produits)

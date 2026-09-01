@@ -80,4 +80,4 @@ Clients see a 3D indicator on relevant products, but **cannot generate or view**
 | Generation failed | Try again with a different image or later |
 | Generation is not available | Service temporarily unavailable — try again later |
 
-For more help, see the [FAQ](/depannage/faq).
+For more help, see the [FAQ](/faq).

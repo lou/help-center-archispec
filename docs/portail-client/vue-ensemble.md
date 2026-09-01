@@ -77,4 +77,4 @@ Vous pouvez aussi ouvrir le portail client depuis l'icône **Aperçu client** da
 - [Inviter un client](/projet/partage-client)
 - [Valider des produits](/portail-client/validation-produits)
 - [Annotations](/projet/annotations)
-- [Statuts des produits](/comprendre/statuts-produits)
+- [Statuts des produits](/produits/statuts-produits)

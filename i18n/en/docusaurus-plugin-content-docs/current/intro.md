@@ -45,6 +45,7 @@ New to Archispec? Follow the guided path:
 ### Products
 
 - [Add a product](/produits/ajouter-produit) — Manual, catalog, or extension
+- [Product statuses](/produits/statuts-produits) — Product lifecycle
 - [Filter products](/produits/filtres) — Quickly find your selections
 - [Select products](/produits/selection) — Bulk actions and exports
 - [Price mode](/produits/mode-prix) — View price breakdowns
@@ -53,7 +54,7 @@ New to Archispec? Follow the guided path:
 
 ### Catalog and extension
 
-- [Manage the catalog](/catalogue/gerer-catalogue) — Reusable product library
+- [Catalog](/catalogue) — Reusable product library
 - [Browser extension](/extension/installation) — Source from any website
 
 ### Agency
@@ -72,15 +73,10 @@ New to Archispec? Follow the guided path:
 - [Overview](/portail-client/vue-ensemble) — Your clients' dedicated space
 - [Validate products](/portail-client/validation-produits) — Client validation workflow
 
-### Understand
+### Reference
 
-- [Product statuses](/comprendre/statuts-produits) — Product lifecycle
-- [Roles and permissions](/comprendre/roles-permissions) — Agency and project rights
-- [Glossary](/reference/glossaire) — Archispec term definitions
-
-### Troubleshooting
-
-- [FAQ](/depannage/faq) — Common issues and solutions
+- [Glossary](/glossaire) — Archispec term definitions
+- [FAQ](/faq) — Common issues and solutions
 
 ## Need help?
 

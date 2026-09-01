@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 13
 title: Glossaire
 ---
 
@@ -33,7 +33,7 @@ Définitions des termes utilisés dans Archispec et dans ce centre d'aide.
 
 **Carnet de détails** — Export PDF regroupant les fiches des produits sélectionnés.
 
-**Catalogue** — Bibliothèque centrale de produits de l'agence, réutilisable dans tous les projets. Accessible via le menu **Catalogue**.
+**Catalogue** — Bibliothèque centrale de produits de l'agence, réutilisable dans tous les projets. Voir [Catalogue](/catalogue).
 
 **Client** — Personne externe invitée sur un projet pour consulter les produits proposés, valider des choix et échanger via le chat.
 
@@ -79,7 +79,7 @@ Définitions des termes utilisés dans Archispec et dans ce centre d'aide.
 
 **Siège** — Place utilisateur incluse dans l'abonnement payant. Chaque membre actif ou invitation en attente consomme un siège.
 
-**Statut** — Étape du cycle de vie d'un produit (proposé, aimé, validé, commandé, etc.). Voir [Statuts des produits](/comprendre/statuts-produits).
+**Statut** — Étape du cycle de vie d'un produit (proposé, aimé, validé, commandé, etc.). Voir [Statuts des produits](/produits/statuts-produits).
 
 ## T
 

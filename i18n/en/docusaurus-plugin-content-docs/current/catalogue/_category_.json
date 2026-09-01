@@ -1,8 +1,0 @@
-{
-	"label": "Catalog",
-	"position": 5,
-	"link": {
-		"type": "generated-index",
-		"description": "Manage your reusable product catalog across all projects."
-	}
-}

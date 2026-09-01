@@ -1,9 +1,9 @@
 ---
-sidebar_position: 1
-title: Gérer le catalogue
+sidebar_position: 5
+title: Catalogue
 ---
 
-# Gérer le catalogue
+# Catalogue
 
 Le **Catalogue** est la bibliothèque centrale de produits de votre agence. Les produits y sont stockés une fois et réutilisés dans tous vos projets.
 

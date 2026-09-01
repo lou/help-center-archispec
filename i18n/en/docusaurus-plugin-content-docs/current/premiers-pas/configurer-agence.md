@@ -32,7 +32,7 @@ If a colleague invited you:
 4. Enter the email and choose the role
 5. Click **Send invitation**
 
-For role details, see [Member management](/agence/gestion-membres) and [Roles and permissions](/comprendre/roles-permissions).
+For role details, see [Member management](/agence/gestion-membres).
 
 ## Configure the agency
 

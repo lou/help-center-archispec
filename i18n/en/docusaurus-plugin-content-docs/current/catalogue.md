@@ -1,9 +1,9 @@
 ---
-sidebar_position: 1
-title: Manage the catalog
+sidebar_position: 5
+title: Catalog
 ---
 
-# Manage the catalog
+# Catalog
 
 The **Catalog** is your agency's central product library. Products are stored once and reused across all your projects.
 

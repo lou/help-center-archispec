@@ -1,8 +1,0 @@
-{
-	"label": "Comprendre",
-	"position": 9,
-	"link": {
-		"type": "generated-index",
-		"description": "Comprenez les concepts clés d'Archispec : statuts des produits, rôles et permissions."
-	}
-}

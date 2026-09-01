@@ -5,7 +5,7 @@ title: Gestion des membres
 
 # Gestion des membres
 
-Gérez les membres de votre équipe qui ont accès au projet.
+Gérez les membres de votre équipe qui ont accès au projet. Chaque membre a un rôle spécifique à ce projet.
 
 ## Ajouter un membre
 
@@ -13,7 +13,10 @@ Gérez les membres de votre équipe qui ont accès au projet.
 2. Cliquez sur **Membres** dans le menu latéral
 3. Cliquez sur **Inviter un nouveau membre**
 4. Sélectionnez le membre de l'agence qui doit accéder au projet
-5. Choisissez le rôle à attribuer
+5. Choisissez le rôle à attribuer :
+   - **Propriétaire** : contrôle total du projet, peut l'archiver
+   - **Administrateur** : gère les paramètres et les membres du projet
+   - **Associé** : travaille sur les produits, fichiers et chat
 6. Cliquez sur **Ajouter un membre**
 
 ## Modifier les permissions d'un membre
@@ -23,7 +26,7 @@ Gérez les membres de votre équipe qui ont accès au projet.
 3. Les modifications prennent effet immédiatement.
 
 
-## Rôles et permissions
+## Rôles et permissions (équipe)
 
 | Permission | Propriétaire | Administrateur | Associé |
 |------------|:------------:|:--------------:|:-------:|
@@ -34,3 +37,11 @@ Gérez les membres de votre équipe qui ont accès au projet.
 | Gérer les membres | ✅ | ✅ | ❌ |
 | Transférer la propriété | ✅ | ❌ | ❌ |
 | Archiver le projet | ✅ | ❌ | ❌ |
+
+Les rôles sont hiérarchiques : un administrateur hérite des permissions d'un associé, un propriétaire hérite de celles d'un administrateur.
+
+## Clients
+
+Le rôle **Client** donne accès à l'espace dédié du projet : produits proposés, fichiers partagés, chat externe, annotations sur les fichiers visibles.
+
+Les clients ne sont pas ajoutés via **Membres** : ils sont invités depuis les paramètres **Client**. Consultez [Partage client](/projet/partage-client).

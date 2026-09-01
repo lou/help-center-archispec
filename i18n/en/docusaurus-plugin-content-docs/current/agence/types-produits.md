@@ -40,4 +40,4 @@ Keep type names consistent across the agency so filtering stays clear from one p
 
 - [Add a product](/produits/ajouter-produit)
 - [Filter products](/produits/filtres)
-- [Manage the catalog](/catalogue/gerer-catalogue)
+- [Catalog](/catalogue)

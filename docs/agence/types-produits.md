@@ -40,4 +40,4 @@ Harmonisez les noms de types dans toute l'agence pour que le filtrage reste coh√
 
 - [Ajouter un produit](/produits/ajouter-produit)
 - [Filtrer les produits](/produits/filtres)
-- [G√©rer le catalogue](/catalogue/gerer-catalogue)
+- [Catalogue](/catalogue)

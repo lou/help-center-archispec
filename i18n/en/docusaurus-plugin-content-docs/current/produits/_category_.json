@@ -3,6 +3,6 @@
 	"position": 4,
 	"link": {
 		"type": "generated-index",
-		"description": "Manage your products: add, filter, select, export, and generate 3D models."
+		"description": "Manage your products: statuses, add, filter, select, export, and generate 3D models."
 	}
 }

@@ -54,7 +54,7 @@ Le produit est créé dans le projet. Un lien vers la fiche produit s'affiche po
 
 Le produit est enregistré dans le catalogue de votre agence. Vous pourrez le réutiliser dans vos projets ultérieurement.
 
-Consultez [Gérer le catalogue](/catalogue/gerer-catalogue) pour plus de détails.
+Consultez [Catalogue](/catalogue) pour plus de détails.
 
 ## Dépannage
 

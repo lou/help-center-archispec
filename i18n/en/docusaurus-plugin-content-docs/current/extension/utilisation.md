@@ -54,7 +54,7 @@ The product is created in the project. A link to the product page is displayed f
 
 The product is saved to your agency catalog. You can reuse it in your projects later.
 
-See [Manage the catalog](/catalogue/gerer-catalogue) for more details.
+See [Catalog](/catalogue) for more details.
 
 ## Troubleshooting
 
