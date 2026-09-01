@@ -22,7 +22,7 @@ Le client reçoit un email avec un lien pour accéder à son espace dédié.
 Avant d'inviter, ou après avoir configuré vos produits :
 
 1. Utilisez la [prévisualisation client](/projet/previsualisation-client) pour voir l'interface telle que le client la verra
-2. Vérifiez que les bons produits sont au statut **Proposé** (les produits « Non spécifié » ne sont pas visibles)
+2. Vérifiez que les bons produits sont au statut **Proposé** (les produits **masqués pour le client** ne sont pas visibles)
 
 ## Configurer le partage
 

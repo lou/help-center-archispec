@@ -11,9 +11,8 @@ Chaque produit suit un cycle de vie qui reflète son avancement, de la propositi
 
 | Statut | Description | Visible par le client |
 |--------|-------------|:---------------------:|
-| **Non spécifié** | Produit en cours de préparation, non encore proposé | Non |
+| **Masqué pour le client** | Produit en cours de préparation, non encore proposé | Non |
 | **Proposé** | Produit présenté au client pour avis | Oui |
-| **Aimé** | Le client a exprimé son intérêt | Oui |
 | **Écarté** | Le client a rejeté le produit | Oui |
 | **Validé** | Le client a validé le choix | Oui |
 | **Commandé** | Le produit a été commandé | Oui |
@@ -31,8 +30,8 @@ Les associés, administrateurs et propriétaires peuvent modifier le statut de n
 
 Les clients invités peuvent faire évoluer les produits **proposés** :
 
-- Passer un produit en **Aimé** ou **Écarté**
-- **Valider** un produit qu'ils ont aimé
+- **Valider** le produit
+- **Écarter** le produit
 
 Les statuts post-validation (commandé, livraison, réception, installation) sont en général gérés par l'agence.
 
@@ -46,6 +45,6 @@ Vous pouvez aussi modifier le statut de plusieurs produits en lot via [Sélectio
 
 ## Bonnes pratiques
 
-- Gardez les produits en **Non spécifié** tant qu'ils ne sont pas prêts à être présentés
+- Gardez les produits en **Masqué pour le client** tant qu'ils ne sont pas prêts à être présentés
 - Passez en **Proposé** uniquement quand le produit est complet (images, prix, description)
 - Utilisez les filtres par statut pour suivre l'avancement — voir [Filtrer les produits](/produits/filtres)

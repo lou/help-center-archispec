@@ -16,15 +16,15 @@ Create your first project and add a product to start your specification.
 
 You are redirected to the project page.
 
-## Set up areas (recommended)
+## Set up sections (recommended)
 
-Areas organize your products by room or floor:
+Sections organize your products by room or floor:
 
 1. Go to project **Settings**
-2. Click **Areas**
-3. Add your areas (e.g. "Kitchen", "Living room")
+2. Click **Sections**
+3. Add your sections (e.g. "Kitchen", "Living room")
 
-See [Area management](/projet/gestion-zones) for more details.
+See [Section management](/projet/gestion-sections) for more details.
 
 ## Add your first product
 
@@ -34,8 +34,8 @@ Choose one of these methods:
 
 1. In the **Products** tab, click **New product**
 2. Enter at least the product **name**
-3. Assign an **area** if you created any
-4. Click **Create**
+3. Assign a **section** if you created any
+4. Click **Save**
 
 ### From the browser extension
 

@@ -22,7 +22,7 @@ The client receives an email with a link to access their dedicated space.
 Before inviting, or after configuring your products:
 
 1. Use [client preview](/projet/previsualisation-client) to see the interface as the client will see it
-2. Check that the right products are **Proposed** (**Unspecified** products are not visible)
+2. Check that the right products are **Proposed** (**hidden from client** products are not visible)
 
 ## Configure sharing
 

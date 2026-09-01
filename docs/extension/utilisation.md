@@ -41,7 +41,7 @@ Apprenez à utiliser l'extension Archispec pour extraire et ajouter des produits
 1. Sélectionnez le **projet** de destination dans la liste déroulante
 2. Une fois le projet choisi, renseignez optionnellement :
    - **Lot** (corps de métier)
-   - **Zone** (pièce ou espace)
+   - **Section** (pièce ou espace)
    - **Type de produit**
 3. Cliquez sur **Ajouter**
 

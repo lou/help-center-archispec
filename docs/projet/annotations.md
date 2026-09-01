@@ -5,7 +5,7 @@ title: Annotations
 
 # Annotations
 
-Commentez un point précis sur un plan, une image ou un PDF, directement dans la prévisualisation du fichier. Chaque annotation ouvre un fil de discussion partagé avec l'équipe et les clients du projet.
+Commentez un point précis sur un plan, une image ou un PDF, directement dans la prévisualisation du fichier. Chaque annotation ouvre un fil de discussion partagé avec l'équipe et, selon le canal choisi, avec les clients du projet.
 
 ## Fichiers concernés
 
@@ -20,14 +20,43 @@ Les autres types de fichiers (vidéo, audio, etc.) se prévisualisent sans annot
 
 1. Ouvrez le fichier image ou PDF depuis **Fichiers**
 2. Cliquez sur l'endroit du document à commenter (le curseur devient une croix)
-3. Saisissez votre commentaire dans la fenêtre qui s'ouvre
-4. Validez pour créer l'annotation
+3. Choisissez le **canal** de discussion :
+   - **Externe** — visible par l'équipe et les clients
+   - **Interne** — visible par l'équipe uniquement
+4. Optionnellement, **liez un produit** pour contextualiser l'annotation
+5. Saisissez votre commentaire
+6. Validez pour créer l'annotation
 
-Un marqueur numéroté apparaît à l'emplacement choisi. Sur un PDF multipage, l'annotation est rattachée à la **page** courante.
+Un marqueur apparaît à l'emplacement choisi. Sur un PDF multipage, l'annotation est rattachée à la **page** courante.
 
 :::info
 L'annotation n'est créée qu'après l'envoi du premier commentaire. Fermer la fenêtre sans écrire n'enregistre rien.
 :::
+
+## Canal interne ou externe
+
+Comme pour le chat du projet, chaque annotation dispose de deux canaux :
+
+| Canal | Visible par |
+|-------|-------------|
+| **Externe** | Équipe et clients |
+| **Interne** | Équipe uniquement |
+
+Basculez entre les deux via les onglets en haut du fil d'annotation. Les clients ne voient que les fils **externes** sur les fichiers partagés.
+
+:::info
+Si vous liez un produit **masqué pour le client** à une annotation externe sur un fichier partagé, l'annotation n'apparaît pas dans l'espace client.
+:::
+
+## Lier un produit
+
+Pour associer une annotation à un produit du projet :
+
+1. Ouvrez ou créez une annotation
+2. Cliquez sur **Lier un produit**
+3. Recherchez et sélectionnez le produit souhaité
+
+Un encart avec la vignette du produit s'affiche dans le fil. Cliquez dessus pour ouvrir la fiche produit.
 
 ## Répondre à une annotation
 
@@ -76,7 +105,7 @@ Pour activer ou désactiver ces alertes (application et email), consultez [Notif
 
 ## Côté client
 
-Les clients peuvent annoter les fichiers que vous avez rendus visibles. Ils voient les mêmes marqueurs et fils de discussion que l'équipe sur ces documents.
+Les clients peuvent annoter les fichiers que vous avez rendus visibles. Ils voient les marqueurs et fils de discussion **externes** sur ces documents.
 
 :::tip
 Utilisez les annotations pour centraliser les retours sur un plan ou une fiche technique, plutôt que de multiplier les échanges dans le chat général.

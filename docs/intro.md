@@ -34,7 +34,7 @@ Nouveau sur Archispec ? Suivez le parcours guidé :
 ### Projets
 
 - [Partage client](/projet/partage-client) — Inviter et collaborer avec vos clients
-- [Gestion des zones](/projet/gestion-zones) — Organiser par pièces et espaces
+- [Gestion des sections](/projet/gestion-sections) — Organiser par pièces et espaces
 - [Gestion des lots](/projet/gestion-lots) — Corps de métier et intervenants
 - [Planning](/projet/planning) — Piloter le chantier sur une timeline
 - [Fichiers](/projet/fichiers) — Centraliser documents et exports
@@ -50,7 +50,7 @@ Nouveau sur Archispec ? Suivez le parcours guidé :
 - [Sélectionner les produits](/produits/selection) — Actions en lot et exports
 - [Mode prix](/produits/mode-prix) — Visualiser les décompositions de prix
 - [Bon de commande](/produits/bon-de-commande) — Commander auprès des fournisseurs
-- [Générer un modèle 3D](/produits/generation-3d) — Modèles 3D à partir d'images
+- [Générer un modèle 3D](/produits/generation-3d) — Modèles 3D par IA ou import
 
 ### Catalogue et extension
 

@@ -16,15 +16,15 @@ Créez votre premier projet et ajoutez-y un produit pour démarrer votre spécif
 
 Vous êtes redirigé vers la page du projet.
 
-## Configurer les zones (recommandé)
+## Configurer les sections (recommandé)
 
-Les zones organisent vos produits par pièce ou par étage :
+Les sections organisent vos produits par pièce ou par étage :
 
 1. Accédez aux **Paramètres** du projet
-2. Cliquez sur **Zones**
-3. Ajoutez vos zones (ex. « Cuisine », « Salon »)
+2. Cliquez sur **Sections**
+3. Ajoutez vos sections (ex. « Cuisine », « Salon »)
 
-Consultez [Gestion des zones](/projet/gestion-zones) pour plus de détails.
+Consultez [Gestion des sections](/projet/gestion-sections) pour plus de détails.
 
 ## Ajouter votre premier produit
 
@@ -34,8 +34,8 @@ Choisissez l'une de ces méthodes :
 
 1. Dans l'onglet **Produits**, cliquez sur **Nouveau produit**
 2. Renseignez au minimum le **nom** du produit
-3. Assignez une **zone** si vous en avez créé
-4. Cliquez sur **Créer**
+3. Assignez une **section** si vous en avez créé
+4. Cliquez sur **Sauvegarder**
 
 ### Depuis l'extension navigateur
 

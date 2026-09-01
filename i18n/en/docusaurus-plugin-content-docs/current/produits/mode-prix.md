@@ -27,9 +27,9 @@ When Price mode is enabled:
 
 - each product's price is displayed directly in the list
 - the total price of all products is visible in the action bar above the list
-- the total price of each area is displayed to the right of the corresponding area name
+- the total price of each section is displayed to the right of the corresponding section name
 
-This gives you an immediate view of costs, both globally and by area.
+This gives you an immediate view of costs, both globally and by section.
 
 ### Price detail and breakdown
 

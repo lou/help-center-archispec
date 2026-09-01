@@ -31,7 +31,7 @@ Ces préférences s'appliquent par défaut à tous vos projets. Vous pouvez les 
 
 | Événement | Description |
 |-----------|-------------|
-| Statut modifié par un client | Un client change le statut d'un produit (aimé, validé, etc.) |
+| Statut modifié par un client | Un client valide ou écarte un produit |
 | Statut modifié par un associé | Un collègue met à jour le statut d'un produit |
 | Message d'un associé | Un membre de l'équipe envoie un message dans le chat |
 | Message d'un client | Un client vous contacte via le chat |

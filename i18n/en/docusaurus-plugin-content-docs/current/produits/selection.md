@@ -9,7 +9,7 @@ Select one or more products to perform bulk actions.
 
 ## Select products
 
-### Select a product
+### Select one product
 1. Click the checkbox to the left of the product
 2. The product is selected (marked with a check)
 
@@ -41,9 +41,9 @@ The "Actions" button lets you perform group actions on selected products.
 #### Bulk edit
 1. Select multiple products
 2. Click **Actions** > **Update**
-3. Choose the fields to edit:
+3. Choose the fields to modify:
    - Status
-   - Area
+   - Section
    - Lot
    - Types (add)
 4. Enter the new values
@@ -58,19 +58,21 @@ The "Actions" button lets you perform group actions on selected products.
 #### Duplicate
 1. Select the products to duplicate
 2. Click **Duplicate**
-3. Choose the area where you want to duplicate the products
+3. Select one or **multiple destination sections**
 4. Click **Duplicate**
+
+Duplication runs in the background. A notification tells you when the copies are ready.
 
 ### Export
 The "Export" button lets you export products in different formats.
 
 #### Export to PDF
 1. Select the products to export
-2. Click **Export** > **Spec book**
+2. Click **Export** > **Detail booklet**
 3. Choose the fields to export
 4. Click **Export**
 5. The PDF file is generated
-6. You can download the file in your project's [Files](/projet/fichiers) section
+6. You can download the file in the project's [Files](/projet/fichiers) section
 
 #### Export to spreadsheet
 1. Select the products to export
@@ -78,7 +80,7 @@ The "Export" button lets you export products in different formats.
 3. Choose the fields to export
 4. Click **Export**
 5. The Excel file is generated
-6. You can download the file in your project's [Files](/projet/fichiers) section
+6. You can download the file in the project's [Files](/projet/fichiers) section
 
 #### Export a purchase order
-To generate a supplier purchase order PDF with purchase order number and addresses, see [Purchase order](/produits/bon-de-commande).
+To generate a supplier order PDF with purchase order number and addresses, see [Purchase order](/produits/bon-de-commande).

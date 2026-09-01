@@ -18,7 +18,7 @@ Sélectionnez un ou plusieurs produits pour effectuer des actions en lot.
 2. Tous les produits sélectionnés sont mis en surbrillance
 
 ### Sélectionner tous les produits visibles
-1. Cliquez sur la case à cocher "Tout sélectionner" dans la barre d'actions située au dessus de la liste
+1. Cliquez sur la case à cocher « Tout sélectionner » dans la barre d'actions située au-dessus de la liste
 2. Tous les produits actuellement visibles sont sélectionnés
 
 **Note** : Seuls les produits visibles (après filtres) sont sélectionnés, pas tous les produits du projet.
@@ -36,14 +36,14 @@ Une fois des produits sélectionnés, des boutons apparaissent dans la barre d'a
 
 
 ### Actions
-Le bouton "Actions" permet d'effectuer des actions de groupe sur les produits selectionnés.
+Le bouton « Actions » permet d'effectuer des actions de groupe sur les produits sélectionnés.
 
 #### Modifier en lot
 1. Sélectionnez plusieurs produits
 2. Cliquez sur **Actions** > **Mettre à jour**
 3. Choisissez les champs à modifier :
    - Statut
-   - Zone
+   - Section
    - Lot
    - Types (ajout)
 4. Entrez les nouvelles valeurs
@@ -58,11 +58,13 @@ Le bouton "Actions" permet d'effectuer des actions de groupe sur les produits se
 #### Dupliquer
 1. Sélectionnez les produits à dupliquer
 2. Cliquez sur **Dupliquer**
-3. Choisissez la zone dans laquelle vous souhaitez dupliquer les produits
+3. Sélectionnez une ou **plusieurs sections** de destination
 4. Cliquez sur **Dupliquer**
 
+La duplication s'exécute en arrière-plan. Une notification vous indique quand les copies sont prêtes.
+
 ### Exporter
-Le Bouton "Exporter" permet d'exporter les produits dans différents formats.
+Le bouton « Exporter » permet d'exporter les produits dans différents formats.
 
 #### Exporter en PDF
 1. Sélectionnez les produits à exporter

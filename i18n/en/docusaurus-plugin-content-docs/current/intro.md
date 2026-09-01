@@ -34,7 +34,7 @@ New to Archispec? Follow the guided path:
 ### Projects
 
 - [Client sharing](/projet/partage-client) — Invite and collaborate with your clients
-- [Area management](/projet/gestion-zones) — Organize by rooms and spaces
+- [Section management](/projet/gestion-sections) — Organize by rooms and spaces
 - [Managing lots](/projet/gestion-lots) — Trades and assignees
 - [Planning](/projet/planning) — Track the build on a timeline
 - [Files](/projet/fichiers) — Centralize documents and exports
@@ -50,7 +50,7 @@ New to Archispec? Follow the guided path:
 - [Select products](/produits/selection) — Bulk actions and exports
 - [Price mode](/produits/mode-prix) — View price breakdowns
 - [Purchase order](/produits/bon-de-commande) — Order from suppliers
-- [Generate a 3D model](/produits/generation-3d) — 3D models from images
+- [Generate a 3D model](/produits/generation-3d) — 3D models via AI or import
 
 ### Catalog and extension
 

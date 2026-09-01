@@ -55,7 +55,7 @@ Créez d'abord vos [entreprises](/agence/entreprises) au niveau agence si vous s
 
 ## Articles liés
 
-- [Gestion des zones](/projet/gestion-zones)
+- [Gestion des sections](/projet/gestion-sections)
 - [Entreprises](/agence/entreprises)
 - [Ajouter un produit](/produits/ajouter-produit)
 - [Planning](/projet/planning)

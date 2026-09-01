@@ -31,7 +31,7 @@ These preferences apply by default to all your projects. You can change them ind
 
 | Event | Description |
 |-------|-------------|
-| Status changed by a client | A client changes a product's status (liked, approved, etc.) |
+| Status changed by a client | A client validates or rejects a product |
 | Status changed by a member | A colleague updates a product's status |
 | Message from a member | A team member sends a message in chat |
 | Message from a client | A client contacts you via chat |

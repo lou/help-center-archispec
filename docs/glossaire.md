@@ -11,7 +11,7 @@ Définitions des termes utilisés dans Archispec et dans ce centre d'aide.
 
 **Agence** — Espace de travail partagé regroupant les membres, le catalogue et les projets.
 
-**Annotation** — Commentaire ancré sur un point précis d'une image ou d'un PDF, avec un fil de discussion. Voir [Annotations](/projet/annotations).
+**Annotation** — Commentaire ancré sur un point précis d'une image ou d'un PDF, avec un fil de discussion interne ou externe. Voir [Annotations](/projet/annotations).
 
 **Administrateur** — Rôle intermédiaire au niveau agence ou projet. Peut gérer les membres et les paramètres, mais ne peut pas transférer la propriété ni archiver un projet.
 
@@ -27,9 +27,9 @@ Définitions des termes utilisés dans Archispec et dans ce centre d'aide.
 
 ## C
 
-**Canal externe** — Fil de chat visible par l'équipe et les clients du projet.
+**Canal externe** — Fil de chat ou d'annotation visible par l'équipe et les clients du projet.
 
-**Canal interne** — Fil de chat visible uniquement par l'équipe du projet.
+**Canal interne** — Fil de chat ou d'annotation visible uniquement par l'équipe du projet.
 
 **Carnet de détails** — Export PDF regroupant les fiches des produits sélectionnés.
 
@@ -55,6 +55,8 @@ Définitions des termes utilisés dans Archispec et dans ce centre d'aide.
 
 ## M
 
+**Masqué pour le client** — Statut initial d'un produit en préparation. Le client ne le voit pas tant qu'il n'est pas passé en **Proposé**.
+
 **Mention** — Notification adressée à un membre via `@` dans le chat ou une annotation. Voir [Chat](/projet/chat).
 
 ## N
@@ -65,11 +67,13 @@ Définitions des termes utilisés dans Archispec et dans ce centre d'aide.
 
 **Parrainage** — Programme permettant à une agence de parrainer une autre agence et de recevoir des crédits sur l'abonnement. Voir [Parrainage](/facturation/parrainage).
 
-**Planning** — Vue chronologique (type Gantt) des tâches du projet, avec dépendances et partage client optionnel.
+**Phase** — Regroupement de tâches de planning par étape du projet (Études, Travaux, etc.). Voir [Planning](/projet/planning).
+
+**Planning** — Vue chronologique (type Gantt) des tâches du projet, avec phases, dépendances et partage client optionnel.
 
 **Portail client** — Interface dédiée (`/client/...`) accessible aux clients invités sur un projet. Voir [Vue d'ensemble](/portail-client/vue-ensemble).
 
-**Produit** — Élément central de la spécification : mobilier, équipement, finition ou charge. Chaque produit a un statut, un prix, des images et peut être rattaché à une zone et un lot.
+**Produit** — Élément central de la spécification : mobilier, équipement, finition ou charge. Chaque produit a un statut, un prix, des images et peut être rattaché à une section et un lot.
 
 **Propriétaire** — Rôle le plus élevé. Au niveau agence ou projet, dispose de toutes les permissions dont l'archivage et le transfert de propriété.
 
@@ -77,14 +81,12 @@ Définitions des termes utilisés dans Archispec et dans ce centre d'aide.
 
 ## S
 
+**Section** — Division spatiale d'un projet (pièce, étage, espace). Sert à organiser et filtrer les produits. Voir [Gestion des sections](/projet/gestion-sections).
+
 **Siège** — Place utilisateur incluse dans l'abonnement payant. Chaque membre actif ou invitation en attente consomme un siège.
 
-**Statut** — Étape du cycle de vie d'un produit (proposé, aimé, validé, commandé, etc.). Voir [Statuts des produits](/produits/statuts-produits).
+**Statut** — Étape du cycle de vie d'un produit (proposé, validé, commandé, etc.). Voir [Statuts des produits](/produits/statuts-produits).
 
 ## T
 
 **Type** — Catégorie de produit au niveau agence, utilisée pour filtrer et classer. Voir [Types de produits](/agence/types-produits).
-
-## Z
-
-**Zone** — Division spatiale d'un projet (pièce, étage, espace). Sert à organiser et filtrer les produits.

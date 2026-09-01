@@ -32,7 +32,7 @@ Clients also access their **Account** (profile and notifications) via the menu i
 
 ### Products
 
-The client only sees products with **Proposed** status or beyond in the lifecycle. **Unspecified** products are hidden.
+The client only sees products with **Proposed** status or beyond in the lifecycle. Products **hidden from the client** remain invisible.
 
 For each visible product, depending on [sharing settings](/projet/parametres-partage):
 

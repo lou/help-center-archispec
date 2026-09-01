@@ -27,22 +27,46 @@ Turning planning off hides the tab and also disables client planning sharing.
 
 To share the calendar with the client, then enable **global client sharing** in the **Planning** tab, and mark tasks as visible. See [Share planning with the client](#share-planning-with-the-client).
 
+## Phases
+
+**Phases** group tasks from the same project stage (Studies, Consultation, Construction, Handover, or custom labels).
+
+### Create a phase
+
+1. In the **Planning** tab, open the sidebar or task form
+2. Click **Create a phase**
+3. Enter the **name** and choose a **color**
+4. Confirm
+
+Phases appear as colored bands above their associated tasks. You can collapse or expand each phase to simplify the view.
+
+### Edit or delete a phase
+
+1. Open the phase from the task form or sidebar
+2. Change the name or color, or delete the phase
+
+Deleting a phase does not delete tasks — they are simply no longer grouped.
+
 ## Create a task
 
-1. In the **Planning** tab, click the **+** button at the top left of the timeline
+1. In the **Planning** tab, click **Create a task**
 2. Fill in the information:
-   - **Lot** or custom title
-   - **Start date** and **end date**
-   - **Progress** (percentage)
+   - **Title**: custom name or project lot
+   - **Start date** and **duration**
+   - **Phase** (optional)
+   - **Dependencies** (optional)
+   - **Client visibility** (optional)
 3. Confirm creation
+
+The form opens in a right-side panel.
 
 ## Read the planning view
 
 Each row represents a task, with:
 
 - Its period (start date → end date)
-- Its progress level
-- Any dependencies
+- Its phase, if any
+- Its dependencies (arrows between tasks)
 
 You can switch between:
 
@@ -52,28 +76,39 @@ You can switch between:
 ## Navigate quickly
 
 - Click a **task name** to jump directly to its start date
+- Click a **phase** label to jump to the start of that phase
 - The planning view automatically centers around today's date on load
+
+## Reorder tasks
+
+In the sidebar list, drag a task vertically to change its display order.
 
 ## Edit a task
 
-1. Click a **task block** to open the edit panel
+1. Click a **task block** or a sidebar entry to open the edit panel
 2. Edit the desired fields:
    - Title
    - Start date and duration
-   - Progress
+   - Phase
    - Dependencies
    - Client visibility
 
 ## Manage dependencies
 
-When a task depends on another, link them in the edit panel. An arrow appears between tasks to visualize the relationship.
+A task can depend on **multiple** preceding tasks:
 
-If you move the parent task, you immediately see the impact on the rest of the planning.
+1. In the edit panel, under **Linked to**, select the tasks that precede this one
+2. Arrows appear between tasks to visualize the relationships
+3. Click a linked task title to find it quickly on the timeline
+
+If you move a parent task, dependent tasks follow automatically.
+
+You can also create a link directly from the timeline using a task's link handle.
 
 ## Share planning with the client
 
 1. In the **Planning** tab, enable **global client sharing**
-2. The client sees tasks marked as visible in their space
+2. The client sees tasks marked as visible in their **Progress** space
 
 You can also control visibility **task by task** via the edit panel.
 
@@ -81,7 +116,7 @@ You can also control visibility **task by task** via the edit panel.
 
 Planning lets you:
 
-- Structure the project
-- Track progress in real time
-- Anticipate dependencies
+- Structure the project by phases and lots
+- Anticipate dependencies between tasks
+- Reorder tasks according to your priorities
 - Communicate more clearly with the client

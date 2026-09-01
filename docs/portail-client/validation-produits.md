@@ -9,7 +9,7 @@ Le portail client permet à vos clients de donner leur avis sur les produits que
 
 ## Produits visibles
 
-Un client ne voit que les produits dont le statut est **Proposé** ou ultérieur. Les produits en **Non spécifié** restent invisibles tant que l'agence ne les a pas proposés.
+Un client ne voit que les produits dont le statut est **Proposé** ou ultérieur. Les produits **masqués pour le client** restent invisibles tant que l'agence ne les a pas proposés.
 
 Consultez [Statuts des produits](/produits/statuts-produits) pour le cycle complet.
 
@@ -19,9 +19,8 @@ Sur chaque produit proposé, le client peut :
 
 | Action | Effet |
 |--------|-------|
-| **J'aime** | Le produit passe au statut **Aimé** |
-| **À écarter** | Le produit passe au statut **Écarté** |
 | **Valider** | Le produit passe au statut **Validé** |
+| **Écarter** | Le produit passe au statut **Écarté** |
 
 La validation demande une confirmation avant d'être enregistrée.
 
@@ -56,6 +55,6 @@ Configurez vos préférences dans [Notifications](/projet/notifications).
 
 ## Chat par produit
 
-Chaque produit dispose de son propre fil de discussion. Le client peut poser des questions sur un produit précis sans quitter sa fiche.
+Chaque produit dispose de son propre fil de discussion avec deux canaux (**Interne** et **Externe**). Le client accède au canal **Externe** pour poser des questions sur un produit précis sans quitter sa fiche.
 
 Le chat du projet (onglet **Chat**) reste disponible pour les échanges généraux.

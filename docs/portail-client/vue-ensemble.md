@@ -32,7 +32,7 @@ Le client accède aussi à son **Compte** (profil et notifications) via le menu 
 
 ### Produits
 
-Le client ne voit que les produits au statut **Proposé** ou au-delà dans le cycle de vie. Les produits « Non spécifié » sont masqués.
+Le client ne voit que les produits au statut **Proposé** ou au-delà dans le cycle de vie. Les produits **masqués pour le client** restent invisibles.
 
 Pour chaque produit visible, selon les [paramètres de partage](/projet/parametres-partage) :
 

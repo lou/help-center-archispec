@@ -27,9 +27,9 @@ Lorsque le mode Prix est activé :
 
 - le prix de chaque produit est affiché directement dans la liste
 - le prix total de tous les produits est visible dans la barre d'actions située au-dessus de la liste
-- le prix total de chaque zone est affiché à droite du nom de la zone correspondante
+- le prix total de chaque section est affiché à droite du nom de la section correspondante
 
-Cela vous permet d'avoir une vision immédiate des coûts, à la fois au niveau global et par zone.
+Cela vous permet d'avoir une vision immédiate des coûts, à la fois au niveau global et par section.
 
 ### Détail et répartition des prix
 

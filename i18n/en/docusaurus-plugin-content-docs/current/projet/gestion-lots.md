@@ -45,7 +45,7 @@ You can also import lots when **creating a new project**.
 
 ## Using lots
 
-- On a **product**: assign a lot to organize and filter. When a lot is set, you can specify [supply / installation](/produits/ajouter-produit#supply--installation).
+- On a **product**: assign a lot to organize and filter. When a lot is set, you can specify [supply / install](/produits/ajouter-produit#supply--install).
 - On **planning**: create tasks from a lot to structure the calendar.
 - In **bulk edit**: change the lot on several products via [Select products](/produits/selection).
 
@@ -55,7 +55,7 @@ Create your [companies](/agence/entreprises) at the agency level first if you wa
 
 ## Related articles
 
-- [Area management](/projet/gestion-zones)
+- [Section management](/projet/gestion-sections)
 - [Companies](/agence/entreprises)
 - [Add a product](/produits/ajouter-produit)
 - [Planning](/projet/planning)

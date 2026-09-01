@@ -11,11 +11,10 @@ Each product follows a lifecycle that reflects its progress, from the initial pr
 
 | Status | Description | Visible to client |
 |--------|-------------|:-----------------:|
-| **Unspecified** | Product being prepared, not yet proposed | No |
+| **Hidden from client** | Product being prepared, not yet proposed | No |
 | **Proposed** | Product presented to the client for review | Yes |
-| **Liked** | The client has expressed interest | Yes |
 | **Rejected** | The client has rejected the product | Yes |
-| **Approved** | The client has approved the choice | Yes |
+| **Validated** | The client has approved the choice | Yes |
 | **Ordered** | The product has been ordered | Yes |
 | **In delivery** | The product has been shipped | Yes |
 | **Received** | The product has been received on site | Yes |
@@ -25,20 +24,20 @@ Each product follows a lifecycle that reflects its progress, from the initial pr
 
 ### Agency side
 
-Members, administrators, and owners can change the status of any product at any point in the lifecycle.
+Associates, administrators, and owners can change any product status at any point in the lifecycle.
 
 ### Client side
 
 Invited clients can update **proposed** products:
 
-- Change a product to **Liked** or **Rejected**
-- **Approve** a product they liked
+- **Validate** the product
+- **Reject** the product
 
-Post-approval statuses (ordered, delivery, received, installation) are generally managed by the agency.
+Post-validation statuses (ordered, delivery, received, installed) are usually managed by the agency.
 
-## Change a product's status
+## Change a product status
 
-1. Open the product page or use the product list
+1. Open the product sheet or use the product list
 2. Click the current status
 3. Select the new status
 
@@ -46,6 +45,6 @@ You can also change the status of multiple products in bulk via [Select products
 
 ## Best practices
 
-- Keep products as **Unspecified** until they are ready to be presented
+- Keep products as **Hidden from client** until they are ready to be presented
 - Move to **Proposed** only when the product is complete (images, price, description)
 - Use status filters to track progress — see [Filter products](/produits/filtres)

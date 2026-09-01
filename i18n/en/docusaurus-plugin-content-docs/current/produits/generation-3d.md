@@ -1,62 +1,86 @@
 ---
 sidebar_position: 7
-title: Generate a 3D model
+title: 3D models
 ---
 
-# Generate a 3D model
+# 3D models
 
-Turn a product image into an interactive 3D model using artificial intelligence, then integrate it into your plans.
+Create interactive 3D models for your products: generate them with AI from a photo, or import an existing file.
 
 ## Prerequisites
 
-- At least **1 3D credit** available (see [Subscription and limits](/facturation/abonnement-et-limites))
-- At least **one image** on the product page
-- Subscription not canceled
+- At least **1 3D credit** available for AI generation (see [Subscription and limits](/facturation/abonnement-et-limites))
+- At least **one image** on the product sheet for AI generation
+- Active subscription (not cancelled)
 
-## Access 3D generation
+## Access 3D models
 
-1. Open a product page
+1. Open a product sheet (the side panel opens on the right)
 2. Click the **3D** tab
+
+Products with a 3D model display a **3D** badge in the list.
 
 ## Generate a model
 
-1. Select the image to use as the base
+1. In the **3D** tab, select the image to use as a base
 2. Click **Generate 3D model**
 3. Wait for processing to complete (a few minutes)
 
-One credit is deducted when generation starts.
+One credit is deducted when generation starts. A notification tells you when the model is ready — you can keep working during processing.
+
+## Import a model
+
+To use an existing 3D file:
+
+1. In the **3D** tab, click **Import 3D file**
+2. Select a file (GLB, OBJ, FBX, SKP, STL, etc.)
+3. Wait for the import to complete
+
+Import does not consume 3D credits.
+
+## Model history
+
+A product can have **multiple** 3D models. The **3D** panel lists all versions:
+
+- The **active** model displays in the interactive viewer
+- Previous models (earlier generations or imports) remain accessible in the list
+- Select a model to preview it or set it as the active model
 
 ## Track progress
 
-During generation, a **We are generating the 3D model. This may take a few minutes.** message is displayed.
+During generation, a message **We are generating the 3D model. This may take a few minutes.** appears, along with a background notification.
 
 The interface updates automatically when the model is ready.
 
 ## View and download
 
-Once generation is complete:
+Once the model is available:
 
 1. The interactive 3D viewer appears in the **3D** tab
 2. Click **Download 3D model** to retrieve the GLB file
-3. The model is also available in the product **Files**
+3. The model is also accessible in the product's **Files**
+
+## Filter products with 3D
+
+In the product list, open filters and enable **Products with 3D** to show only sheets that have a model.
 
 ## Choose the right image
 
-For best results:
+For better AI generation results:
 
-- Prefer a clear photo of the product alone
-- Avoid images with too many background elements
-- A slightly elevated angle often gives good results
+- Prefer a sharp photo of the product alone
+- Avoid images with too much background clutter
+- A slightly elevated angle often works well
 
 ## Regenerate a model
 
-If the result doesn't meet your expectations:
+If the result doesn't suit you:
 
 1. Click the option to **retry generation**
-2. Select a different image if needed
-3. Confirm — this uses **1 additional credit**
+2. Select another image if needed
+3. Confirm — this consumes **1 additional credit**
 
-The previous model remains accessible in the product files.
+The previous model remains accessible in the history.
 
 ## 3D credits
 
@@ -65,11 +89,11 @@ The previous model remains accessible in the product files.
 | Free | 10 lifetime credits |
 | Paid | 10 credits per month (renewed each month) |
 
-Remaining credits are displayed on the **Billing** page and in the **3D** tab.
+Remaining credits are shown on the **Billing** page and in the **3D** tab.
 
 ## Client side
 
-Clients see a 3D indicator on relevant products, but **cannot generate or view** 3D models. Generation is reserved for the agency team.
+Clients see a 3D indicator on relevant products, but **cannot generate, import, or view** 3D models. These actions are reserved for the agency team.
 
 ## Common issues
 
@@ -77,7 +101,8 @@ Clients see a 3D indicator on relevant products, but **cannot generate or view**
 |---------|----------|
 | You don't have enough credits | See [Subscription and limits](/facturation/abonnement-et-limites) |
 | Please upload at least one image | Add an image to the product before generating |
-| Generation failed | Try again with a different image or later |
+| Generation failed | Retry with another image or later |
+| Unable to import file | Check the format (GLB, OBJ, FBX, SKP, STL…) |
 | Generation is not available | Service temporarily unavailable — try again later |
 
 For more help, see the [FAQ](/faq).

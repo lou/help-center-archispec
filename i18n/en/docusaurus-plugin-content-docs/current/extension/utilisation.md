@@ -41,7 +41,7 @@ Learn how to use the Archispec extension to extract and add products quickly fro
 1. Select the destination **project** from the dropdown
 2. Once the project is selected, optionally fill in:
    - **Trade** (trade category)
-   - **Area** (room or space)
+   - **Section** (room or space)
    - **Product type**
 3. Click **Add**
 

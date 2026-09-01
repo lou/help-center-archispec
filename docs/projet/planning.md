@@ -27,22 +27,46 @@ Désactiver le planning masque l'onglet et désactive aussi le partage client du
 
 Pour partager le calendrier avec le client, activez ensuite le **partage global client** dans l'onglet **Planning**, et marquez les tâches visibles. Voir [Partager le planning avec le client](#partager-le-planning-avec-le-client).
 
+## Phases
+
+Les **phases** regroupent les tâches d'une même étape du projet (Études, Consultation, Travaux, Réception, ou libellés personnalisés).
+
+### Créer une phase
+
+1. Dans l'onglet **Planning**, ouvrez le panneau latéral ou le formulaire de tâche
+2. Cliquez sur **Créer une phase**
+3. Saisissez le **nom** et choisissez une **couleur**
+4. Validez
+
+Les phases apparaissent comme des bandes colorées au-dessus des tâches associées. Vous pouvez replier ou déplier chaque phase pour alléger la vue.
+
+### Modifier ou supprimer une phase
+
+1. Ouvrez la phase depuis le formulaire de tâche ou le panneau latéral
+2. Modifiez le nom ou la couleur, ou supprimez la phase
+
+La suppression d'une phase ne supprime pas les tâches : elles ne sont plus groupées.
+
 ## Créer une tâche
 
-1. Dans l'onglet **Planning**, cliquez sur le bouton **+** en haut à gauche de la timeline
+1. Dans l'onglet **Planning**, cliquez sur **Créer une tâche**
 2. Renseignez les informations :
-   - **Lot** ou titre personnalisé
-   - **Date de début** et **date de fin**
-   - **Avancement** (pourcentage)
+   - **Titre** : nom personnalisé ou lot du projet
+   - **Date de début** et **durée**
+   - **Phase** (optionnel)
+   - **Dépendances** (optionnel)
+   - **Visibilité client** (optionnel)
 3. Validez la création
+
+Le formulaire s'ouvre dans un panneau latéral à droite.
 
 ## Lire le planning
 
 Chaque ligne représente une tâche, avec :
 
 - Sa période (date de début → date de fin)
-- Son niveau d'avancement
-- Ses dépendances éventuelles
+- Sa phase éventuelle
+- Ses dépendances (flèches entre les tâches)
 
 Vous pouvez basculer entre :
 
@@ -52,28 +76,39 @@ Vous pouvez basculer entre :
 ## Naviguer rapidement
 
 - Cliquez sur le **nom d'une tâche** pour aller directement à sa date de début
+- Cliquez sur le libellé d'une **phase** pour vous positionner au début de celle-ci
 - Le planning se positionne automatiquement autour de la date du jour au chargement
+
+## Réorganiser les tâches
+
+Dans la liste latérale, faites glisser une tâche verticalement pour modifier son ordre d'affichage.
 
 ## Éditer une tâche
 
-1. Cliquez sur le **bloc d'une tâche** pour ouvrir le panneau d'édition
+1. Cliquez sur le **bloc d'une tâche** ou sur une entrée de la liste pour ouvrir le panneau d'édition
 2. Modifiez les champs souhaités :
    - Titre
    - Date de début et durée
-   - Avancement
+   - Phase
    - Dépendances
    - Visibilité client
 
 ## Gérer les dépendances
 
-Quand une tâche dépend d'une autre, liez-les dans le panneau d'édition. Une flèche apparaît entre les tâches pour visualiser la relation.
+Une tâche peut dépendre de **plusieurs** tâches précédentes :
 
-Si vous déplacez la tâche parente, vous visualisez immédiatement l'impact sur la suite du planning.
+1. Dans le panneau d'édition, section **Liée à**, sélectionnez les tâches qui précèdent celle-ci
+2. Des flèches apparaissent entre les tâches pour visualiser les relations
+3. Cliquez sur le titre d'une tâche liée pour la retrouver rapidement sur la timeline
+
+Si vous déplacez une tâche parente, les tâches dépendantes suivent automatiquement.
+
+Vous pouvez aussi créer un lien directement depuis la timeline via la poignée de liaison d'une tâche.
 
 ## Partager le planning avec le client
 
 1. Dans l'onglet **Planning**, activez le **partage global client**
-2. Le client voit les tâches marquées comme visibles dans son espace
+2. Le client voit les tâches marquées comme visibles dans son espace **Avancement**
 
 Vous pouvez aussi contrôler la visibilité **tâche par tâche** via le panneau d'édition.
 
@@ -81,7 +116,7 @@ Vous pouvez aussi contrôler la visibilité **tâche par tâche** via le panneau
 
 Le Planning vous permet de :
 
-- Structurer le projet
-- Suivre l'avancement en temps réel
-- Anticiper les dépendances
+- Structurer le projet par phases et lots
+- Anticiper les dépendances entre tâches
+- Réorganiser l'ordre des tâches selon vos priorités
 - Communiquer plus clairement avec le client
