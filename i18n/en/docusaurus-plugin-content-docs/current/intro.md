@@ -52,10 +52,11 @@ New to Archispec? Follow the guided path:
 - [Purchase order](/produits/bon-de-commande) — Order from suppliers
 - [Generate a 3D model](/produits/generation-3d) — 3D models via AI or import
 
-### Catalog and extension
+### Catalog and extensions
 
 - [Catalog](/catalogue) — Reusable product library
 - [Browser extension](/extension/installation) — Source from any website
+- [SketchUp extension](/sketchup/installation) — Place products in the 3D model
 
 ### Agency
 

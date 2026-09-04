@@ -52,10 +52,11 @@ Nouveau sur Archispec ? Suivez le parcours guidé :
 - [Bon de commande](/produits/bon-de-commande) — Commander auprès des fournisseurs
 - [Générer un modèle 3D](/produits/generation-3d) — Modèles 3D par IA ou import
 
-### Catalogue et extension
+### Catalogue et extensions
 
 - [Catalogue](/catalogue) — Bibliothèque de produits réutilisables
 - [Extension navigateur](/extension/installation) — Sourcer depuis n'importe quel site
+- [Extension SketchUp](/sketchup/installation) — Placer les produits dans le modèle 3D
 
 ### Agence
 

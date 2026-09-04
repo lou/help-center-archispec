@@ -105,4 +105,6 @@ Clients see a 3D indicator on relevant products, but **cannot generate, import, 
 | Unable to import file | Check the format (GLB, OBJ, FBX, SKP, STL…) |
 | Generation is not available | Service temporarily unavailable — try again later |
 
+To place these models in SketchUp (or send a SketchUp selection back to the product sheet), see the [SketchUp extension](/sketchup/utilisation).
+
 For more help, see the [FAQ](/faq).

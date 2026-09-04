@@ -105,4 +105,6 @@ Les clients voient une indication 3D sur les produits concernés, mais **ne peuv
 | Impossible d'importer le fichier | Vérifiez le format (GLB, OBJ, FBX, SKP, STL…) |
 | La génération n'est pas disponible | Service temporairement indisponible — réessayez plus tard |
 
+Pour placer ces modèles dans SketchUp (ou renvoyer une sélection SketchUp vers la fiche), voir l'[extension SketchUp](/sketchup/utilisation).
+
 Pour plus de pistes, consultez la [FAQ](/faq).

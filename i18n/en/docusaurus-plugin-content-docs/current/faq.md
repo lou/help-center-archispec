@@ -100,6 +100,20 @@ See [Installation](/extension/installation).
 
 See [Using the extension](/extension/utilisation).
 
+## SketchUp extension
+
+### The extension won't install
+
+Confirm you are on **SketchUp Desktop 2025+**, then reinstall the `.rbz` via Extension Manager. See [Installation](/sketchup/installation).
+
+### Cannot place a 3D model
+
+The product needs a 3D model (generated, imported, or linked). Also check that you are a member of the project. See [Usage](/sketchup/utilisation).
+
+### How do I update the extension?
+
+A banner appears in the panel when a newer version is available. Otherwise, download again from [archispec.fr/en/sketchup](https://archispec.fr/en/sketchup).
+
 ## Client portal
 
 ### The client can't see certain products
