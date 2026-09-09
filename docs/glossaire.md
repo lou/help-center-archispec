@@ -81,6 +81,8 @@ Définitions des termes utilisés dans Archispec et dans ce centre d'aide.
 
 ## S
 
+**Scène 3D** — Maquette interactive d’un projet (une par projet), publiée depuis SketchUp ou importée en `.glb` / `.gltf`, consultable en Orbit ou Visite. Voir [Scène 3D](/projet/scene-3d).
+
 **Section** — Division spatiale d'un projet (pièce, étage, espace). Sert à organiser et filtrer les produits. Voir [Gestion des sections](/projet/gestion-sections).
 
 **Siège** — Place utilisateur incluse dans l'abonnement payant. Chaque membre actif ou invitation en attente consomme un siège.

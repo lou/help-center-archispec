@@ -23,6 +23,7 @@ Le portail client propose les onglets suivants :
 |--------|---------|
 | **Produits** | Produits proposés par l'agence |
 | **Fichiers** | Documents partagés par l'agence (si au moins un fichier est visible) |
+| **3D** | Scène 3D du projet (si le partage 3D est activé) |
 | **Avancement** | Planning partagé (si le planning est activé sur le projet et partagé) |
 | **Chat** | Canal externe — échanges avec l'équipe |
 
@@ -44,6 +45,10 @@ Pour chaque produit visible, selon les [paramètres de partage](/projet/parametr
 ### Fichiers
 
 Uniquement les fichiers que l'agence a rendus visibles (icône œil activée). Consultation et téléchargement uniquement — pas d'ajout ni de modification des fichiers. Sur les images et PDF visibles, le client peut toutefois placer des [annotations](/projet/annotations).
+
+### 3D
+
+Visible uniquement si l’agence a activé le partage de la scène 3D (depuis l’onglet **3D** du projet ou lors de la publication SketchUp). Le client peut parcourir la scène en Orbit ou Visite, et changer de version si plusieurs existent. Voir [Scène 3D](/projet/scene-3d).
 
 ### Avancement
 

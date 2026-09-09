@@ -107,4 +107,6 @@ Les clients voient une indication 3D sur les produits concernés, mais **ne peuv
 
 Pour placer ces modèles dans SketchUp (ou renvoyer une sélection SketchUp vers la fiche), voir l'[extension SketchUp](/sketchup/utilisation).
 
+Pour publier la **maquette complète du projet** (onglet **3D**), voir [Scène 3D du projet](/projet/scene-3d).
+
 Pour plus de pistes, consultez la [FAQ](/faq).

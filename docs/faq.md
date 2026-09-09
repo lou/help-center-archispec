@@ -110,6 +110,10 @@ Vérifiez que vous êtes sur **SketchUp Desktop 2025+**, puis réinstallez le `.
 
 Le produit doit avoir un modèle 3D (généré, importé ou lié). Vérifiez aussi que vous êtes membre du projet. Voir [Utilisation](/sketchup/utilisation).
 
+### Comment publier la scène 3D du projet ?
+
+Onglet **3D** du panneau SketchUp → **Publier** (nouvelle version ou remplacement). Voir [Scène 3D](/projet/scene-3d) et [Utilisation](/sketchup/utilisation).
+
 ### Comment mettre à jour l'extension ?
 
 Une bannière apparaît dans le panneau quand une version plus récente est disponible. Sinon, retéléchargez depuis [archispec.fr/sketchup](https://archispec.fr/sketchup).

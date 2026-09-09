@@ -107,4 +107,6 @@ Clients see a 3D indicator on relevant products, but **cannot generate, import, 
 
 To place these models in SketchUp (or send a SketchUp selection back to the product sheet), see the [SketchUp extension](/sketchup/utilisation).
 
+To publish the **full project model** (**3D** tab), see [Project 3D scene](/projet/scene-3d).
+
 For more help, see the [FAQ](/faq).

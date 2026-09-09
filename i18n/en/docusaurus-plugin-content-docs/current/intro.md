@@ -38,6 +38,7 @@ New to Archispec? Follow the guided path:
 - [Managing lots](/projet/gestion-lots) — Trades and assignees
 - [Planning](/projet/planning) — Track the build on a timeline
 - [Files](/projet/fichiers) — Centralize documents and exports
+- [Project 3D scene](/projet/scene-3d) — Publish and explore the project model
 - [Annotations](/projet/annotations) — Comment on a spot on a plan or PDF
 - [Chat](/projet/chat) — Communicate internally or with the client
 - [Notifications](/projet/notifications) — Stay informed of activity
@@ -56,7 +57,7 @@ New to Archispec? Follow the guided path:
 
 - [Catalog](/catalogue) — Reusable product library
 - [Browser extension](/extension/installation) — Source from any website
-- [SketchUp extension](/sketchup/installation) — Place products in the 3D model
+- [SketchUp extension](/sketchup/installation) — Products in the model and project 3D scene
 
 ### Agency
 

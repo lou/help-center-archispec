@@ -5,7 +5,7 @@ title: Usage
 
 # Using the SketchUp extension
 
-Browse an Archispec project's products from SketchUp, place their 3D models, paint with their materials, and send a selection back as product 3D.
+Browse an Archispec project's products from SketchUp, place their 3D models, paint with their materials, publish the project **3D scene**, and send a selection back as product 3D.
 
 ## Prerequisites
 
@@ -18,11 +18,13 @@ Browse an Archispec project's products from SketchUp, place their 3D models, pai
 2. Sign in with your archispec.fr credentials
 3. Select the **project** to associate with the open `.skp` file
 
-The project link is stored in the SketchUp model attributes.
+The project link is stored in the SketchUp model attributes. If you open another `.skp`, the panel resyncs automatically.
+
+The panel has two tabs: **Products** and **3D**.
 
 ## Browse products
 
-In the panel:
+In the **Products** tab:
 
 - Search by name
 - Filter with the available options
@@ -57,6 +59,18 @@ Archispec saves:
 - a **`.skp`** file to reopen the component in SketchUp
 - a **`.glb`** preview for the product sheet on the web
 
+## Publish the project 3D scene
+
+To publish the **entire model** to the project **3D** tab on Archispec:
+
+1. Open the panel **3D** tab
+2. (Optional) Enable **Share with client**
+3. Click **Publish**
+
+If a scene already exists, choose to **publish a new version** or **replace the current version**.
+
+Full details: [Project 3D scene](/projet/scene-3d).
+
 ## Add a material
 
 From a product:
@@ -73,11 +87,21 @@ From a product:
 - Restart SketchUp
 - Confirm you are on SketchUp **Desktop 2025+**
 
+### “Select a project to continue”
+
+The open `.skp` is not linked to a project yet. Choose a project in the panel dropdown.
+
 ### Cannot place 3D
 
 - The product must have a 3D model (GLB or linked SKP)
 - Check your connection and that you are a member of the project
 - Signed download links expire: retry the action to refresh one
+
+### Cannot publish the 3D scene
+
+- Check that a project is selected in the panel
+- SketchUp Desktop 2025+ is required for GLB export
+- Try again after saving the model
 
 ### “SketchUp 2025 required”
 

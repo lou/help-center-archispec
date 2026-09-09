@@ -110,6 +110,10 @@ Confirm you are on **SketchUp Desktop 2025+**, then reinstall the `.rbz` via Ext
 
 The product needs a 3D model (generated, imported, or linked). Also check that you are a member of the project. See [Usage](/sketchup/utilisation).
 
+### How do I publish the project 3D scene?
+
+Open the **3D** tab in the SketchUp panel → **Publish** (new version or replace current). See [Project 3D scene](/projet/scene-3d) and [Usage](/sketchup/utilisation).
+
 ### How do I update the extension?
 
 A banner appears in the panel when a newer version is available. Otherwise, download again from [archispec.fr/en/sketchup](https://archispec.fr/en/sketchup).

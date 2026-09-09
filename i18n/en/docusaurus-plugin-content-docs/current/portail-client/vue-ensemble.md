@@ -23,6 +23,7 @@ The client portal offers the following tabs:
 |-----|---------|
 | **Products** | Products proposed by the agency |
 | **Files** | Documents shared by the agency (if at least one file is visible) |
+| **3D** | Project 3D scene (if 3D sharing is enabled) |
 | **Progress** | Shared planning (if planning is enabled on the project and shared) |
 | **Chat** | External channel — communication with the team |
 
@@ -44,6 +45,10 @@ For each visible product, depending on [sharing settings](/projet/parametres-par
 ### Files
 
 Only files the agency has made visible (eye icon enabled). View and download only — no adding or editing files. On visible images and PDFs, the client can still place [annotations](/projet/annotations).
+
+### 3D
+
+Visible only if the agency enabled sharing of the 3D scene (from the project **3D** tab or when publishing from SketchUp). The client can explore the scene in Orbit or Walk mode, and switch versions if several exist. See [Project 3D scene](/projet/scene-3d).
 
 ### Progress
 

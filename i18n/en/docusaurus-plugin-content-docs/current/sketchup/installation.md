@@ -5,7 +5,7 @@ title: Installation
 
 # Installing the SketchUp extension
 
-The Archispec extension for SketchUp Desktop connects a `.skp` model to an Archispec project: products, 3D models, and materials.
+The Archispec extension for SketchUp Desktop connects a `.skp` model to an Archispec project: products, 3D models, materials, and publishing the project 3D scene.
 
 ## Requirements
 
@@ -15,11 +15,7 @@ The Archispec extension for SketchUp Desktop connects a `.skp` model to an Archi
 
 ## Download
 
-1. Open the [SketchUp page on archispec.fr](https://archispec.fr/en/sketchup)
-2. Click **Download the extension** to get the `.rbz` file
-
-You can also use the stable download URL:  
-`https://archispec.fr/en/api/sketchup-extension/download` (redirects to the current file).
+[Download the SketchUp extension](https://archispec.fr/en/api/sketchup-extension/download)
 
 ## Install in SketchUp
 
@@ -37,7 +33,3 @@ When a newer version is available, the Archispec panel shows an update banner. Y
 
 - **Install the update** from the panel (automatic download + install)
 - or download the `.rbz` again from [archispec.fr/en/sketchup](https://archispec.fr/en/sketchup)
-
-:::info
-A packaged extension points to production (`https://archispec.fr`). A git checkout uses the local development environment.
-:::

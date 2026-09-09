@@ -42,6 +42,6 @@ Les rôles sont hiérarchiques : un administrateur hérite des permissions d'un 
 
 ## Clients
 
-Le rôle **Client** donne accès à l'espace dédié du projet : produits proposés, fichiers partagés, chat externe, annotations sur les fichiers visibles.
+Le rôle **Client** donne accès à l'espace dédié du projet : produits proposés, fichiers partagés, scène 3D (si partagée), chat externe, annotations sur les fichiers visibles.
 
 Les clients ne sont pas ajoutés via **Membres** : ils sont invités depuis les paramètres **Client**. Consultez [Partage client](/projet/partage-client).

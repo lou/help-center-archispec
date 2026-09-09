@@ -42,6 +42,6 @@ Roles are hierarchical: an administrator inherits a member's permissions, and an
 
 ## Clients
 
-The **Client** role gives access to the project's dedicated space: proposed products, shared files, external chat, and annotations on visible files.
+The **Client** role gives access to the project's dedicated space: proposed products, shared files, 3D scene (if shared), external chat, and annotations on visible files.
 
 Clients are not added via **Members**: they are invited from the **Client** settings. See [Client sharing](/projet/partage-client).

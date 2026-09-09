@@ -35,6 +35,8 @@ Definitions of terms used in Archispec and in this help center.
 
 **3D credit** — Unit consumed to generate a 3D model from a product image (1 credit per generation).
 
+**3D scene** — Interactive project model (one per project), published from SketchUp or imported as `.glb` / `.gltf`, viewed in Orbit or Walk mode. See [Project 3D scene](/projet/scene-3d).
+
 ## D
 
 **Detail booklet** — PDF export grouping selected product sheets.

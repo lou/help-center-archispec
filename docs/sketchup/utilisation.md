@@ -5,7 +5,7 @@ title: Utilisation
 
 # Utilisation de l'extension SketchUp
 
-Parcourez les produits d'un projet Archispec depuis SketchUp, placez leurs modèles 3D, peignez avec leurs matières, et renvoyez une sélection comme 3D produit.
+Parcourez les produits d'un projet Archispec depuis SketchUp, placez leurs modèles 3D, peignez avec leurs matières, publiez la **scène 3D** du projet, et renvoyez une sélection comme 3D produit.
 
 ## Prérequis
 
@@ -18,11 +18,13 @@ Parcourez les produits d'un projet Archispec depuis SketchUp, placez leurs modè
 2. Connectez-vous avec vos identifiants archispec.fr
 3. Sélectionnez le **projet** à associer au fichier `.skp` ouvert
 
-Le lien projet est mémorisé dans les attributs du modèle SketchUp.
+Le lien projet est mémorisé dans les attributs du modèle SketchUp. Si vous ouvrez un autre `.skp`, le panneau se resynchronise automatiquement.
+
+Le panneau propose deux onglets : **Produits** et **3D**.
 
 ## Parcourir les produits
 
-Dans le panneau :
+Dans l'onglet **Produits** :
 
 - Recherchez par nom
 - Filtrez selon les options disponibles
@@ -57,6 +59,18 @@ Archispec enregistre :
 - un fichier **`.skp`** pour rouvrir le composant dans SketchUp
 - un aperçu **`.glb`** pour la fiche produit sur le web
 
+## Publier la scène 3D du projet
+
+Pour publier **tout le modèle** dans l’onglet **3D** du projet sur Archispec :
+
+1. Ouvrez l’onglet **3D** du panneau
+2. (Optionnel) Cochez **Partager avec le client**
+3. Cliquez sur **Publier**
+
+Si une scène existe déjà, choisissez de **publier une nouvelle version** ou de **remplacer la version actuelle**.
+
+Détail complet : [Scène 3D du projet](/projet/scene-3d).
+
 ## Ajouter une matière
 
 Depuis un produit :
@@ -73,11 +87,21 @@ Depuis un produit :
 - Redémarrez SketchUp
 - Confirmez que vous êtes en SketchUp **Desktop 2025+**
 
+### « Sélectionnez un projet pour continuer »
+
+Le fichier `.skp` ouvert n’est pas encore lié à un projet. Choisissez un projet dans le menu du panneau.
+
 ### Impossible de placer la 3D
 
 - Le produit doit avoir un modèle 3D (GLB ou SKP lié)
 - Vérifiez votre connexion et que vous êtes bien membre du projet
 - Les liens de téléchargement signés expirent : réessayez l'action pour en régénérer un
+
+### Impossible de publier la scène 3D
+
+- Vérifiez qu’un projet est sélectionné dans le panneau
+- SketchUp Desktop 2025+ est requis pour l’export GLB
+- Réessayez après avoir enregistré le modèle
 
 ### « SketchUp 2025 requis »
 

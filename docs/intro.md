@@ -38,6 +38,7 @@ Nouveau sur Archispec ? Suivez le parcours guidé :
 - [Gestion des lots](/projet/gestion-lots) — Corps de métier et intervenants
 - [Planning](/projet/planning) — Piloter le chantier sur une timeline
 - [Fichiers](/projet/fichiers) — Centraliser documents et exports
+- [Scène 3D](/projet/scene-3d) — Publier et parcourir la maquette du projet
 - [Annotations](/projet/annotations) — Commenter un point sur un plan ou un PDF
 - [Chat](/projet/chat) — Échanger en interne ou avec le client
 - [Notifications](/projet/notifications) — Rester informé des activités
@@ -56,7 +57,7 @@ Nouveau sur Archispec ? Suivez le parcours guidé :
 
 - [Catalogue](/catalogue) — Bibliothèque de produits réutilisables
 - [Extension navigateur](/extension/installation) — Sourcer depuis n'importe quel site
-- [Extension SketchUp](/sketchup/installation) — Placer les produits dans le modèle 3D
+- [Extension SketchUp](/sketchup/installation) — Produits dans le modèle et scène 3D du projet
 
 ### Agence
 
