@@ -70,7 +70,8 @@ Each row represents a task, with:
 
 You can switch between:
 
-- **Week view** for detailed tracking
+- **Day view** for very detailed tracking
+- **Week view** for day-to-day follow-up
 - **Month view** for a broader overview
 
 ## Navigate quickly
@@ -107,10 +108,28 @@ You can also create a link directly from the timeline using a task's link handle
 
 ## Share planning with the client
 
-1. In the **Planning** tab, enable **global client sharing**
-2. The client sees tasks marked as visible in their **Progress** space
+1. In the **Planning** tab, open the **Share** menu
+2. Enable **Client space** sharing
+3. The client sees tasks marked as visible in their **Progress** space
 
 You can also control visibility **task by task** via the edit panel.
+
+## External links (read-only)
+
+To share planning with someone outside Archispec (no account):
+
+1. Open **Share** → **Manage links** (or **Shares**)
+2. Click **New share**
+3. Give it a name, set a **password**, and choose:
+   - **Share the entire planning**, or
+   - **Select tasks** (by phase, with optional auto-include of new tasks)
+4. Send the **link** and **password**
+
+The recipient views planning read-only after entering the password. You can rotate the password, disable, or delete a share at any time.
+
+## Validation deadlines on planning
+
+Lot [validation deadlines](/projet/echeances-validation) also appear on the timeline. Position them relative to the lot start (same day, X days before or after) to align client validation with the build schedule.
 
 ## In summary
 
@@ -119,4 +138,5 @@ Planning lets you:
 - Structure the project by phases and lots
 - Anticipate dependencies between tasks
 - Reorder tasks according to your priorities
-- Communicate more clearly with the client
+- Share with the client or via a password-protected link
+- See validation deadlines on the timeline

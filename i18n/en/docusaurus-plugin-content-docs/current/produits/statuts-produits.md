@@ -11,14 +11,20 @@ Each product follows a lifecycle that reflects its progress, from the initial pr
 
 | Status | Description | Visible to client |
 |--------|-------------|:-----------------:|
-| **Hidden from client** | Product being prepared, not yet proposed | No |
+| **Draft** | Product being prepared, not yet proposed (hidden from client) | No |
 | **Proposed** | Product presented to the client for review | Yes |
+| **Liked** | The client has marked interest | Yes |
 | **Rejected** | The client has rejected the product | Yes |
 | **Validated** | The client has approved the choice | Yes |
 | **Ordered** | The product has been ordered | Yes |
+| **In production** | Manufacturing or preparation in progress | Yes |
 | **In delivery** | The product has been shipped | Yes |
 | **Received** | The product has been received on site | Yes |
 | **Installed** | The product has been installed | Yes |
+
+:::tip
+Track orders and deliveries from the [Purchases](/produits/achats-et-suivi) page. Set due dates with [validation deadlines](/projet/echeances-validation).
+:::
 
 ## Who changes statuses?
 
@@ -30,10 +36,11 @@ Associates, administrators, and owners can change any product status at any poin
 
 Invited clients can update **proposed** products:
 
+- **Like** the product
 - **Validate** the product
 - **Reject** the product
 
-Post-validation statuses (ordered, delivery, received, installed) are usually managed by the agency.
+Post-validation statuses (ordered, in production, delivery, received, installed) are usually managed by the agency.
 
 ## Change a product status
 
@@ -45,6 +52,7 @@ You can also change the status of multiple products in bulk via [Select products
 
 ## Best practices
 
-- Keep products as **Hidden from client** until they are ready to be presented
+- Keep products as **Draft** until they are ready to be presented
 - Move to **Proposed** only when the product is complete (images, price, description)
 - Use status filters to track progress — see [Filter products](/produits/filtres)
+- For services (installation, fees), see [Services](/produits/prestations)

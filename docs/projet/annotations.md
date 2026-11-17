@@ -87,6 +87,17 @@ Dans la prévisualisation :
 - Sur un PDF, utilisez les miniatures de pages pour changer de page
 - Zoomez avec les contrôles `+` / `-` pour placer ou lire une annotation plus précisément
 
+## Historique
+
+Chaque annotation conserve un **historique** des actions clés : liaison / remplacement / retrait d’un produit, résolution et réouverture.
+
+1. Ouvrez l’annotation
+2. Cliquez sur **Voir l’historique**
+
+## Versions de fichier
+
+Si une **nouvelle version** du fichier est publiée avec suspension des annotations précédentes, les fils restent sur l’ancienne version et ne sont plus actifs pour de nouveaux commentaires. Voir [Fichiers](/projet/fichiers#versions-dun-fichier).
+
 ## Supprimer une annotation
 
 1. Ouvrez l'annotation

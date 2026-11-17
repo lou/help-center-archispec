@@ -17,6 +17,7 @@ Archispec is a tool designed specifically for architects and interior designers 
 - **Manage their projects** in a centralized way
 - **Collaborate with their clients** in real time
 - **Source and organize** their product catalog
+- **Track budget** and project services
 - **Generate exports** to streamline billing and site tracking
 - **Plan their projects** visually and collaboratively
 
@@ -36,6 +37,8 @@ New to Archispec? Follow the guided path:
 - [Client sharing](/projet/partage-client) — Invite and collaborate with your clients
 - [Section management](/projet/gestion-sections) — Organize by rooms and spaces
 - [Managing lots](/projet/gestion-lots) — Trades and assignees
+- [Budget](/projet/budget) — Envelopes, consumption, and alerts
+- [Validation deadlines](/projet/echeances-validation) — Due dates for the client
 - [Planning](/projet/planning) — Track the build on a timeline
 - [Files](/projet/fichiers) — Centralize documents and exports
 - [Project 3D scene](/projet/scene-3d) — Publish and explore the project model
@@ -46,7 +49,9 @@ New to Archispec? Follow the guided path:
 ### Products
 
 - [Add a product](/produits/ajouter-produit) — Manual, catalog, or extension
+- [Services](/produits/prestations) — Installation, labor, and fees
 - [Product statuses](/produits/statuts-produits) — Product lifecycle
+- [Purchases and tracking](/produits/achats-et-suivi) — Orders, production, and deliveries
 - [Filter products](/produits/filtres) — Quickly find your selections
 - [Select products](/produits/selection) — Bulk actions and exports
 - [Price mode](/produits/mode-prix) — View price breakdowns

@@ -31,12 +31,13 @@ These preferences apply by default to all your projects. You can change them ind
 
 | Event | Description |
 |-------|-------------|
-| Status changed by a client | A client validates or rejects a product |
+| Status changed by a client | A client validates, likes, or rejects a product / service |
 | Status changed by a member | A colleague updates a product's status |
 | Message from a member | A team member sends a message in chat |
 | Message from a client | A client contacts you via chat |
 | Annotations | A comment is added on an annotation, or an annotation is resolved / reopened |
 | Mentions | Someone mentions you with `@` (chat or annotation) |
+| Validation reminders | Morning summary of overdue validations, and reminder the day before a deadline |
 
 :::info
 Annotation notifications go to the team. Clients are alerted when they are mentioned with `@`. See [Annotations](/projet/annotations).
@@ -45,5 +46,6 @@ Annotation notifications go to the team. Clients are alerted when they are menti
 ## Best practices
 
 - Enable **email** notifications for client messages if you don't check Archispec continuously
+- Enable **validation reminders** to track client deadlines
 - Enable **app** notifications for day-to-day product approval tracking
 - Review your preferences when inviting a new client to a project

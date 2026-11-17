@@ -28,18 +28,20 @@ Le chat du projet comporte deux canaux :
 
 Basculez entre les deux canaux via les onglets **Interne** et **Externe** en haut de la fenêtre de chat. Un compteur indique les messages non lus sur chaque canal.
 
-## Chat au niveau produit
+## Chat au niveau produit ou prestation
 
-En plus du chat du projet, chaque produit dispose de son propre fil de discussion avec les mêmes deux canaux :
+En plus du chat du projet, chaque **produit** et chaque [**prestation**](/produits/prestations) dispose de son propre fil de discussion avec les mêmes deux canaux :
 
-1. Ouvrez la fiche d'un produit (panneau latéral)
-2. Cliquez sur l'onglet **Chat**
+1. Ouvrez la fiche (panneau latéral)
+2. Cliquez sur l'onglet **Chat** (ou **Discussion** pour une prestation)
 3. Basculez entre **Interne** (équipe) et **Externe** (équipe et clients)
 
-Cela permet de centraliser les échanges autour d'un produit précis (validation, alternatives, questions techniques) sans encombrer le chat général du projet.
+Cela permet de centraliser les échanges autour d'un élément précis (validation, alternatives, questions techniques) sans encombrer le chat général du projet.
 
 :::info
-Les clients accèdent uniquement au canal **Externe** du chat produit. Le canal interne leur est inaccessible.
+Les clients accèdent uniquement au canal **Externe**. Le canal interne leur est inaccessible.
+
+Vous pouvez désactiver le chat interne du projet dans les **Paramètres** → fonctionnalités, si vous n’en avez pas besoin.
 :::
 
 ## Mentionner quelqu'un avec @

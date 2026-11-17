@@ -87,6 +87,17 @@ In the preview:
 - On a PDF, use page thumbnails to change pages
 - Zoom with the `+` / `-` controls to place or read an annotation more precisely
 
+## History
+
+Each annotation keeps a **history** of key actions: link / replace / unlink a product, resolve, and reopen.
+
+1. Open the annotation
+2. Click **View history**
+
+## File versions
+
+If a **new version** of the file is published with previous annotations suspended, threads stay on the old version and are no longer active for new comments. See [Files](/projet/fichiers#file-versions).
+
 ## Delete an annotation
 
 1. Open the annotation

@@ -21,7 +21,8 @@ Le portail client propose les onglets suivants :
 
 | Onglet | Contenu |
 |--------|---------|
-| **Produits** | Produits proposés par l'agence |
+| **Produits** | Produits et prestations proposés par l'agence |
+| **À valider** | File des choix en attente (avec échéances éventuelles) |
 | **Fichiers** | Documents partagés par l'agence (si au moins un fichier est visible) |
 | **3D** | Scène 3D du projet (si le partage 3D est activé) |
 | **Avancement** | Planning partagé (si le planning est activé sur le projet et partagé) |
@@ -31,9 +32,9 @@ Le client accède aussi à son **Compte** (profil et notifications) via le menu 
 
 ## Ce que voit le client
 
-### Produits
+### Produits et prestations
 
-Le client ne voit que les produits au statut **Proposé** ou au-delà dans le cycle de vie. Les produits **masqués pour le client** restent invisibles.
+Le client ne voit que les éléments au statut **Proposé** ou au-delà dans le cycle de vie (et visibles pour le client). Les brouillons restent invisibles.
 
 Pour chaque produit visible, selon les [paramètres de partage](/projet/parametres-partage) :
 
@@ -41,6 +42,8 @@ Pour chaque produit visible, selon les [paramètres de partage](/projet/parametr
 - Prix (si partagés)
 - Lien web (si partagé)
 - Suivi de livraison (date estimée, numéro et lien de suivi, s'ils sont renseignés)
+
+Les [prestations](/produits/prestations) visibles apparaissent dans la même liste (ou filtrables) pour validation.
 
 ### Fichiers
 

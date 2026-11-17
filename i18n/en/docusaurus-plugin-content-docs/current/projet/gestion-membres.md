@@ -30,9 +30,11 @@ Manage team members who have access to the project. Each member has a role speci
 
 | Permission | Owner | Administrator | Member |
 |------------|:-----:|:-------------:|:------:|
-| Edit products and files | ✅ | ✅ | ✅ |
-| Add new products | ✅ | ✅ | ✅ |
+| Edit products, services, and files | ✅ | ✅ | ✅ |
+| Add new products / services | ✅ | ✅ | ✅ |
+| Manage sections, lots, and 3D scene | ✅ | ✅ | ✅ |
 | Use chat | ✅ | ✅ | ✅ |
+| View budget | ✅ | ✅ | ❌ |
 | Project settings | ✅ | ✅ | ❌ |
 | Manage members | ✅ | ✅ | ❌ |
 | Transfer ownership | ✅ | ❌ | ❌ |

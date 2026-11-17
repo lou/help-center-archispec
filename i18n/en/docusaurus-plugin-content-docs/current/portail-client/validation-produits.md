@@ -5,56 +5,64 @@ title: Validate products
 
 # Validate products (client side)
 
-The client portal lets your clients give feedback on the products you propose, without accessing the full agency interface.
+The client portal lets your clients give feedback on the products and [services](/produits/prestations) you propose, without accessing the full agency interface.
 
-## Visible products
+## Visible products and services
 
-A client only sees products with **Proposed** status or later. Products **hidden from the client** remain invisible until the agency proposes them.
+A client only sees items with **Proposed** status or later (and visible to the client). **Drafts** remain invisible until the agency proposes them.
 
 See [Product statuses](/produits/statuts-produits) for the full lifecycle.
 
+## “To validate” queue
+
+The client has a **Choices to validate** view that groups proposed items, with or without a [deadline](/projet/echeances-validation). Overdue items are highlighted.
+
 ## Client actions
 
-On each proposed product, the client can:
+On each proposed product or service, the client can:
 
 | Action | Effect |
 |--------|--------|
-| **Validate** | Product moves to **Validated** status |
-| **Reject** | Product moves to **Rejected** status |
+| **Like** | Marks interest (products) |
+| **Validate** | Moves to **Validated** status |
+| **Reject** | Moves to **Rejected** status |
 
-Validation requires confirmation before it is saved.
+Validation requires confirmation before it is saved (including the amount for a service).
 
-The client can also undo their choice and return a product to **Proposed** status.
+The client can also undo their choice and return an item to **Proposed** status.
 
 ## Agency-only actions
 
-Post-validation statuses are managed by the team:
+Post-validation product statuses are managed by the team:
 
 - **Ordered**
+- **In production**
 - **In delivery**
 - **Received**
 - **Installed**
 
-The agency updates these statuses as the project progresses.
+See [Purchases and tracking](/produits/achats-et-suivi).
 
 ## Notifications
 
 The agency can be notified when:
 
-- A client changes a product status
+- A client changes a product or service status
 - A client sends a message in chat
+- Validations are overdue or approaching a deadline (reminders)
 
 Configure your preferences in [Notifications](/projet/notifications).
 
 ## Best practices (agency side)
 
-1. Make sure the product is complete (images, price, description) before moving it to **Proposed**
-2. Use [client preview](/projet/previsualisation-client) to check the display
-3. Adjust [sharing settings](/projet/parametres-partage) (prices, links) before inviting the client
-4. Respond quickly to validations via the external chat
+1. Make sure the product or service is complete before moving it to **Proposed**
+2. Set [validation deadlines](/projet/echeances-validation) to clarify timing
+3. Use [client preview](/projet/previsualisation-client) to check the display
+4. Adjust [sharing settings](/projet/parametres-partage) (prices, links) before inviting the client
+5. Respond quickly to validations via the external chat
 
-## Product chat
+## Product or service chat
 
-Each product has its own discussion thread with two channels (**Internal** and **External**). The client accesses the **External** channel to ask questions about a specific product without leaving its sheet.
+Each product and each service has its own discussion thread with two channels (**Internal** and **External**). The client accesses the **External** channel to ask questions without leaving the sheet.
 
 Project chat (the **Chat** tab) remains available for general exchanges.

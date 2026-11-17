@@ -10,8 +10,7 @@ Lots group products and planning tasks by trade (plumbing, carpentry, electrical
 ## Access lots
 
 1. Open your project
-2. Go to **Settings**
-3. Click **Lots** in the side menu
+2. Click the **Lots** tab
 
 ## Create a lot
 
@@ -45,9 +44,12 @@ You can also import lots when **creating a new project**.
 
 ## Using lots
 
-- On a **product**: assign a lot to organize and filter. When a lot is set, you can specify [supply / install](/produits/ajouter-produit#supply--install).
+- On a **product** or a [**service**](/produits/prestations): assign a lot to organize and filter. When a lot is set on a product, you can specify [supply / install](/produits/ajouter-produit#supply--install).
 - On **planning**: create tasks from a lot to structure the calendar.
+- On **budget**: set a per-lot envelope and track consumption. See [Budget](/projet/budget).
+- On **validation deadlines**: set a due date for the lot. See [Validation deadlines](/projet/echeances-validation).
 - In **bulk edit**: change the lot on several products via [Select products](/produits/selection).
+- In the product list: **Group by** → **Lot** to show products and services grouped by trade.
 
 :::tip
 Create your [companies](/agence/entreprises) at the agency level first if you want to assign them as lot assignees.
@@ -58,4 +60,6 @@ Create your [companies](/agence/entreprises) at the agency level first if you wa
 - [Section management](/projet/gestion-sections)
 - [Companies](/agence/entreprises)
 - [Add a product](/produits/ajouter-produit)
+- [Services](/produits/prestations)
+- [Budget](/projet/budget)
 - [Planning](/projet/planning)

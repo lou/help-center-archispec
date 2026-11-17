@@ -43,6 +43,21 @@ By default, files are not visible to the client.
 For more details on client sharing, see [Client sharing](/projet/partage-client).
 :::
 
+## File versions
+
+For an existing file, propose a new version instead of creating a duplicate:
+
+1. Open the file (or its menu)
+2. Click **Propose a new version**
+3. Select the new file
+4. Optionally check **Suspend annotations on previous versions**
+
+Switch versions with the **Versions** selector (v1, v2…). When deleting, choose to remove only the current version, or the file and its full history.
+
+:::info
+When annotations on previous versions are suspended, they remain viewable on the old version but are no longer active for new discussion.
+:::
+
 ## Annotate an image or PDF
 
 On an image or PDF, open the preview then click the document to place a pinpoint comment. The team and clients can reply in the same thread, resolve the item, or mention someone with `@`.

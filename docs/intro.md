@@ -17,6 +17,7 @@ Archispec est un outil spécialement conçu pour les architectes et architectes 
 - **Gérer leurs projets** de manière centralisée
 - **Collaborer avec leurs clients** en temps réel
 - **Sourcer et organiser** leur catalogue de produits
+- **Suivre le budget** et les prestations du projet
 - **Générer des exports** pour faciliter la facturation et le suivi de chantier
 - **Planifier leurs projets** de manière visuelle et collaborative
 
@@ -36,6 +37,8 @@ Nouveau sur Archispec ? Suivez le parcours guidé :
 - [Partage client](/projet/partage-client) — Inviter et collaborer avec vos clients
 - [Gestion des sections](/projet/gestion-sections) — Organiser par pièces et espaces
 - [Gestion des lots](/projet/gestion-lots) — Corps de métier et intervenants
+- [Budget](/projet/budget) — Enveloppes, consommation et alertes
+- [Échéances de validation](/projet/echeances-validation) — Dates limites pour le client
 - [Planning](/projet/planning) — Piloter le chantier sur une timeline
 - [Fichiers](/projet/fichiers) — Centraliser documents et exports
 - [Scène 3D](/projet/scene-3d) — Publier et parcourir la maquette du projet
@@ -46,7 +49,9 @@ Nouveau sur Archispec ? Suivez le parcours guidé :
 ### Produits
 
 - [Ajouter un produit](/produits/ajouter-produit) — Manuel, catalogue ou extension
+- [Prestations](/produits/prestations) — Pose, main-d’œuvre et honoraires
 - [Statuts des produits](/produits/statuts-produits) — Cycle de vie d'un produit
+- [Achats et suivi](/produits/achats-et-suivi) — Commandes, production et livraisons
 - [Filtrer les produits](/produits/filtres) — Retrouver rapidement vos sélections
 - [Sélectionner les produits](/produits/selection) — Actions en lot et exports
 - [Mode prix](/produits/mode-prix) — Visualiser les décompositions de prix

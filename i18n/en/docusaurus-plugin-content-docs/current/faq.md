@@ -118,11 +118,27 @@ Open the **3D** tab in the SketchUp panel → **Publish** (new version or replac
 
 A banner appears in the panel when a newer version is available. Otherwise, download again from [archispec.fr/en/sketchup](https://archispec.fr/en/sketchup).
 
+## Budget and services
+
+### I can't see the Budget tab
+
+The **Budget** tab is limited to project **administrators** and **owners**. Associates do not have access.
+
+See [Budget](/projet/budget).
+
+### How do I add installation or fees?
+
+Create a [**service**](/produits/prestations) via **Add** → **Service**, or from the Budget tab. A service can be a fixed amount or a percentage of an envelope.
+
+### Where do I track orders and deliveries?
+
+Open **Purchases** in the main navigation. See [Purchases and tracking](/produits/achats-et-suivi).
+
 ## Client portal
 
 ### The client can't see certain products
 
-Only products with **Proposed** status (or beyond) are visible. Change the product to **Proposed** from the product page.
+Only products with **Proposed** status (or beyond) are visible. Change the product to **Proposed** from the product page. Same rule for visible services.
 
 ### The client can't see prices
 
@@ -130,9 +146,13 @@ Enable price sharing in the project [sharing settings](/projet/parametres-partag
 
 ### The client can't see the Progress tab
 
-Planning must be **enabled on the project** (Settings → Edit → Planning) and **global client sharing** must be enabled in the **Planning** tab.
+Planning must be **enabled on the project** (Settings → Edit → Planning) and **Client space** sharing must be enabled in the **Share** menu of the **Planning** tab.
 
 See [Planning](/projet/planning) and [Client portal overview](/portail-client/vue-ensemble).
+
+### How do I share planning outside Archispec?
+
+Create a password-protected **external link** from **Planning** → **Share** → **Manage links**. See [Planning](/projet/planning#external-links-read-only).
 
 ## Files and annotations
 
@@ -144,13 +164,23 @@ See [Annotations](/projet/annotations).
 
 ### My client can't see the annotations
 
-The file must be made visible to the client (eye icon). Once the file is visible, the client sees the annotations and can reply.
+The file must be made visible to the client (eye icon). Once the file is visible, the client sees the annotations and can reply. If a new version suspended previous annotations, open the older version to view them.
+
+### How do I publish a new file version?
+
+Open the file → **Propose a new version**. See [Files](/projet/fichiers#file-versions).
 
 ### The Planning tab doesn't appear
 
 Open project **Settings** → **Edit**, then turn on the **Planning** option. Planning is configured per project.
 
 See [Planning](/projet/planning).
+
+## What's new
+
+### Where can I see product updates?
+
+In the app, open **What's new** (gift icon) in the navigation. An indicator shows unread entries.
 
 ## Need more help?
 

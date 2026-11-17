@@ -21,7 +21,8 @@ The client portal offers the following tabs:
 
 | Tab | Content |
 |-----|---------|
-| **Products** | Products proposed by the agency |
+| **Products** | Products and services proposed by the agency |
+| **To validate** | Queue of pending choices (with optional deadlines) |
 | **Files** | Documents shared by the agency (if at least one file is visible) |
 | **3D** | Project 3D scene (if 3D sharing is enabled) |
 | **Progress** | Shared planning (if planning is enabled on the project and shared) |
@@ -31,9 +32,9 @@ Clients also access their **Account** (profile and notifications) via the menu i
 
 ## What the client sees
 
-### Products
+### Products and services
 
-The client only sees products with **Proposed** status or beyond in the lifecycle. Products **hidden from the client** remain invisible.
+The client only sees items with **Proposed** status or beyond in the lifecycle (and visible to the client). Drafts remain invisible.
 
 For each visible product, depending on [sharing settings](/projet/parametres-partage):
 
@@ -41,6 +42,8 @@ For each visible product, depending on [sharing settings](/projet/parametres-par
 - Price (if shared)
 - Web link (if shared)
 - Delivery tracking (estimated date, tracking number and link, when filled in)
+
+Visible [services](/produits/prestations) appear in the same list (or can be filtered) for validation.
 
 ### Files
 

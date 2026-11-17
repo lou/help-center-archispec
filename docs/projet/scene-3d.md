@@ -9,6 +9,8 @@ Publiez une maquette 3D interactive pour parcourir le projet sur Archispec — e
 
 Chaque projet dispose d’**une seule** scène 3D, versionnée. Elle apparaît dans l’onglet **3D** du projet.
 
+Activez d’abord **3D** dans les paramètres du projet (**Fonctionnalités**), ou publiez depuis SketchUp : dans ce cas l’option s’active automatiquement et l’onglet apparaît.
+
 ## Publier depuis SketchUp
 
 C’est le parcours recommandé pour une maquette complète.
@@ -50,6 +52,7 @@ Dans l’onglet **3D** :
 - **Orbit** — tourner, zoomer, déplacer la vue
 - **Visite** — se déplacer dans la scène (clavier + souris)
 - Sélecteur de **versions** s’il en existe plusieurs
+- **Soleil / ombres** — réglez l’heure du soleil et activez l’affichage des ombres pour mieux lire les volumes
 
 Une aide contextuelle s’affiche en bas du viewer.
 

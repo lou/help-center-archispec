@@ -9,6 +9,8 @@ Publish an interactive 3D model to explore the project on Archispec — in Orbit
 
 Each project has **one** versioned 3D scene. It appears in the project **3D** tab.
 
+First enable **3D** in project settings (**Features**), or publish from SketchUp — that turns the option on automatically and shows the tab.
+
 ## Publish from SketchUp
 
 This is the recommended path for a full model.
@@ -50,6 +52,7 @@ In the **3D** tab:
 - **Orbit** — rotate, zoom, pan
 - **Walk** — move through the scene (keyboard + mouse)
 - **Version** picker when several versions exist
+- **Sun / shadows** — set the sun time and enable shadows to read volumes more clearly
 
 Contextual help appears at the bottom of the viewer.
 

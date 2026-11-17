@@ -70,7 +70,8 @@ Chaque ligne représente une tâche, avec :
 
 Vous pouvez basculer entre :
 
-- **Vue Semaine** pour un pilotage détaillé
+- **Vue Jour** pour un pilotage très détaillé
+- **Vue Semaine** pour le suivi courant
 - **Vue Mois** pour une vision plus globale
 
 ## Naviguer rapidement
@@ -107,10 +108,28 @@ Vous pouvez aussi créer un lien directement depuis la timeline via la poignée 
 
 ## Partager le planning avec le client
 
-1. Dans l'onglet **Planning**, activez le **partage global client**
-2. Le client voit les tâches marquées comme visibles dans son espace **Avancement**
+1. Dans l'onglet **Planning**, ouvrez le menu **Partager**
+2. Activez le partage **Espace client**
+3. Le client voit les tâches marquées comme visibles dans son espace **Avancement**
 
 Vous pouvez aussi contrôler la visibilité **tâche par tâche** via le panneau d'édition.
+
+## Liens externes (lecture seule)
+
+Pour partager le planning avec une personne extérieure (sans compte Archispec) :
+
+1. Ouvrez **Partager** → **Gérer les liens** (ou **Partages**)
+2. Cliquez sur **Nouveau partage**
+3. Donnez un nom, définissez un **mot de passe**, et choisissez :
+   - **Partager tout le planning**, ou
+   - **Choisir les tâches** (par phase, avec inclusion automatique optionnelle des nouvelles tâches)
+4. Transmettez le **lien** et le **mot de passe**
+
+Le destinataire consulte le planning en lecture seule après saisie du mot de passe. Vous pouvez régénérer le mot de passe, désactiver ou supprimer un partage à tout moment.
+
+## Échéances de validation sur le planning
+
+Les [échéances de validation](/projet/echeances-validation) des lots apparaissent sur la timeline. Positionnez-les par rapport au début du lot (le jour même, X jours avant ou après) pour aligner validation client et planning chantier.
 
 ## En résumé
 
@@ -119,4 +138,5 @@ Le Planning vous permet de :
 - Structurer le projet par phases et lots
 - Anticiper les dépendances entre tâches
 - Réorganiser l'ordre des tâches selon vos priorités
-- Communiquer plus clairement avec le client
+- Partager avec le client ou via un lien protégé par mot de passe
+- Visualiser les échéances de validation sur la timeline

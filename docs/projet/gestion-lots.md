@@ -10,8 +10,7 @@ Les lots regroupent les produits et les tâches de planning par corps de métier
 ## Accéder aux lots
 
 1. Ouvrez votre projet
-2. Accédez aux **Paramètres**
-3. Cliquez sur **Lots** dans le menu latéral
+2. Cliquez sur l’onglet **Lots**
 
 ## Créer un lot
 
@@ -45,9 +44,12 @@ Vous pouvez aussi importer des lots à la **création d'un nouveau projet**.
 
 ## Utiliser les lots
 
-- Sur un **produit** : rattachez un lot pour organiser et filtrer. Si un lot est choisi, vous pouvez préciser la [fourniture / pose](/produits/ajouter-produit#fourniture--pose).
+- Sur un **produit** ou une [**prestation**](/produits/prestations) : rattachez un lot pour organiser et filtrer. Si un lot est choisi sur un produit, vous pouvez préciser la [fourniture / pose](/produits/ajouter-produit#fourniture--pose).
 - Sur le **planning** : créez des tâches à partir d'un lot pour structurer le calendrier.
+- Sur le **budget** : définissez une enveloppe par lot et lisez la consommation. Voir [Budget](/projet/budget).
+- Sur les **échéances de validation** : fixez une date limite pour le lot. Voir [Échéances de validation](/projet/echeances-validation).
 - En **modification en lot** : changez le lot de plusieurs produits via [Sélectionner les produits](/produits/selection).
+- Dans la liste produits : **Regrouper par** → **Lot** pour afficher les produits et prestations groupés par corps de métier.
 
 :::tip
 Créez d'abord vos [entreprises](/agence/entreprises) au niveau agence si vous souhaitez les assigner comme intervenants sur les lots.
@@ -58,4 +60,6 @@ Créez d'abord vos [entreprises](/agence/entreprises) au niveau agence si vous s
 - [Gestion des sections](/projet/gestion-sections)
 - [Entreprises](/agence/entreprises)
 - [Ajouter un produit](/produits/ajouter-produit)
+- [Prestations](/produits/prestations)
+- [Budget](/projet/budget)
 - [Planning](/projet/planning)

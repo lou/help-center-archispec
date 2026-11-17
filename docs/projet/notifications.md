@@ -31,12 +31,13 @@ Ces préférences s'appliquent par défaut à tous vos projets. Vous pouvez les 
 
 | Événement | Description |
 |-----------|-------------|
-| Statut modifié par un client | Un client valide ou écarte un produit |
+| Statut modifié par un client | Un client valide, aime ou écarte un produit / une prestation |
 | Statut modifié par un associé | Un collègue met à jour le statut d'un produit |
 | Message d'un associé | Un membre de l'équipe envoie un message dans le chat |
 | Message d'un client | Un client vous contacte via le chat |
 | Annotations | Un commentaire est ajouté sur une annotation, ou une annotation est résolue / rouverte |
 | Mentions | Quelqu'un vous mentionne avec `@` (chat ou annotation) |
+| Rappels de validation | Résumé matin des validations en retard, et rappel la veille d’une échéance |
 
 :::info
 Les notifications d'annotations sont destinées à l'équipe. Les clients sont alertés lorsqu'ils sont mentionnés avec `@`. Voir [Annotations](/projet/annotations).
@@ -45,5 +46,6 @@ Les notifications d'annotations sont destinées à l'équipe. Les clients sont a
 ## Bonnes pratiques
 
 - Activez les notifications **email** pour les messages clients si vous ne consultez pas Archispec en continu
+- Activez les **rappels de validation** pour suivre les échéances client
 - Activez les notifications **application** pour le suivi des validations produit au quotidien
 - Vérifiez vos préférences lors de l'invitation d'un nouveau client sur un projet

@@ -30,9 +30,11 @@ Gérez les membres de votre équipe qui ont accès au projet. Chaque membre a un
 
 | Permission | Propriétaire | Administrateur | Associé |
 |------------|:------------:|:--------------:|:-------:|
-| Modifier produits et fichiers | ✅ | ✅ | ✅ |
-| Ajouter de nouveaux produits | ✅ | ✅ | ✅ |
+| Modifier produits, prestations et fichiers | ✅ | ✅ | ✅ |
+| Ajouter de nouveaux produits / prestations | ✅ | ✅ | ✅ |
+| Gérer sections, lots et scène 3D | ✅ | ✅ | ✅ |
 | Utiliser le chat | ✅ | ✅ | ✅ |
+| Consulter le budget | ✅ | ✅ | ❌ |
 | Paramètres du projet | ✅ | ✅ | ❌ |
 | Gérer les membres | ✅ | ✅ | ❌ |
 | Transférer la propriété | ✅ | ❌ | ❌ |

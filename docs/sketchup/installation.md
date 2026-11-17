@@ -3,9 +3,13 @@ sidebar_position: 1
 title: Installation
 ---
 
+import { VideoPlayer } from "@site/src/components/VideoPlayer";
+
 # Installation de l'extension SketchUp
 
 L'extension Archispec pour SketchUp Desktop connecte un modèle `.skp` à un projet Archispec : produits, modèles 3D, matières, et publication de la scène 3D du projet.
+
+<VideoPlayer url="https://assets.archispec.fr/assets/sketchup.mp4" />
 
 ## Prérequis
 

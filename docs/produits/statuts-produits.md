@@ -11,14 +11,20 @@ Chaque produit suit un cycle de vie qui reflète son avancement, de la propositi
 
 | Statut | Description | Visible par le client |
 |--------|-------------|:---------------------:|
-| **Masqué pour le client** | Produit en cours de préparation, non encore proposé | Non |
+| **Brouillon** | Produit en préparation, non encore proposé (masqué pour le client) | Non |
 | **Proposé** | Produit présenté au client pour avis | Oui |
+| **Aimé** | Le client a marqué son intérêt | Oui |
 | **Écarté** | Le client a rejeté le produit | Oui |
 | **Validé** | Le client a validé le choix | Oui |
 | **Commandé** | Le produit a été commandé | Oui |
+| **En production** | Fabrication ou préparation en cours | Oui |
 | **En cours de livraison** | Le produit est expédié | Oui |
 | **Reçu** | Le produit est réceptionné sur chantier | Oui |
 | **Installé** | Le produit est posé ou installé | Oui |
+
+:::tip
+Suivez les commandes et livraisons depuis la page [Achats](/produits/achats-et-suivi). Fixez des dates limites avec les [échéances de validation](/projet/echeances-validation).
+:::
 
 ## Qui modifie les statuts ?
 
@@ -30,10 +36,11 @@ Les associés, administrateurs et propriétaires peuvent modifier le statut de n
 
 Les clients invités peuvent faire évoluer les produits **proposés** :
 
+- **Aimer** le produit
 - **Valider** le produit
 - **Écarter** le produit
 
-Les statuts post-validation (commandé, livraison, réception, installation) sont en général gérés par l'agence.
+Les statuts post-validation (commandé, en production, livraison, réception, installation) sont en général gérés par l'agence.
 
 ## Changer le statut d'un produit
 
@@ -45,6 +52,7 @@ Vous pouvez aussi modifier le statut de plusieurs produits en lot via [Sélectio
 
 ## Bonnes pratiques
 
-- Gardez les produits en **Masqué pour le client** tant qu'ils ne sont pas prêts à être présentés
+- Gardez les produits en **Brouillon** tant qu'ils ne sont pas prêts à être présentés
 - Passez en **Proposé** uniquement quand le produit est complet (images, prix, description)
 - Utilisez les filtres par statut pour suivre l'avancement — voir [Filtrer les produits](/produits/filtres)
+- Pour les prestations (pose, honoraires), voir [Prestations](/produits/prestations)

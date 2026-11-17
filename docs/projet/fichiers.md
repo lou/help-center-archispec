@@ -43,6 +43,21 @@ Par défaut, les fichiers ne sont pas visibles par le client.
 Pour plus de détails sur le partage client, consultez [Partage client](/projet/partage-client).
 :::
 
+## Versions d'un fichier
+
+Pour un fichier déjà présent, proposez une nouvelle version plutôt que de créer un doublon :
+
+1. Ouvrez le fichier (ou son menu)
+2. Cliquez sur **Proposer une nouvelle version**
+3. Sélectionnez le nouveau fichier
+4. Optionnellement, cochez **Suspendre les annotations des versions précédentes**
+
+Vous basculez entre les versions via le sélecteur **Versions** (v1, v2…). À la suppression, choisissez de retirer uniquement la version affichée, ou le fichier et tout son historique.
+
+:::info
+Quand les annotations des versions précédentes sont suspendues, elles restent consultables sur l’ancienne version mais ne sont plus actives pour de nouveaux échanges.
+:::
+
 ## Annoter une image ou un PDF
 
 Sur une image ou un PDF, ouvrez la prévisualisation puis cliquez sur le document pour placer un commentaire ponctuel. L'équipe et les clients peuvent répondre dans le même fil, résoudre le point ou mentionner un membre avec `@`.

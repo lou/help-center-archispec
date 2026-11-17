@@ -9,13 +9,15 @@ Définitions des termes utilisés dans Archispec et dans ce centre d'aide.
 
 ## A
 
+**Achats** — Vue transversale des produits en cours d’approvisionnement et des validations client à suivre. Voir [Achats et suivi](/produits/achats-et-suivi).
+
 **Agence** — Espace de travail partagé regroupant les membres, le catalogue et les projets.
 
 **Annotation** — Commentaire ancré sur un point précis d'une image ou d'un PDF, avec un fil de discussion interne ou externe. Voir [Annotations](/projet/annotations).
 
 **Administrateur** — Rôle intermédiaire au niveau agence ou projet. Peut gérer les membres et les paramètres, mais ne peut pas transférer la propriété ni archiver un projet.
 
-**Associé** — Rôle de base pour les membres de l'équipe. Peut travailler sur les produits, fichiers et chat.
+**Associé** — Rôle de base pour les membres de l'équipe. Peut travailler sur les produits, prestations, fichiers, sections, lots, scène 3D et chat.
 
 **Archivage** — Action qui retire un élément (projet ou produit) de la liste active sans le supprimer. L'archivage est réversible.
 
@@ -24,6 +26,10 @@ Définitions des termes utilisés dans Archispec et dans ce centre d'aide.
 ## B
 
 **Bon de commande** — Export PDF pour commander des produits auprès d'un fournisseur. Voir [Bon de commande](/produits/bon-de-commande).
+
+**Brouillon** — Statut initial d’un produit encore masqué pour le client. Voir [Statuts des produits](/produits/statuts-produits).
+
+**Budget** — Onglet projet (admins / propriétaires) pour suivre enveloppes et consommation. Voir [Budget](/projet/budget).
 
 ## C
 
@@ -41,6 +47,12 @@ Définitions des termes utilisés dans Archispec et dans ce centre d'aide.
 
 ## E
 
+**Échéance de validation** — Date limite pour que le client valide des produits ou prestations d’un lot ou d’un élément. Voir [Échéances de validation](/projet/echeances-validation).
+
+**En production** — Statut d’achat : le produit est en fabrication / préparation. Voir [Achats et suivi](/produits/achats-et-suivi).
+
+**Enveloppe** — Montant budgétaire alloué au projet ou à un lot. Voir [Budget](/projet/budget).
+
 **Entreprise** — Fiche d'une société intervenante au niveau agence, assignable comme intervenant sur un lot. Voir [Entreprises](/agence/entreprises).
 
 ## F
@@ -51,11 +63,11 @@ Définitions des termes utilisés dans Archispec et dans ce centre d'aide.
 
 ## L
 
-**Lot** — Catégorie de corps de métier dans un projet (plomberie, menuiserie, etc.). Les produits et les tâches de planning peuvent être rattachés à un lot. Voir [Gestion des lots](/projet/gestion-lots).
+**Lien de partage planning** — URL protégée par mot de passe pour consulter le planning en lecture seule sans compte. Voir [Planning](/projet/planning).
+
+**Lot** — Catégorie de corps de métier dans un projet (plomberie, menuiserie, etc.). Les produits, prestations et tâches de planning peuvent être rattachés à un lot. Voir [Gestion des lots](/projet/gestion-lots).
 
 ## M
-
-**Masqué pour le client** — Statut initial d'un produit en préparation. Le client ne le voit pas tant qu'il n'est pas passé en **Proposé**.
 
 **Mention** — Notification adressée à un membre via `@` dans le chat ou une annotation. Voir [Chat](/projet/chat).
 
@@ -69,15 +81,17 @@ Définitions des termes utilisés dans Archispec et dans ce centre d'aide.
 
 **Phase** — Regroupement de tâches de planning par étape du projet (Études, Travaux, etc.). Voir [Planning](/projet/planning).
 
-**Planning** — Vue chronologique (type Gantt) des tâches du projet, avec phases, dépendances et partage client optionnel.
+**Planning** — Vue chronologique (type Gantt) des tâches du projet, avec phases, dépendances, échéances de validation et partage client ou par lien externe.
 
 **Portail client** — Interface dédiée (`/client/...`) accessible aux clients invités sur un projet. Voir [Vue d'ensemble](/portail-client/vue-ensemble).
+
+**Prestation** — Ligne de service (pose, main-d’œuvre, étude, honoraires) validable par le client, distincte d’un produit. Voir [Prestations](/produits/prestations).
 
 **Produit** — Élément central de la spécification : mobilier, équipement, finition ou charge. Chaque produit a un statut, un prix, des images et peut être rattaché à une section et un lot.
 
 **Propriétaire** — Rôle le plus élevé. Au niveau agence ou projet, dispose de toutes les permissions dont l'archivage et le transfert de propriété.
 
-**Proposé** — Statut indiquant qu'un produit est présenté au client. Seuls les produits proposés (et au-delà dans le cycle) sont visibles côté client.
+**Proposé** — Statut indiquant qu'un produit ou une prestation est présenté au client. Seuls les éléments proposés (et au-delà dans le cycle) sont visibles côté client.
 
 ## S
 
@@ -87,8 +101,12 @@ Définitions des termes utilisés dans Archispec et dans ce centre d'aide.
 
 **Siège** — Place utilisateur incluse dans l'abonnement payant. Chaque membre actif ou invitation en attente consomme un siège.
 
-**Statut** — Étape du cycle de vie d'un produit (proposé, validé, commandé, etc.). Voir [Statuts des produits](/produits/statuts-produits).
+**Statut** — Étape du cycle de vie d'un produit (proposé, validé, commandé, en production, etc.). Voir [Statuts des produits](/produits/statuts-produits).
 
 ## T
 
 **Type** — Catégorie de produit au niveau agence, utilisée pour filtrer et classer. Voir [Types de produits](/agence/types-produits).
+
+## V
+
+**Version de fichier** — Nouvelle révision d’un fichier projet, avec historique et option de suspension des annotations des versions précédentes. Voir [Fichiers](/projet/fichiers).

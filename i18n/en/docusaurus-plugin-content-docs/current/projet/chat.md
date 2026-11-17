@@ -28,18 +28,20 @@ Project chat has two channels:
 
 Switch between the two channels using the **Internal** and **External** tabs at the top of the chat window. A counter shows unread messages on each channel.
 
-## Product-level chat
+## Product or service chat
 
-In addition to project chat, each product has its own discussion thread with the same two channels:
+In addition to project chat, each **product** and each [**service**](/produits/prestations) has its own discussion thread with the same two channels:
 
-1. Open a product sheet (side panel)
-2. Click the **Chat** tab
+1. Open the sheet (side panel)
+2. Click the **Chat** tab (or **Discussion** for a service)
 3. Switch between **Internal** (team) and **External** (team and clients)
 
-This centralizes exchanges around a specific product (validation, alternatives, technical questions) without cluttering the project's general chat.
+This centralizes exchanges around a specific item (validation, alternatives, technical questions) without cluttering the project's general chat.
 
 :::info
-Clients only access the **External** channel of product chat. The internal channel is unavailable to them.
+Clients only access the **External** channel. The internal channel is unavailable to them.
+
+You can disable project internal chat in **Settings** → features if you do not need it.
 :::
 
 ## Mention someone with @

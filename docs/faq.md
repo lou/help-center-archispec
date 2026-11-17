@@ -118,11 +118,27 @@ Onglet **3D** du panneau SketchUp → **Publier** (nouvelle version ou remplacem
 
 Une bannière apparaît dans le panneau quand une version plus récente est disponible. Sinon, retéléchargez depuis [archispec.fr/sketchup](https://archispec.fr/sketchup).
 
+## Budget et prestations
+
+### Je ne vois pas l'onglet Budget
+
+L’onglet **Budget** est réservé aux **administrateurs** et **propriétaires** du projet. Les associés n’y ont pas accès.
+
+Consultez [Budget](/projet/budget).
+
+### Comment ajouter une pose ou des honoraires ?
+
+Créez une [**prestation**](/produits/prestations) via **Ajouter** → **Prestation**, ou depuis l’onglet Budget. Une prestation peut être un montant fixe ou un pourcentage d’enveloppe.
+
+### Où suivre les commandes et livraisons ?
+
+Ouvrez la page **Achats** dans la navigation principale. Voir [Achats et suivi](/produits/achats-et-suivi).
+
 ## Portail client
 
 ### Le client ne voit pas certains produits
 
-Seuls les produits au statut **Proposé** (ou au-delà) sont visibles. Passez le produit en **Proposé** depuis la fiche produit.
+Seuls les produits au statut **Proposé** (ou au-delà) sont visibles. Passez le produit en **Proposé** depuis la fiche produit. Même logique pour les prestations visibles.
 
 ### Le client ne voit pas les prix
 
@@ -130,9 +146,13 @@ Activez le partage des prix dans les [paramètres de partage](/projet/parametres
 
 ### Le client ne voit pas l'onglet Avancement
 
-Le planning doit être **activé sur le projet** (Paramètres → Modifier → Planning) et le **partage global client** doit être activé dans l'onglet **Planning**.
+Le planning doit être **activé sur le projet** (Paramètres → Modifier → Planning) et le partage **Espace client** doit être activé dans le menu **Partager** de l'onglet **Planning**.
 
 Consultez [Planning](/projet/planning) et [Vue d'ensemble du portail client](/portail-client/vue-ensemble).
+
+### Comment partager le planning hors Archispec ?
+
+Créez un **lien externe** protégé par mot de passe depuis **Planning** → **Partager** → **Gérer les liens**. Voir [Planning](/projet/planning#liens-externes-lecture-seule).
 
 ## Fichiers et annotations
 
@@ -144,13 +164,23 @@ Consultez [Annotations](/projet/annotations).
 
 ### Mon client ne voit pas les annotations
 
-Le fichier doit être rendu visible pour le client (icône œil). Une fois le fichier visible, le client voit les annotations et peut y répondre.
+Le fichier doit être rendu visible pour le client (icône œil). Une fois le fichier visible, le client voit les annotations et peut y répondre. Si une nouvelle version a suspendu les annotations précédentes, ouvrez l’ancienne version pour les consulter.
+
+### Comment publier une nouvelle version d’un fichier ?
+
+Ouvrez le fichier → **Proposer une nouvelle version**. Voir [Fichiers](/projet/fichiers#versions-dun-fichier).
 
 ### L'onglet Planning n'apparaît pas
 
 Ouvrez **Paramètres** du projet → **Modifier**, puis activez l'option **Planning**. Le planning se configure projet par projet.
 
 Consultez [Planning](/projet/planning).
+
+## Nouveautés
+
+### Où voir les nouveautés produit ?
+
+Dans l’application, ouvrez **Nouveautés** (icône cadeau) dans la navigation. Un indicateur signale les entrées non lues.
 
 ## Besoin d'aide supplémentaire ?
 
