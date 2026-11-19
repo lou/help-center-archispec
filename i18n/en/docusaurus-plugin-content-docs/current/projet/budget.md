@@ -75,7 +75,7 @@ Budget lets you:
 ## Related articles
 
 - [Services](/produits/prestations)
-- [Price mode](/produits/mode-prix)
+- [List mode](/produits/mode-liste)
 - [Managing lots](/projet/gestion-lots)
 - [Section management](/projet/gestion-sections)
 - [Product statuses](/produits/statuts-produits)

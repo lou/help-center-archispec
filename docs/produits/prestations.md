@@ -55,8 +55,9 @@ Vous pouvez fixer une **échéance de validation** sur la prestation, ou laisser
 
 ## Afficher produits et prestations
 
-Dans la liste du projet, le menu d’affichage permet de :
+Dans la liste du projet, le menu d’options d’affichage permet de :
 
+- Passer en **Liste** pour voir les prix sur chaque ligne (voir [Mode liste](/produits/mode-liste))
 - Afficher **Produits et prestations**, **Produits uniquement** ou **Prestations uniquement**
 - **Regrouper par** zone ou par lot
 
@@ -70,6 +71,7 @@ Comme un produit, une prestation dispose :
 ## Articles liés
 
 - [Budget](/projet/budget)
+- [Mode liste](/produits/mode-liste)
 - [Statuts des produits](/produits/statuts-produits)
 - [Échéances de validation](/projet/echeances-validation)
 - [Valider des produits](/portail-client/validation-produits)

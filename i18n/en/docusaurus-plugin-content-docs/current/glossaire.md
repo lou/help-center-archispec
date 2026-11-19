@@ -67,6 +67,8 @@ Definitions of terms used in Archispec and in this help center.
 
 ## L
 
+**List mode** — Row layout for the Products list, with prices and totals always visible. See [List mode](/produits/mode-liste).
+
 **Lot** — Trade category in a project (plumbing, carpentry, etc.). Products, services, and planning tasks can be linked to a lot. See [Lot management](/projet/gestion-lots).
 
 ## M

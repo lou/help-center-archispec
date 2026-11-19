@@ -39,11 +39,11 @@ Le client ne voit que les éléments au statut **Proposé** ou au-delà dans le 
 Pour chaque produit visible, selon les [paramètres de partage](/projet/parametres-partage) :
 
 - Nom, description et images
-- Prix (si partagés)
+- Prix (si partagés — activez **Afficher les prix** dans le menu d’options d’affichage)
 - Lien web (si partagé)
 - Suivi de livraison (date estimée, numéro et lien de suivi, s'ils sont renseignés)
 
-Les [prestations](/produits/prestations) visibles apparaissent dans la même liste (ou filtrables) pour validation.
+Les [prestations](/produits/prestations) visibles apparaissent dans la même liste (ou filtrables) pour validation. Leurs prix suivent le même réglage **Afficher les prix**.
 
 ### Fichiers
 

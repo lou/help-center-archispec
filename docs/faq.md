@@ -140,9 +140,14 @@ Ouvrez la page **Achats** dans la navigation principale. Voir [Achats et suivi](
 
 Seuls les produits au statut **Proposé** (ou au-delà) sont visibles. Passez le produit en **Proposé** depuis la fiche produit. Même logique pour les prestations visibles.
 
+### Où voir les prix des produits ?
+
+Côté agence, passez en [**mode liste**](/produits/mode-liste) depuis le menu d’options d’affichage de la liste Produits. Les prix et totaux s’affichent alors sur chaque ligne.
+
 ### Le client ne voit pas les prix
 
-Activez le partage des prix dans les [paramètres de partage](/projet/parametres-partage) du projet.
+1. Activez le partage des prix dans les [paramètres de partage](/projet/parametres-partage) du projet
+2. Sur le portail client, activez **Afficher les prix** dans le menu d’options d’affichage
 
 ### Le client ne voit pas l'onglet Avancement
 

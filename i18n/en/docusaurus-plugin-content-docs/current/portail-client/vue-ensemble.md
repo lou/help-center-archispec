@@ -39,11 +39,11 @@ The client only sees items with **Proposed** status or beyond in the lifecycle (
 For each visible product, depending on [sharing settings](/projet/parametres-partage):
 
 - Name, description, and images
-- Price (if shared)
+- Price (if shared — turn on **Show prices** in the view options menu)
 - Web link (if shared)
 - Delivery tracking (estimated date, tracking number and link, when filled in)
 
-Visible [services](/produits/prestations) appear in the same list (or can be filtered) for validation.
+Visible [services](/produits/prestations) appear in the same list (or can be filtered) for validation. Their prices follow the same **Show prices** setting.
 
 ### Files
 

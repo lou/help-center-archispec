@@ -54,7 +54,7 @@ Nouveau sur Archispec ? Suivez le parcours guidé :
 - [Achats et suivi](/produits/achats-et-suivi) — Commandes, production et livraisons
 - [Filtrer les produits](/produits/filtres) — Retrouver rapidement vos sélections
 - [Sélectionner les produits](/produits/selection) — Actions en lot et exports
-- [Mode prix](/produits/mode-prix) — Visualiser les décompositions de prix
+- [Mode liste](/produits/mode-liste) — Afficher et éditer les prix en lignes
 - [Bon de commande](/produits/bon-de-commande) — Commander auprès des fournisseurs
 - [Générer un modèle 3D](/produits/generation-3d) — Modèles 3D par IA ou import
 

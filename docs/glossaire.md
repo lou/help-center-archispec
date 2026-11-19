@@ -71,6 +71,8 @@ Définitions des termes utilisés dans Archispec et dans ce centre d'aide.
 
 **Mention** — Notification adressée à un membre via `@` dans le chat ou une annotation. Voir [Chat](/projet/chat).
 
+**Mode liste** — Affichage en lignes de la liste Produits, avec prix et totaux toujours visibles. Voir [Mode liste](/produits/mode-liste).
+
 ## N
 
 **Note technique** — Champ texte interne sur un produit, jamais visible par les clients, exportable dans le carnet et la feuille de calcul.

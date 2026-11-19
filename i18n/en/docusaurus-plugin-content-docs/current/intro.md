@@ -54,7 +54,7 @@ New to Archispec? Follow the guided path:
 - [Purchases and tracking](/produits/achats-et-suivi) — Orders, production, and deliveries
 - [Filter products](/produits/filtres) — Quickly find your selections
 - [Select products](/produits/selection) — Bulk actions and exports
-- [Price mode](/produits/mode-prix) — View price breakdowns
+- [List mode](/produits/mode-liste) — View and edit prices in rows
 - [Purchase order](/produits/bon-de-commande) — Order from suppliers
 - [Generate a 3D model](/produits/generation-3d) — 3D models via AI or import
 

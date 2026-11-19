@@ -75,7 +75,7 @@ Le Budget vous permet de :
 ## Articles liés
 
 - [Prestations](/produits/prestations)
-- [Mode prix](/produits/mode-prix)
+- [Mode liste](/produits/mode-liste)
 - [Gestion des lots](/projet/gestion-lots)
 - [Gestion des sections](/projet/gestion-sections)
 - [Statuts des produits](/produits/statuts-produits)

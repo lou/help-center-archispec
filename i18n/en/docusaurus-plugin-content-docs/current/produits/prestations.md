@@ -55,8 +55,9 @@ You can set a **validation deadline** on the service, or let the lot deadline ap
 
 ## Show products and services
 
-In the project list, the view menu lets you:
+In the project list, the view options menu lets you:
 
+- Switch to **List** to see prices on each row (see [List mode](/produits/mode-liste))
 - Show **Products and services**, **Products only**, or **Services only**
 - **Group by** area or lot
 
@@ -70,6 +71,7 @@ Like a product, a service has:
 ## Related articles
 
 - [Budget](/projet/budget)
+- [List mode](/produits/mode-liste)
 - [Product statuses](/produits/statuts-produits)
 - [Validation deadlines](/projet/echeances-validation)
 - [Validate products](/portail-client/validation-produits)

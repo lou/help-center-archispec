@@ -140,9 +140,14 @@ Open **Purchases** in the main navigation. See [Purchases and tracking](/produit
 
 Only products with **Proposed** status (or beyond) are visible. Change the product to **Proposed** from the product page. Same rule for visible services.
 
+### Where can I see product prices?
+
+On the agency side, switch to [**list mode**](/produits/mode-liste) from the Products list view options menu. Prices and totals then appear on each row.
+
 ### The client can't see prices
 
-Enable price sharing in the project [sharing settings](/projet/parametres-partage).
+1. Enable price sharing in the project [sharing settings](/projet/parametres-partage)
+2. In the client portal, turn on **Show prices** in the view options menu
 
 ### The client can't see the Progress tab
 
